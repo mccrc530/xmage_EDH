@@ -1,0 +1,91 @@
+1 [PC2:18] Higure, the Still Wind
+1 [EVE:22] Glen Elendra Archmage
+1 [CMD:270] Dimir Aqueduct
+1 [RAV:197] Clutch of the Undercity
+1 [TOR:141] Tainted Isle
+1 [WWK:120] Wrexial, the Risen Deep
+1 [BFZ:109] Drana, Liberator of Malakir
+1 [CHK:283] Shizo, Death's Storehouse
+1 [ARB:25] Mask of Riddles
+1 [V16:13] Tolaria West
+4 [MIR:312] Swamp
+1 [ME4:227] Sol Ring
+1 [MOR:45] Notorious Throng
+1 [MLP:14] Phyrexian Metamorph
+1 [EXP:17] Polluted Delta
+1 [PC2:21] Ninja of the Deep Hours
+1 [CN2:38] Stunt Double
+1 [PC2:20] Mistblade Shinobi
+1 [GTC:53] Stolen Identity
+1 [VMA:243] Baleful Strix
+1 [THS:66] Thassa, God of the Sea
+1 [MRD:203] Mask of Memory
+1 [VIS:22] Vampiric Tutor
+1 [DGM:148] Dimir Guildgate
+1 [SHM:169] Memory Plunder
+1 [C15:86] Bident of Thassa
+1 [V11:8] Oona, Queen of the Fae
+1 [CMD:100] Shriekmaw
+1 [PC2:24] Sakashima's Student
+1 [SHM:168] Inkfathom Witch
+1 [C16:286] Command Tower
+1 [SHM:162] Ghastlord of Fugue
+1 [ZEN:82] Bloodchief Ascension
+1 [KTK:34] Clever Impersonator
+1 [OGW:178] Submerged Boneyard
+1 [9ED:326] Underground River
+1 [DDH:59] Countersquall
+1 [MPS:28] Sword of Feast and Famine
+1 [DDQ:70] Dismal Backwater
+1 [MPS:29] Sword of Fire and Ice
+1 [CM1:15] Rhystic Study
+1 [PC2:105] Silent-Blade Oni
+1 [INV:282] Undermine
+1 [C15:55] Thought Vessel
+1 [ODY:319] Darkwater Catacombs
+1 [ICE:61] Brainstorm
+1 [THS:225] Temple of Deceit
+1 [PC2:37] Throat Slitter
+1 [TSB:99] Shadowmage Infiltrator
+1 [V13:13] Ink-Eyes, Servant of Oni
+1 [SHM:34] Cursecatcher
+1 [BOK:163] Umezawa's Jitte
+1 [MPS:51] Sword of War and Peace
+1 [C15:56] Command Beacon
+1 [C16:316] Reliquary Tower
+1 [RTR:245] Rogue's Passage
+1 [MPS:14] Lightning Greaves
+1 [ALL:192] Lim-Dul's Vault
+1 [WWK:40] Thada Adel, Acquisitor
+1 [MM3:35] Cyclonic Rift
+1 [PC2:112] Quietus Spike
+1 [PLC:165] Urborg, Tomb of Yawgmoth
+1 [ORI:240] Sword of the Animist
+1 [MM3:219] Dimir Signet
+1 [CMD:290] Temple of the False God
+1 [C16:85] Chasm Skulker
+1 [SOI:270] Choked Estuary
+1 [C13:63] True-Name Nemesis
+1 [WWK:134] Creeping Tar Pit
+1 [WWK:137] Halimar Depths
+1 [ZEN:61] Rite of Replication
+1 [C16:267] Psychosis Crawler
+1 [8ED:67] Coastal Piracy
+1 [MOR:51] Stonybrook Banneret
+1 [APC:35] Whirlpool Rider
+1 [VMA:116] Demonic Tutor
+1 [C13:288] Faerie Conclave
+1 [5DN:21] Acquire
+1 [DGM:88] Notion Thief
+1 [EXP:2] Sunken Hollow
+1 [EXP:27] Sunken Ruins
+5 [APAC:2] Island
+1 [EXP:7] Watery Grave
+1 [SOM:226] Darkslick Shores
+1 [KLD:235] Smuggler's Copter
+1 [PC2:120] Jwar Isle Refuge
+1 [PC2:94] Glen Elendra Liege
+5 [APAC:7] Island
+SB: 1 [SHM:176] Sygg, River Cutthroat
+LAYOUT MAIN:(1,4)(COLOR_IDENTITY,false,43)|([C15:56],[C16:286],[MPS:14],[MRD:203],[EXP:17],[C16:267],[PC2:112],[C16:316],[RTR:245],[KLD:235],[ME4:227],[MPS:28],[MPS:29],[MPS:51],[ORI:240],[CMD:290],[C15:55],[BOK:163],[PLC:165])([ZEN:82],[VMA:116],[BFZ:109],[V13:13],[CHK:283],[CMD:100],[PC2:37],[VIS:22],[MIR:312],[MIR:312],[MIR:312],[MIR:312])([5DN:21],[C15:86],[ICE:61],[C16:85],[KTK:34],[8ED:67],[SHM:34],[MM3:35],[C13:288],[EVE:22],[WWK:137],[PC2:18],[PC2:20],[PC2:21],[MOR:45],[MLP:14],[CM1:15],[ZEN:61],[PC2:24],[GTC:53],[MOR:51],[CN2:38],[WWK:40],[THS:66],[V16:13],[C13:63],[APC:35],[APAC:7],[APAC:7],[APAC:7],[APAC:7],[APAC:7],[APAC:2],[APAC:2],[APAC:2],[APAC:2],[APAC:2])([VMA:243],[SOI:270],[RAV:197],[DDH:59],[WWK:134],[SOM:226],[ODY:319],[CMD:270],[DGM:148],[MM3:219],[DDQ:70],[SHM:162],[PC2:94],[SHM:168],[PC2:120],[ALL:192],[ARB:25],[SHM:169],[DGM:88],[V11:8],[TSB:99],[PC2:105],[OGW:178],[EXP:2],[EXP:27],[TOR:141],[THS:225],[9ED:326],[INV:282],[EXP:7],[WWK:120])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,50)|([SHM:176])

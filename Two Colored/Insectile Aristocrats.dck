@@ -1,0 +1,92 @@
+1 [LGN:132] Nantuko Vigilante
+1 [PCA:70] Nullmage Advocate
+1 [C13:75] Endless Cockroaches
+1 [MMQ:234] Caustic Wasps
+1 [EVE:179] Springjack Pasture
+1 [10E:360] Terramorphic Expanse
+1 [10E:162] Nantuko Husk
+1 [ROE:117] Mortician Beetle
+1 [ZEN:220] Misty Rainforest
+1 [CMD:159] Hornet Queen
+1 [C17:223] Sol Ring
+1 [ZEN:182] Scute Mob
+1 [INV:306] Phyrexian Altar
+1 [C17:32] Kindred Summons
+1 [M15:222] Obelisk of Urd
+1 [M12:91] Devouring Swarm
+1 [ZEN:229] Verdant Catacombs
+1 [V09:12] Skullclamp
+1 [SOI:236] Ulvenwald Mysteries
+1 [USG:123] Contamination
+1 [SOI:199] Crawling Sensation
+1 [RTR:229] Golgari Keyrune
+1 [BFZ:230] Blighted Fen
+1 [SOI:235] Ulvenwald Hydra
+1 [ODY:254] Nantuko Elder
+1 [SOI:234] Traverse the Ulvenwald
+1 [GTC:121] Giant Adephage
+1 [ONS:287] Symbiotic Beast
+1 [MRD:126] One Dozen Eyes
+1 [ONS:288] Symbiotic Elf
+1 [BFZ:233] Blighted Woodland
+1 [DST:76] Infested Roothold
+1 [CMD:72] Attrition
+1 [MM3:232] Cavern of Souls
+1 [C14:61] Myriad Landscape
+1 [TSP:106] Endrek Sahr, Master Breeder
+1 [MOR:73] Pack's Disdain
+1 [M15:177] Hornet Nest
+1 [ORI:170] Caustic Caterpillar
+1 [OGW:174] Mirrorpool
+1 [ISD:194] Moldgraf Monstrosity
+1 [5DN:82] Beacon of Creation
+1 [DDJ:58] Brain Weevil
+1 [ZEN:114] Vampire Hexmage
+1 [DDG:35] Grasslands
+1 [ONS:250] Broodhatch Nantuko
+1 [EMA:218] Ashnod's Altar
+1 [MM2:139] Ant Queen
+1 [AVR:173] Descendants' Path
+1 [DDE:31] Living Death
+1 [V16:4] Dark Depths
+1 [VMA:293] Bayou
+1 [PLC:69] Deadly Grub
+1 [C17:53] Herald's Horn
+1 [RAV:176] Perilous Forays
+1 [BFZ:248] Spawning Bed
+1 [CMD:174] Symbiotic Wurm
+1 [XLN:258] Unclaimed Territory
+1 [OGW:147] Zendikar Resurgent
+1 [XLN:254] Field of Ruin
+1 [KTK:248] Windswept Heath
+1 [KTK:249] Wooded Foothills
+1 [C17:56] Path of Ancestry
+1 [10E:302] Sylvan Scrying
+1 [TSP:278] Swarmyard
+1 [C15:56] Command Beacon
+4 [ZEN:240] Swamp
+8 [ZEN:249] Forest
+1 [C14:289] Crystal Vein
+1 [RTR:243] Overgrown Tomb
+1 [DDJ:64] Gleancrawler
+1 [C17:18] Kindred Dominance
+1 [JOU:65] Dictate of Erebos
+1 [HOP:75] Living Hive
+1 [MOR:148] Mutavault
+1 [MMQ:267] Saber Ants
+1 [MIR:9] Carrion
+1 [DDS:58] Coat of Arms
+1 [KTK:239] Polluted Delta
+1 [RTR:120] Deadbridge Goliath
+1 [DDK:18] Butcher of Malakir
+1 [EMN:3] Distended Mindbender
+1 [NPH:137] Hex Parasite
+1 [C16:106] Bane of the Living
+1 [DKA:156] Grim Backwoods
+1 [FEM:93] Thelonite Monk
+1 [KTK:230] Bloodstained Mire
+1 [ZEN:219] Marsh Flats
+1 [DKA:155] Evolving Wilds
+SB: 1 [C15:48] Mazirek, Kraul Death Priest
+LAYOUT MAIN:(1,9)(CMC,false,24)|([VMA:293],[BFZ:230],[BFZ:233],[KTK:230],[MM3:232],[C15:56],[C14:289],[V16:4],[DKA:155],[XLN:254],[ZEN:249],[ZEN:249],[ZEN:249],[ZEN:249],[ZEN:249],[ZEN:249],[ZEN:249],[ZEN:249],[DDG:35],[DKA:156],[ZEN:219],[OGW:174],[ZEN:220],[MOR:148],[C14:61],[RTR:243],[C17:56],[KTK:239],[BFZ:248],[EVE:179],[ZEN:240],[ZEN:240],[ZEN:240],[ZEN:240],[TSP:278],[10E:360],[XLN:258],[ZEN:229],[KTK:248],[KTK:249])([ORI:170],[NPH:137],[ROE:117],[ZEN:182],[V09:12],[C17:223],[SOI:234])([ONS:250],[MOR:73],[10E:302],[ZEN:114])([EMA:218],[CMD:72],[MIR:9],[MMQ:234],[USG:123],[SOI:199],[PLC:69],[AVR:173],[M12:91],[C13:75],[RTR:229],[C17:53],[M15:177],[ODY:254],[10E:162],[PCA:70],[INV:306],[SOI:236])([C16:106],[5DN:82],[DDJ:58],[RTR:120],[LGN:132],[MMQ:267],[ONS:288],[FEM:93])([MM2:139],[DDS:58],[JOU:65],[TSP:106],[DST:76],[DDE:31],[RAV:176])([DDJ:64],[M15:222],[MRD:126],[ONS:287],[SOI:235])([DDK:18],[GTC:121],[CMD:159],[C17:18],[C17:32],[ISD:194],[OGW:147])([EMN:3],[HOP:75],[CMD:174])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,50)|([C15:48])

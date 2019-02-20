@@ -1,0 +1,74 @@
+1 [BOK:107] Heartless Hidetsugu
+1 [LRW:274] Spinerock Knoll
+1 [THS:121] Fanatic of Mogis
+1 [CMD:111] Avatar of Slaughter
+1 [MPS:2] Combustible Gearhulk
+1 [C15:284] Forgotten Cave
+1 [C16:132] Reforge the Soul
+1 [C16:16] Charging Cinderhorn
+1 [CMD:114] Chaos Warp
+1 [C14:59] Arcane Lighthouse
+1 [EMA:132] Gamble
+1 [MLP:12] Steel Hellkite
+1 [CN2:161] Gratuitous Violence
+1 [C14:265] Ruby Medallion
+1 [ARC:41] Hellkite Charger
+1 [AVR:129] Bonfire of the Damned
+1 [5DN:75] Mana Geyser
+1 [MPS:38] Extraplanar Lens
+1 [FRF:99] Flamerush Rider
+1 [CON:143] Reliquary Tower
+1 [VMA:160] Flametongue Kavu
+1 [VMA:283] Sol Ring
+1 [JOU:112] Spawn of Thraxes
+1 [CSP:97] Skred
+1 [DIS:73] Stalking Vengeance
+1 [BOK:115] Patron of the Akki
+1 [MPS:25] Solemn Simulacrum
+1 [C14:312] Smoldering Crater
+1 [C14:277] Thran Dynamo
+1 [MPS:28] Sword of Feast and Famine
+1 [ORI:137] Chandra's Ignition
+1 [DDG:31] Loxodon Warhammer
+29 [CSP:154] Snow-Covered Mountain
+1 [BFZ:223] Hedron Archive
+1 [SOI:181] Sin Prodder
+1 [C15:55] Thought Vessel
+1 [THS:223] Nykthos, Shrine to Nyx
+1 [ROE:172] World at War
+1 [DST:67] Savage Beating
+1 [OGW:104] Chandra, Flamecaller
+1 [C14:39] Tyrant's Familiar
+1 [NPH:81] Chancellor of the Forge
+1 [C14:35] Feldon of the Third Path
+1 [C15:56] Command Beacon
+1 [RTR:245] Rogue's Passage
+1 [ME4:202] Gauntlet of Might
+1 [MPS:12] Gauntlet of Power
+1 [EMN:123] Collective Defiance
+1 [AVR:148] Malignus
+1 [WWK:81] Dragonmaster Outcast
+1 [GTC:101] Molten Primordial
+1 [DKA:99] Moonveil Dragon
+1 [ORI:240] Sword of the Animist
+1 [ISD:129] Balefire Dragon
+1 [MM3:216] Basilisk Collar
+1 [CMD:290] Temple of the False God
+1 [VMA:184] Scourge of the Throne
+1 [THS:213] Burnished Hart
+1 [MLP:8] Valakut, the Molten Pinnacle
+1 [C14:40] Volcanic Offering
+1 [CHK:175] Kiki-Jiki, Mirror Breaker
+1 [NPH:132] Caged Sun
+1 [C15:27] Magus of the Wheel
+1 [CMD:128] Magmatic Force
+1 [C13:124] Sudden Demise
+1 [RTR:110] Utvara Hellkite
+1 [C16:309] Myriad Landscape
+1 [ISD:130] Blasphemous Act
+1 [SOM:94] Koth of the Hammer
+1 [VMA:192] Wheel of Fortune
+1 [BNG:88] Archetype of Aggression
+SB: 1 [NPH:98] Urabrask the Hidden
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,43)|([THS:213],[MPS:2],[MPS:25],[MLP:12])([NPH:132],[MPS:38],[ME4:202],[MPS:12],[BFZ:223],[C14:265],[VMA:283],[MPS:28],[ORI:240],[C15:55],[C14:277],[DDG:31],[MM3:216])([BNG:88])([CMD:111],[ISD:129],[NPH:81],[C16:16],[WWK:81],[THS:121],[C14:35],[FRF:99],[VMA:160],[BOK:107],[ARC:41],[CHK:175],[CMD:128],[C15:27],[AVR:148],[GTC:101],[DKA:99],[BOK:115],[VMA:184],[SOI:181],[JOU:112],[DIS:73],[C14:39],[RTR:110])([CN2:161])([CMD:114],[DST:67],[C14:40],[CSP:97])([MLP:8],[CMD:290],[THS:223],[C15:284],[LRW:274],[RTR:245],[C14:312],[C14:59],[C16:309],[C15:56],[CON:143],[CSP:154],[CSP:154],[CSP:154],[CSP:154],[CSP:154],[CSP:154],[CSP:154],[CSP:154],[CSP:154],[CSP:154],[CSP:154],[CSP:154],[CSP:154],[CSP:154],[CSP:154],[CSP:154],[CSP:154],[CSP:154],[CSP:154],[CSP:154],[CSP:154],[CSP:154],[CSP:154],[CSP:154],[CSP:154],[CSP:154],[CSP:154],[CSP:154],[CSP:154])([SOM:94],[OGW:104])([ISD:130],[AVR:129],[ORI:137],[EMN:123],[EMA:132],[5DN:75],[C16:132],[C13:124],[VMA:192],[ROE:172])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,50)|([NPH:98])

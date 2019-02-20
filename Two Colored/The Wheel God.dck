@@ -1,0 +1,88 @@
+1 [MPS:7] Champion's Helm
+1 [EVE:25] Inundate
+1 [V10:12] Sol Ring
+1 [M12:59] Jace's Archivist
+1 [C16:131] Past in Flames
+1 [C16:91] Evacuation
+1 [C16:132] Reforge the Soul
+1 [EXP:22] Scalding Tarn
+1 [C14:309] Remote Isle
+1 [C16:331] Temple of the False God
+1 [EMA:57] Jace, the Mind Sculptor
+1 [INV:306] Phyrexian Altar
+1 [CMA:245] Command Tower
+1 [DGM:141] Izzet Cluestone
+1 [TSP:187] Wheel of Fate
+1 [GPT:152] Izzet Signet
+1 [VMA:324] Volcanic Island
+1 [POR:56] Flux
+1 [ORI:55] Displacement Wave
+1 [AKH:211] Commit // Memory
+1 [8ED:316] Teferi's Puzzle Box
+1 [DDM:1] Jace, Architect of Thought
+1 [ISD:229] Mask of Avacyn
+1 [DTK:140] Impact Tremors
+1 [ORI:221] Alhammarret's Archive
+1 [DD2:1] Jace Beleren
+1 [C15:86] Bident of Thassa
+1 [C15:271] Swiftfoot Boots
+1 [EMA:225] Mana Crypt
+1 [C16:120] Blasphemous Act
+1 [LRW:56] Cryptic Command
+1 [TPR:218] Coat of Arms
+1 [EXP:12] Steam Vents
+1 [DDO:36] Aetherize
+1 [EMA:49] Force of Will
+1 [TPR:54] Intuition
+1 [C14:312] Smoldering Crater
+1 [MED:111] Winds of Change
+1 [EMA:219] Chrome Mox
+1 [JOU:164] Temple of Epiphany
+9 [BFZ:259b] Island
+1 [EMA:218] Ashnod's Altar
+1 [VMA:294] Bazaar of Baghdad
+1 [SOK:162] Mikokoro, Center of the Sea
+1 [SHM:278] Reflecting Pool
+1 [ZEN:120] Chandra Ablaze
+1 [OGW:104] Chandra, Flamecaller
+1 [V13:12] Gilded Lotus
+1 [C15:267] Skullclamp
+1 [C15:301] Reliquary Tower
+1 [EMN:203] Geier Reach Sanitarium
+1 [USG:104] Tolarian Winds
+1 [EMN:123] Collective Defiance
+1 [M15:246] Shivan Reef
+1 [OGW:182] Wandering Fumarole
+1 [MM3:35] Cyclonic Rift
+1 [EXP:36] Ancient Tomb
+1 [AVR:227] Desolate Lighthouse
+1 [MPS-AKH:34] Omniscience
+1 [DDF:62] Elixir of Immortality
+1 [ODY:88] Laquatus's Creativity
+7 [BFZ:268b] Mountain
+1 [ISD:248] Sulfur Falls
+1 [THS:135] Purphoros, God of the Forge
+1 [C16:87] Devastation Tide
+1 [MOR:104] Shared Animosity
+1 [SOM:98] Molten Psyche
+1 [DST:143] Spellbinder
+1 [EXP:32] Cascade Bluffs
+1 [C16:104] Windfall
+1 [8ED:67] Coastal Piracy
+1 [C16:302] Izzet Boilerworks
+1 [EMA:241] Maze of Ith
+1 [DDJ:35] Lonely Sandbar
+1 [PCA:29] Whirlpool Warrior
+1 [DDE:19] Lightning Greaves
+1 [DDJ:33] Forgotten Cave
+1 [C16:309] Myriad Landscape
+1 [MED:42] Mystic Remora
+1 [RTR:47] Psychic Spiral
+1 [VMA:274] Mana Vault
+1 [VMA:276] Memory Jar
+1 [KLD:114] Fateful Showdown
+1 [VMA:192] Wheel of Fortune
+1 [LRW:179] Incendiary Command
+SB: 1 [MPS-AKH:51] The Locust God
+LAYOUT MAIN:(1,9)(CMC,false,48)|([EXP:36],[VMA:294],[EXP:32],[EMA:219],[CMA:245],[AVR:227],[DDJ:33],[EMN:203],[BFZ:259b],[BFZ:259b],[BFZ:259b],[BFZ:259b],[BFZ:259b],[BFZ:259b],[BFZ:259b],[BFZ:259b],[BFZ:259b],[C16:302],[DDJ:35],[EMA:225],[EMA:241],[SOK:162],[BFZ:268b],[BFZ:268b],[BFZ:268b],[BFZ:268b],[BFZ:268b],[BFZ:268b],[C16:309],[C15:301],[C14:309],[EXP:22],[M15:246],[C14:312],[EXP:12],[ISD:248],[JOU:164],[C16:331],[VMA:324],[OGW:182],[TSP:187],[BFZ:268b],[SHM:278])([DDF:62],[VMA:274],[MED:42],[C15:267],[V10:12],[MED:111])([MM3:35],[ORI:55],[DTK:140],[GPT:152],[DDE:19],[ISD:229],[C15:271],[USG:104])([EMA:218],[MPS:7],[EMN:123],[POR:56],[TPR:54],[DGM:141],[DD2:1],[M12:59],[SOM:98],[INV:306],[DST:143],[VMA:192],[PCA:29],[C16:104],[MOR:104])([DDO:36],[C15:86],[8ED:67],[LRW:56],[KLD:114],[DDM:1],[EMA:57],[C16:131],[THS:135],[8ED:316])([ORI:221],[C16:87],[C16:91],[EMA:49],[V13:12],[LRW:179],[ODY:88],[VMA:276],[RTR:47],[C16:132],[TPR:218])([ZEN:120],[OGW:104],[EVE:25])([C16:120])([AKH:211],[MPS-AKH:34])
+LAYOUT SIDEBOARD:(1,3)(NONE,false,50)|()()([MPS-AKH:51])

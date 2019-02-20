@@ -1,0 +1,62 @@
+1 [WMCQ:3] Thalia, Guardian of Thraben
+1 [C16:94] Propaganda
+1 [V10:12] Sol Ring
+1 [NPH:162] Torpor Orb
+1 [ME4:64] Stasis
+1 [DST:154] Trinisphere
+1 [V14:11] Smokestack
+1 [MM2:71] Bitterblossom
+1 [ME3:212] The Tabernacle at Pendrell Vale
+1 [ZEN:25] Luminarch Ascension
+1 [IMA:31] Serra Ascendant
+1 [VMA:284] Sphere of Resistance
+1 [SOM:176] Mindslaver
+1 [ROE:6] Kozilek, Butcher of Truth
+1 [PCY:39] Overburden
+1 [IMA:18] Elesh Norn, Grand Cenobite
+1 [C16:247] Chromatic Lantern
+1 [C16:68] Hushwing Gryff
+1 [C15:46] Karlov of the Ghost Council
+1 [ROE:32] Lightmine Field
+1 [CN2:86] Ghostly Prison
+1 [MM2:219] Lodestone Golem
+1 [C14:277] Thran Dynamo
+1 [MPS:26] Static Orb
+1 [MED:21] Moat
+1 [MRD:175] Gilded Lotus
+1 [MM3:224] Orzhov Signet
+1 [MRD:256] Talisman of Progress
+1 [TPR:16] Humility
+1 [WTH:47] Pendrell Mists
+1 [C15:55] Thought Vessel
+1 [EMA:234] Winter Orb
+1 [FUT:12] Magus of the Moat
+1 [E01:12] Grand Abolisher
+1 [BOK:7] Hokori, Dust Drinker
+1 [C16:278] Trading Post
+1 [MMA:176] Grand Arbiter Augustin IV
+1 [C14:5] Containment Priest
+1 [IMA:225] Pristine Talisman
+1 [IMA:99] Night of Souls' Betrayal
+1 [MMA:216] Sword of Fire and Ice
+1 [EMN:46] Thalia, Heretic Cathar
+1 [MM3:215] Azorius Signet
+1 [MMA:219] Academy Ruins
+1 [JUD:29] Test of Endurance
+1 [MM3:219] Dimir Signet
+1 [CN2:144] Phyrexian Arena
+1 [MMA:75] Dark Confidant
+1 [C17:64] Leonin Arbiter
+1 [LRW:262] Thorn of Amethyst
+1 [10E:6] Aura of Silence
+1 [V13:8] Tangle Wire
+1 [ME3:73] Nether Void
+1 [KLD:192] Aetherflux Reservoir
+1 [C13:240] Crawlspace
+1 [VMA:274] Mana Vault
+1 [DDL:1] Sun Titan
+1 [E01:90] Talisman of Dominance
+1 [VMA:272] Mana Crypt
+SB: 1 [C13:203] Oloro, Ageless Ascetic
+LAYOUT MAIN:(1,9)(CMC,false,50)|([VMA:272],[ME3:212],[MMA:219])([VMA:274],[IMA:31],[V10:12])([MM3:215],[MM2:71],[C14:5],[MMA:75],[MM3:219],[E01:12],[C15:46],[C17:64],[ZEN:25],[MM3:224],[PCY:39],[VMA:284],[ME4:64],[E01:90],[MRD:256],[WMCQ:3],[LRW:262],[C15:55],[NPH:162],[EMA:234])([10E:6],[C16:247],[C13:240],[CN2:86],[C16:68],[CN2:144],[IMA:225],[C16:94],[MPS:26],[MMA:216],[V13:8],[EMN:46],[DST:154])([KLD:192],[MMA:176],[BOK:7],[TPR:16],[ROE:32],[MM2:219],[FUT:12],[MED:21],[ME3:73],[IMA:99],[WTH:47],[V14:11],[JUD:29],[C14:277],[C16:278])([MRD:175])([DDL:1],[SOM:176])([IMA:18])([ROE:6])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,50)|([C13:203])

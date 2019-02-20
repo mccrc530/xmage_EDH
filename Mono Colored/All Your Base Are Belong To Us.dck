@@ -1,0 +1,64 @@
+1 [XLN:55] Entrancing Melody
+1 [ME3:45] Old Man of the Sea
+1 [DKA:28] Beguiler of Wills
+1 [LRW:88] Sower of Temptation
+1 [KLD:41] Confiscation Coup
+1 [TMP:90] Steal Enchantment
+1 [C16:9] Grip of Phyresis
+1 [HOU:39] Kefnet's Last Word
+1 [C14:13] Domineering Will
+1 [JUD:51] Spelljack
+1 [EMN:70] Mind's Dilation
+1 [CN2:30] Expropriate
+1 [CON:35] Telemin Performance
+1 [JOU:42] Hypnotic Siren
+1 [GPT:29] Leyline of Singularity
+1 [CSP:149] Scrying Sheets
+1 [GTC:50] Simic Manipulator
+1 [SOM:176] Mindslaver
+1 [C15:87] Blatant Thievery
+1 [SOK:36] Eternal Dominion
+1 [UDS:26] Aura Thief
+39 [CSP:152] Snow-Covered Island
+1 [EMA:42] Control Magic
+1 [FUT:44] Take Possession
+1 [EXO:30] Dominating Licid
+1 [AKH:61] Lay Claim
+1 [MPS:24] Sol Ring
+1 [CHK:72] Keiga, the Tide Star
+1 [C14:233] Caged Sun
+1 [FNMP:153] Reliquary Tower
+1 [V16:7] Memnarch
+1 [M12:67] Mind Control
+1 [TPR:57] Legacy's Allure
+1 [ALA:45] Gather Specimens
+1 [MBS:22] Corrupted Conscience
+1 [CN2:107] Desertion
+1 [8ED:103] Steal Artifact
+1 [C15:92] Dominate
+1 [BOK:163] Umezawa's Jitte
+1 [KTK:45] Kheru Spellsnatcher
+1 [MPS:53] Vedalken Shackles
+1 [DIS:23] Cytoplast Manipulator
+1 [MMQ:66] Charisma
+1 [DIS:25] Govern the Guildless
+1 [MPS:12] Gauntlet of Power
+1 [MPS:17] Mana Vault
+1 [WWK:40] Thada Adel, Acquisitor
+1 [MPS:16] Mana Crypt
+1 [ORI:78] Talent of the Telepath
+1 [M10:73] Sphinx Ambassador
+1 [USG:76] Gilded Drake
+1 [8ED:64] Bribery
+1 [ONS:108] Riptide Entrancer
+1 [RAV:45] Dream Leash
+1 [ZEN:62] Roil Elemental
+1 [DDM:19] Jace's Mindseeker
+1 [C15:9] Aethersnatch
+1 [XLN:280] Jace, Ingenious Mind-Mage
+1 [CSP:29] Commandeer
+1 [EMN:6] Emrakul, the Promised End
+1 [UDS:50] Treachery
+SB: 1 [INV:54] Empress Galina
+LAYOUT MAIN:(1,11)(CMC,false,50)|([MPS:16],[CSP:149],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[FNMP:153])([JOU:42],[MPS:17],[MPS:24])([XLN:55],[USG:76],[TPR:57],[TMP:90],[BOK:163])([MMQ:66],[C15:92],[EXO:30],[C16:9],[ME3:45],[ONS:108],[GTC:50],[WWK:40],[MPS:53])([UDS:26],[EMA:42],[DIS:23],[C14:13],[HOU:39],[KTK:45],[GPT:29],[LRW:88],[8ED:103],[ORI:78])([DKA:28],[8ED:64],[KLD:41],[MBS:22],[CN2:107],[RAV:45],[MPS:12],[M12:67],[CON:35],[UDS:50])([C15:9],[C14:233],[ALA:45],[DIS:25],[DDM:19],[XLN:280],[CHK:72],[SOM:176],[ZEN:62],[JUD:51])([C15:87],[CSP:29],[AKH:61],[V16:7],[EMN:70],[M10:73],[FUT:44])([CN2:30])([SOK:36])([EMN:6])
+LAYOUT SIDEBOARD:(1,1)(CARD_TYPE,false,50)|([INV:54])

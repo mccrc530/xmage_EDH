@@ -1,0 +1,78 @@
+1 [ROE:44] Soul's Attendant
+1 [M12:19] Grand Abolisher
+1 [BNG:4] Archetype of Courage
+1 [C17:223] Sol Ring
+1 [CMD:21] Mother of Runes
+1 [ISD:34] Spare from Evil
+1 [M15:222] Obelisk of Urd
+1 [IMA:31] Serra Ascendant
+1 [V09:13] Strip Mine
+1 [GTC:12] Frontline Medic
+25 [EURO:9] Plains
+1 [ORI:11] Consul's Lieutenant
+1 [C14:260] Pearl Medallion
+1 [SOI:43] Thalia's Lieutenant
+1 [BFZ:24] Expedition Envoy
+1 [MM3:19] Ranger of Eos
+1 [SOI:44] Thraben Inspector
+1 [AER:164] Metallic Mimic
+1 [EMA:8] Elite Vanguard
+1 [AVR:17] Devout Chaplain
+1 [MM3:239] Marsh Flats
+1 [AVR:10] Cathars' Crusade
+1 [FRF:18] Mardu Woe-Reaper
+1 [JOU:1] Aegis of the Gods
+1 [M10:207] Coat of Arms
+1 [M14:22] Imposing Sovereign
+1 [ISD:17] Geist-Honored Monk
+1 [C17:8] Teferi's Protection
+1 [TSP:272] Flagstones of Trokair
+1 [CHK:33] Masako the Humorless
+1 [MM2:25] Mirran Crusader
+1 [CM1:10] Loyal Retainers
+1 [MBS:1] Accorder Paladin
+1 [M12:23] Honor of the Pure
+1 [MM3:229] Arid Mesa
+1 [CHR:57] Abu Ja'far
+1 [DKA:24] Thalia, Guardian of Thraben
+1 [MBS:8] Hero of Bladehold
+1 [ISD:6] Champion of the Parish
+1 [THS:33] Spear of Heliod
+1 [THS:32] Soldier of the Pantheon
+1 [C17:52] Heirloom Blade
+1 [SOI:1] Always Watching
+1 [CMD:253] Lightning Greaves
+1 [JR:52] Land Tax
+1 [E01:15] Mentor of the Meek
+1 [KTK:248] Windswept Heath
+1 [C13:16] Kongming, 'Sleeping Dragon'
+1 [DDG:6] Knight of the White Orchid
+1 [C14:5] Containment Priest
+1 [ISD:240] Ghost Quarter
+1 [DDF:22] Swords to Plowshares
+1 [EMN:46] Thalia, Heretic Cathar
+1 [M10:34] Soul Warden
+1 [SOI:21] Hanweir Militia Captain
+1 [SOI:22] Hope Against Hope
+1 [AVR:36] Silverblade Paladin
+1 [RTR:17] Precinct Captain
+1 [ARC:4] Path to Exile
+1 [AVR:33] Riders of Gavony
+1 [SOI:16] Eerie Interlude
+1 [EMA:248] Wasteland
+1 [DDQ:12] Gather the Townsfolk
+1 [KTK:233] Flooded Strand
+1 [CN2:22] Recruiter of the Guard
+1 [9ED:54] Weathered Wayfarer
+1 [C15:1] Bastion Protector
+1 [DTK:2] Anafenza, Kin-Tree Spirit
+1 [ORI:23] Kytheon, Hero of Akros
+1 [M14:228] Mutavault
+1 [M13:20] Intrepid Hero
+1 [EMN:38] Repel the Abominable
+1 [CN2:23] Sanctum Prelate
+1 [CHK:259] Konda's Banner
+1 [DTK:10] Dragon Hunter
+SB: 1 [M13:23] Odric, Master Tactician
+LAYOUT MAIN:(1,7)(CMC,false,31)|([MM3:229],[TSP:272],[KTK:233],[ISD:240],[MM3:239],[M14:228],[EURO:9],[EURO:9],[EURO:9],[EURO:9],[EURO:9],[EURO:9],[EURO:9],[EURO:9],[EURO:9],[EURO:9],[EURO:9],[EURO:9],[EURO:9],[EURO:9],[EURO:9],[EURO:9],[EURO:9],[EURO:9],[EURO:9],[EURO:9],[EURO:9],[EURO:9],[EURO:9],[EURO:9],[EURO:9],[V09:13],[EMA:248],[KTK:248])([CHR:57],[ISD:6],[DTK:10],[EMA:8],[BFZ:24],[ORI:23],[JR:52],[FRF:18],[CMD:21],[ARC:4],[IMA:31],[C17:223],[THS:32],[M10:34],[ROE:44],[DDF:22],[SOI:44],[9ED:54])([MBS:1],[JOU:1],[DTK:2],[ORI:11],[C14:5],[DDQ:12],[M12:19],[SOI:21],[M12:23],[M14:22],[DDG:6],[CHK:259],[CMD:253],[AER:164],[C14:260],[RTR:17],[EMN:38],[ISD:34],[SOI:43],[DKA:24])([SOI:1],[BNG:4],[C15:1],[AVR:17],[SOI:16],[GTC:12],[C17:52],[SOI:22],[M13:20],[CM1:10],[CHK:33],[E01:15],[MM2:25],[CN2:22],[CN2:23],[AVR:36],[THS:33],[C17:8],[EMN:46])([MBS:8],[C13:16],[MM3:19],[AVR:33])([AVR:10],[M10:207],[ISD:17])([M15:222])
+LAYOUT SIDEBOARD:(1,1)(COLOR,false,50)|([M13:23])

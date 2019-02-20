@@ -1,0 +1,89 @@
+1 [RAV:153] Birds of Paradise
+1 [MM3:122] Craterhoof Behemoth
+1 [MM3:200] Voice of Resurgence
+1 [M11:228] Sunpetal Grove
+1 [AKH:5] Aven Mindcensor
+1 [ORI:4] Archangel of Tithes
+1 [C16:336] Windbrisk Heights
+1 [VMA:325] Yavimaya Hollow
+1 [MM3:13] Linvala, Keeper of Silence
+1 [BNG:148] Karametra, God of Harvests
+7 [ZEN:269] Forest
+1 [USG:321] Gaea's Cradle
+1 [HOU:122] Majestic Myriarch
+1 [BFZ:234] Canopy Vista
+1 [CHK:205] Dosan the Falling Leaf
+1 [SOI:274] Fortified Village
+1 [CMD:182] Aura Shards
+1 [AVR:170] Bower Passage
+1 [GTC:6] Blind Obedience
+1 [CHK:277] Hall of the Bandit Lord
+1 [CMD:140] Acidic Slime
+1 [MMQ:324] Rishadan Port
+1 [RAV:25] Loxodon Gatekeeper
+1 [C16:286] Command Tower
+1 [EXP:10] Temple Garden
+1 [KLD:5] Authority of the Consuls
+1 [CN2:195] Voyaging Satyr
+1 [MPS:25] Solemn Simulacrum
+1 [C16:328] Sungrass Prairie
+1 [SOI:203] Duskwatch Recruiter
+1 [DDG:34] Oblivion Ring
+1 [AVR:210] Sigarda, Host of Herons
+1 [DDH:10] Qasali Pridemage
+1 [AKH:247] Scattered Groves
+1 [CHK:239] Sakura-Tribe Elder
+1 [DKA:24] Thalia, Guardian of Thraben
+1 [ORI:40] Vryn Wingmare
+1 [ISD:239] Gavony Township
+1 [THS:223] Nykthos, Shrine to Nyx
+1 [EMA:234] Winter Orb
+1 [MMA:26] Reveillark
+1 [WWK:144] Stirring Wildwood
+1 [E01:12] Grand Abolisher
+1 [BNG:27] Spirit of the Labyrinth
+1 [CMD:177] Veteran Explorer
+1 [BOK:7] Hokori, Dust Drinker
+1 [E01:15] Mentor of the Meek
+1 [C14:9] Jazal Goldmane
+1 [EXP:40] Horizon Canopy
+1 [10E:349] Brushland
+1 [MPS:14] Lightning Greaves
+1 [ZEN:201] Expedition Map
+1 [MM2:16] Elesh Norn, Grand Cenobite
+1 [EMN:46] Thalia, Heretic Cathar
+1 [EMN:47] Thalia's Lancers
+1 [AVR:189] Primal Surge
+1 [MM2:200] Wilt-Leaf Liege
+1 [BNG:165] Temple of Plenty
+1 [ORI:240] Sword of the Animist
+1 [MM2:248] Selesnya Sanctuary
+1 [TOR:130] Krosan Restorer
+1 [LRW:262] Thorn of Amethyst
+1 [SOM:14] Leonin Arbiter
+1 [MM3:134] Scavenging Ooze
+1 [DIS:90] Protean Hulk
+1 [C15:60] Aura of Silence
+1 [C16:142] Beastmaster Ascension
+1 [EMA:22] Mother of Runes
+1 [C16:301] Homeward Path
+1 [ZEN:172] Oracle of Mul Daya
+1 [EXP:30] Wooded Bastion
+1 [EMA:241] Maze of Ith
+1 [MMA:144] Eternal Witness
+1 [VMA:316] Strip Mine
+8 [BFZ:253b] Plains
+1 [C15:3] Grasp of Fate
+1 [CN2:22] Recruiter of the Guard
+1 [9ED:54] Weathered Wayfarer
+1 [VMA:278] Null Rod
+1 [VMA:311] Savannah
+1 [MM3:25] Stony Silence
+1 [SOM:228] Razorverge Thicket
+1 [DDL:1] Sun Titan
+1 [ORI:21] Knight of the White Orchid
+1 [CHR:32] Concordant Crossroads
+1 [MMA:20] Kataki, War's Wage
+SB: 1 [LRW:248] Gaddock Teeg
+LAYOUT MAIN:(1,10)(CMC,false,43)|([10E:349],[BFZ:234],[C16:286],[ZEN:269],[ZEN:269],[ZEN:269],[ZEN:269],[ZEN:269],[ZEN:269],[ZEN:269],[SOI:274],[USG:321],[ISD:239],[CHK:277],[C16:301],[EXP:40],[EMA:241],[THS:223],[BFZ:253b],[BFZ:253b],[BFZ:253b],[BFZ:253b],[BFZ:253b],[BFZ:253b],[BFZ:253b],[BFZ:253b],[SOM:228],[MMQ:324],[VMA:311],[AKH:247],[MM2:248],[WWK:144],[VMA:316],[C16:328],[M11:228],[EXP:10],[BNG:165],[C16:336],[EXP:30],[VMA:325])([KLD:5],[RAV:153],[CHR:32],[ZEN:201],[EMA:22],[CMD:177],[9ED:54])([GTC:6],[AVR:170],[SOI:203],[E01:12],[MMA:20],[ORI:21],[SOM:14],[MPS:14],[VMA:278],[DDH:10],[CHK:239],[MM3:134],[BNG:27],[MM3:25],[ORI:240],[DKA:24],[LRW:262],[MM3:200],[CN2:195],[EMA:234])([CMD:182],[C15:60],[AKH:5],[C16:142],[CHK:205],[MMA:144],[C15:3],[TOR:130],[E01:15],[DDG:34],[CN2:22],[EMN:46],[ORI:40])([ORI:4],[BOK:7],[C14:9],[MM3:13],[RAV:25],[ZEN:172],[MPS:25],[MM2:200])([CMD:140],[BNG:148],[HOU:122],[MMA:26],[AVR:210],[EMN:47])([DDL:1])([MM2:16],[DIS:90])([MM3:122])([AVR:189])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([LRW:248])

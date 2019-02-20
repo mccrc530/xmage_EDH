@@ -1,0 +1,83 @@
+1 [ONS:312] Barren Moor
+1 [5DN:165] Wayfarer's Bauble
+1 [5ED:388] Mana Vault
+1 [9ED:293] Defense Grid
+1 [ALA:63] Ad Nauseam
+1 [FUT:78] Slaughter Pact
+1 [WWK:123] Everflowing Chalice
+1 [5ED:2] Animate Dead
+1 [ICE:6] Dance of the Dead
+1 [STH:132] Mox Diamond
+1 [ICE:48] Songs of the Damned
+1 [ROE:115] Inquisition of Kozilek
+1 [TSP:262] Prismatic Lens
+1 [USG:322] Phyrexian Tower
+1 [USG:323] Polluted Mire
+1 [ALL:172] Shield Sphere
+1 [TMP:305] Ancient Tomb
+1 [MIR:272] Lion's Eye Diamond
+1 [MRD:286] Vault of Whispers
+1 [VIS:145] Helm of Awakening
+1 [AER:167] Ornithopter
+1 [RTR:228] Codex Shredder
+1 [PLS:42] Diabolic Intent
+1 [5DN:134] Krark-Clan Ironworks
+1 [MMQ:129] Dark Ritual
+1 [XLN:105] Duress
+1 [ORI:90] Dark Petition
+1 [SOM:174] Memnite
+1 [M11:219] Voltaic Key
+1 [SCG:75] Tendrils of Agony
+1 [MMQ:322] Peat Bog
+1 [MMQ:168] Unmask
+1 [CHK:273] Boseiju, Who Shelters All
+1 [6ED:161] Vampiric Tutor
+1 [TSP:104] Dread Return
+1 [USG:319] Blasted Landscape
+1 [6ED:322] Crystal Vein
+1 [3ED:235] Basalt Monolith
+1 [10E:314] Chromatic Star
+1 [USG:157] Skirge Familiar
+1 [USG:151] Rain of Filth
+1 [M14:209] Elixir of Immortality
+1 [CHK:268] Sensei's Divining Top
+1 [TMP:298] Scroll Rack
+1 [M13:227] Reliquary Tower
+1 [ICE:301] Jeweled Amulet
+1 [THS:107] Thoughtseize
+1 [3ED:274] Sol Ring
+1 [EXO:143] City of Traitors
+1 [NPH:71] Praetor's Grasp
+1 [6ED:324] Ebon Stronghold
+1 [ZEN:201] Expedition Map
+1 [4ED:363] Strip Mine
+1 [M15:248] Urborg, Tomb of Yawgmoth
+1 [MPS:16] Mana Crypt
+1 [TOR:51] Cabal Ritual
+1 [SOM:61] Exsanguinate
+1 [ODY:154] Overeager Apprentice
+1 [3ED:13] Demonic Tutor
+1 [SOM:179] Mox Opal
+1 [BNG:162] Springleaf Drum
+1 [VIS:152] Phyrexian Walker
+1 [MRD:151] Chromatic Sphere
+1 [MRD:152] Chrome Mox
+1 [PLC:72] Imp's Mischief
+1 [EXO:55] Culling the Weak
+1 [M10:220] Spellbook
+1 [TMP:284] Lotus Petal
+1 [M15:242] Darksteel Citadel
+1 [JUD:62] Cabal Therapy
+1 [ALL:185] Lake of the Dead
+1 [TSB:109] Feldon's Cane
+20 [RIX:194] Swamp
+1 [M15:237] Tormod's Crypt
+1 [USG:134] Exhume
+1 [LRW:259] Rings of Brighthearth
+1 [TMP:45] Reanimate
+1 [USG:171] Yawgmoth's Will
+1 [VIS:14] Necromancy
+1 [ULG:126] Grim Monolith
+SB: 1 [DTK:120] Sidisi, Undead Vizier
+LAYOUT MAIN:(1,6)(CMC,false,43)|([TMP:305],[ONS:312],[USG:319],[CHK:273],[EXO:143],[6ED:322],[M15:242],[6ED:324],[ALL:185],[MMQ:322],[USG:322],[USG:323],[M13:227],[4ED:363],[RIX:194],[RIX:194],[RIX:194],[RIX:194],[RIX:194],[RIX:194],[RIX:194],[RIX:194],[RIX:194],[RIX:194],[RIX:194],[RIX:194],[RIX:194],[RIX:194],[RIX:194],[RIX:194],[RIX:194],[RIX:194],[RIX:194],[RIX:194],[M15:248],[MRD:286],[MRD:152],[WWK:123],[ICE:301],[MIR:272],[TMP:284],[MPS:16],[STH:132],[SOM:179],[M10:220],[M15:237],[FUT:78],[SOM:174],[AER:167],[VIS:152],[ALL:172])([MRD:151],[10E:314],[RTR:228],[M14:209],[ZEN:201],[TSB:109],[5ED:388],[CHK:268],[3ED:274],[BNG:162],[M11:219],[5DN:165],[EXO:55],[MMQ:129],[USG:151],[ICE:48],[6ED:161],[JUD:62],[XLN:105],[ROE:115],[TMP:45],[THS:107])([9ED:293],[ULG:126],[VIS:145],[TSP:262],[TMP:298],[TOR:51],[PLC:72],[5ED:2],[ICE:6],[3ED:13],[PLS:42],[USG:134],[SOM:61])([3ED:235],[LRW:259],[VIS:14],[NPH:71],[USG:171],[ODY:154])([5DN:134],[TSP:104],[SCG:75],[MMQ:168])([ALA:63],[ORI:90],[USG:157])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,50)|([DTK:120])

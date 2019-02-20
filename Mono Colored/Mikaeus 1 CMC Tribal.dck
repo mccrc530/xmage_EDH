@@ -1,0 +1,73 @@
+1 [ROE:44] Soul's Attendant
+1 [ROE:47] Student of Warfare
+1 [AKH:7] Cartouche of Solidarity
+1 [4ED:34] Land Tax
+1 [A25:35] Swords to Plowshares
+1 [CMD:21] Mother of Runes
+1 [MPRP:50] Brave the Elements
+1 [A25:33] Savannah Lions
+1 [HOP:7] Soul Warden
+1 [IMA:31] Serra Ascendant
+1 [ORI:223] Bonded Construct
+1 [BFZ:24] Expedition Envoy
+1 [BNG:13] Glimpse the Sun God
+1 [M11:30] Silence
+1 [EMA:8] Elite Vanguard
+1 [VMA:283] Sol Ring
+1 [GTC:7] Boros Elite
+1 [FRF:18] Mardu Woe-Reaper
+1 [PLC:12] Rebuff the Wicked
+1 [CHK:275] Eiganjo Castle
+1 [ONS:49] Piety Charm
+1 [RIX:21] Skymarcher Aspirant
+1 [ONS:45] Nova Cleric
+1 [DDL:18] Daily Regimen
+1 [DDF:6] Mosquito Guard
+1 [KLD:5] Authority of the Consuls
+1 [DTK:36] Secure the Wastes
+1 [MM2:213] Expedition Map
+1 [PLS:11] Orim's Chant
+1 [CHR:57] Abu Ja'far
+1 [ISD:6] Champion of the Parish
+1 [SOM:167] Infiltration Lens
+1 [THS:32] Soldier of the Pantheon
+1 [THS:223] Nykthos, Shrine to Nyx
+1 [EMA:232] Sensei's Divining Top
+1 [CMD:4] Alliance of Arms
+1 [M13:13] Erase
+1 [C15:267] Skullclamp
+1 [CMA:24] Soul Snare
+1 [EMA:231] Relic of Progenitus
+1 [CSP:15] Martyr of Sands
+1 [MPRP:27] Mana Tithe
+1 [GRC:14] Cenn's Tactician
+1 [EXO:17] Reconnaissance
+1 [USG:9] Defensive Formation
+30 [DDG:41] Plains
+1 [GRC:2] Icatian Javelineers
+1 [ARC:4] Path to Exile
+1 [SOI:20] Gryff's Boon
+1 [DTK:240] Keeper of the Lens
+1 [EMA:9] Enlightened Tutor
+1 [XLN:22] Legion's Landing
+1 [KLD:194] Animation Module
+1 [JOU:15] Launch the Fleet
+1 [KLD:32] Toolcraft Exemplar
+1 [TSP:20] Gaze of Justice
+1 [5DN:19] Steelshaper's Gift
+1 [EMA:241] Maze of Ith
+1 [VMA:28] Gerrard's Battle Cry
+1 [10E:338] Pithing Needle
+1 [VMA:316] Strip Mine
+1 [9ED:54] Weathered Wayfarer
+1 [ZEN:213] Emeria, the Sky Ruin
+1 [GRC:66] Signal Pest
+1 [ORI:23] Kytheon, Hero of Akros
+1 [VMA:274] Mana Vault
+1 [MPRP:18] Condemn
+1 [CHK:19] Isamaru, Hound of Konda
+1 [DTK:10] Dragon Hunter
+1 [AER:154] Hope of Ghirapur
+SB: 1 [ISD:23] Mikaeus, the Lunarch
+LAYOUT MAIN:(2,8)(CARD_TYPE,false,43)|([DDG:41],[DDG:41],[DDG:41],[DDG:41],[DDG:41],[DDG:41],[DDG:41],[DDG:41],[DDG:41],[DDG:41])([ZEN:213],[THS:223],[VMA:316],[CHK:275],[EMA:241])([MM2:213],[4ED:34],[VMA:274],[VMA:283])([GRC:66])([CSP:15],[ONS:45],[CMD:21],[DDF:6],[9ED:54],[GRC:14],[GRC:2],[ORI:23],[AER:154])([THS:32],[IMA:31],[HOP:7],[ROE:44],[CHR:57],[DTK:240])([FRF:18],[CHK:19],[BFZ:24],[A25:33],[EMA:8],[ORI:223],[RIX:21],[DTK:10])([GTC:7],[ROE:47],[KLD:32],[ISD:6])([DDG:41],[DDG:41],[DDG:41],[DDG:41],[DDG:41],[DDG:41],[DDG:41],[DDG:41],[DDG:41],[DDG:41])([DDG:41],[DDG:41],[DDG:41],[DDG:41],[DDG:41],[DDG:41],[DDG:41],[DDG:41],[DDG:41],[DDG:41])([XLN:22],[KLD:194],[DTK:36],[JOU:15],[CMD:4],[VMA:28],[DDL:18])([BNG:13],[KLD:5],[MPRP:50],[SOI:20],[EXO:17])([TSP:20],[ARC:4],[CMA:24],[A25:35],[M13:13],[EMA:231],[MPRP:18],[10E:338])([EMA:9],[5DN:19],[C15:267],[EMA:232],[SOM:167])([PLC:12],[MPRP:27],[AKH:7],[M11:30],[PLS:11],[USG:9],[ONS:49])()
+LAYOUT SIDEBOARD:(1,1)(CMC,false,50)|([ISD:23])

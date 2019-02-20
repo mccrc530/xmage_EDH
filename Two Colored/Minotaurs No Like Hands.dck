@@ -1,0 +1,84 @@
+1 [XLN:116] Raiders' Wake
+1 [ONS:313] Bloodstained Mire
+1 [THS:121] Fanatic of Mogis
+1 [RIX:201] Angrath, Minotaur Pirate
+1 [AKH:78] Archfiend of Ifnir
+1 [ROE:156] Lord of Shatterskull Pass
+1 [FUT:175] Graven Cairns
+1 [ALA:69] Cunning Lethemancer
+1 [TOR:142] Tainted Peak
+1 [RIX:204] Angrath's Fury
+1 [DIS:179] Rix Maadi, Dungeon Palace
+1 [EMN:146] Stromkirk Occultist
+1 [ME4:227] Sol Ring
+1 [BNG:103] Oracle of Bones
+1 [USG:166] Victimize
+1 [ONS:161] Patriarch's Bidding
+1 [AER:164] Metallic Mimic
+1 [SOI:272] Foreboding Ruins
+1 [BNG:96] Felhide Spiritbinder
+1 [DGM:104] Sire of Insanity
+1 [MBS:53] Sangromancer
+1 [ODY:206] Minotaur Explorer
+1 [ODY:326] Shadowblood Ridge
+1 [AVR:97] Descent into Madness
+1 [CON:117] Malfegor
+1 [ICE:352] Sulfurous Springs
+1 [DIS:171] Blood Crypt
+1 [CMD:269] Command Tower
+1 [TSP:101] Dark Withering
+1 [ARC:114] Rakdos Signet
+1 [HOU:85] Burning-Fist Minotaur
+1 [TOR:86] Strength of Lunacy
+1 [SOI:126] Murderous Compulsion
+1 [BNG:153] Ragemonger
+1 [THS:195] Kragma Warcaller
+1 [AKH:202] Merciless Javelineer
+1 [MRD:255] Talisman of Indulgence
+1 [ORI:131] Avaricious Dragon
+1 [ONS:133] Cover of Darkness
+1 [HML:85] Anaba Shaman
+1 [JOU:70] Felhide Petrifier
+1 [BNG:151] Mogis, God of Slaughter
+1 [HML:86] Anaba Spirit Crafter
+1 [AKH:121] Bloodrage Brawler
+1 [C17:53] Herald's Horn
+1 [JUD:77] Anger
+1 [SHM:199] Torrent of Souls
+1 [XLN:251] Vanquisher's Banner
+1 [TSP:97] Call to the Netherworld
+1 [C17:56] Path of Ancestry
+1 [PLC:63] Big Game Hunter
+1 [M15:122] Waste Not
+1 [TOR:97] Fiery Temper
+1 [ME2:225] Badlands
+1 [AKH:117] Ahn-Crop Crasher
+1 [AVR:226] Cavern of Souls
+1 [C17:18] Kindred Dominance
+1 [AKH:239] Canyon Slough
+1 [ISD:247] Stensia Bloodhall
+1 [BNG:164] Temple of Malice
+1 [HOU:104] Neheb, the Eternal
+10 [ONS:340] Swamp
+1 [AKH:155] Warfire Javelineer
+10 [ONS:343] Mountain
+1 [THS:138] Rageblood Shaman
+1 [MOR:143] Door of Destinies
+1 [FUT:66] Gibbering Descent
+1 [EXO:131] Coat of Arms
+1 [TSP:126] Psychotic Episode
+1 [C17:27] Kindred Charge
+1 [M10:223] Dragonskull Summit
+1 [M12:201] Adaptive Automaton
+1 [9ED:146] Mindslicer
+1 [WWK:139] Lavaclaw Reaches
+1 [AKH:229] Hazoret's Monument
+1 [HOU:64] Grisly Survivor
+1 [RIX:152] Angrath, the Flame-Chained
+1 [JOU:96] Flurry of Horns
+1 [SOI:99] Asylum Visitor
+1 [SOM:224] Blackcleave Cliffs
+1 [BFZ:247] Smoldering Marsh
+SB: 1 [AKH:203] Neheb, the Worthy
+LAYOUT MAIN:(1,8)(CMC,false,43)|([ME2:225],[SOM:224],[DIS:171],[AKH:239],[AVR:226],[CMD:269],[M10:223],[SOI:272],[FUT:175],[WWK:139],[C17:56],[ODY:326],[BFZ:247],[ISD:247],[ICE:352],[TOR:142],[BNG:164],[DIS:179],[ONS:313],[ONS:343],[ONS:343],[ONS:343],[ONS:343],[ONS:343],[ONS:343],[ONS:343],[ONS:343],[ONS:343],[ONS:343],[ONS:340],[ONS:340],[ONS:340],[ONS:340],[ONS:340],[ONS:340],[ONS:340],[ONS:340],[ONS:340],[ONS:340])([TSP:97],[ME4:227])([SOI:99],[AKH:121],[HOU:85],[ONS:133],[AER:164],[ODY:206],[SOI:126],[ARC:114],[TOR:86],[MRD:255],[M15:122])([M12:201],[AKH:117],[PLC:63],[ALA:69],[JOU:70],[TOR:97],[HOU:64],[AKH:229],[C17:53],[TSP:126],[THS:138],[BNG:153],[EMN:146],[USG:166])([HML:85],[HML:86],[JUD:77],[ORI:131],[MOR:143],[THS:121],[BNG:96],[ROE:156],[AKH:202],[9ED:146],[BNG:151],[BNG:103],[XLN:116],[MBS:53],[AKH:155])([RIX:204],[RIX:152],[AKH:78],[EXO:131],[AVR:97],[JOU:96],[THS:195],[HOU:104],[ONS:161],[SHM:199],[XLN:251])([RIX:201],[TSP:101],[FUT:66],[C17:27],[CON:117],[DGM:104])([C17:18])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,50)|([AKH:203])

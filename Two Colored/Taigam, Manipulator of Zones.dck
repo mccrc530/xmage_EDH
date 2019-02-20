@@ -1,0 +1,87 @@
+1 [MRD:36] Fatespinner
+1 [C16:290] Dimir Aqueduct
+1 [MPS:7] Champion's Helm
+1 [AER:49] Whir of Invention
+1 [EMA:98] Necropotence
+1 [TSP:71] Paradox Haze
+1 [C16:335] Underground River
+1 [ARC:104] Dimir Signet
+1 [M15:110] Ob Nixilis, Unshackled
+1 [RTR:226] Chromatic Lantern
+1 [EXP:17] Polluted Delta
+1 [VMA:323] Underground Sea
+1 [VMA:126] Living Death
+1 [V13:7] Thran Dynamo
+8 [BFZ:258b] Island
+1 [PCA:128] Tainted Isle
+1 [VMA:283] Sol Ring
+1 [C15:85] Aetherize
+1 [CMD:74] Buried Alive
+1 [8ED:116] Zur's Weirding
+1 [GTC:229] Glaring Spotlight
+1 [C13:86] Phyrexian Delver
+1 [ALA:51] Mindlock Orb
+1 [CMD:102] Stitch Together
+1 [EMA:87] Entomb
+1 [C16:286] Command Tower
+1 [CHK:272] Uba Mask
+1 [ROE:7] It That Betrays
+1 [DIS:30] Psychic Possession
+1 [C16:289] Darkwater Catacombs
+1 [KTK:36] Dig Through Time
+1 [MM3:44] Mystical Teachings
+1 [VMA:136] Reanimate
+1 [MRD:253] Talisman of Dominance
+1 [DKA:69] Increasing Ambition
+1 [ORI:84] Willbreaker
+1 [AKH:243] Fetid Pools
+1 [C15:55] Thought Vessel
+1 [EMA:112] Vampiric Tutor
+1 [5DN:144] Possessed Portal
+1 [THS:225] Temple of Deceit
+1 [EMA:113] Victimize
+1 [E01:94] Drowned Catacomb
+1 [C16:273] Solemn Simulacrum
+1 [PD3:23] Dread Return
+1 [10E:83] Evacuation
+1 [C16:276] Swiftfoot Boots
+1 [V13:12] Gilded Lotus
+1 [AKH:97] Liliana, Death's Majesty
+1 [NPH:148] Omen Machine
+1 [MOR:65] Maralen of the Mornsong
+1 [C16:316] Reliquary Tower
+1 [ISD:55] Forbidden Alchemy
+1 [NPH:73] Sheoldred, Whispering One
+1 [MPS:11] Crucible of Worlds
+9 [BFZ:264b] Swamp
+1 [MM3:35] Cyclonic Rift
+1 [M15:248] Urborg, Tomb of Yawgmoth
+1 [VMA:104] Animate Dead
+1 [HOU:145] The Scarab God
+1 [GTC:33] Diluvian Primordial
+1 [NPH:37] Jin-Gitaxias, Core Augur
+1 [GTC:75] Sepulchral Primordial
+1 [HOP:132] Cabal Coffers
+1 [ME2:58] Personal Tutor
+1 [SOI:271] Drownyard Temple
+1 [SOI:270] Choked Estuary
+1 [EMA:62] Mystical Tutor
+1 [EMA:68] Quiet Speculation
+1 [DDO:59] Temple of the False God
+1 [C17:117] Necromantic Selection
+1 [C17:238] Bojuka Bog
+1 [EMN:6] Emrakul, the Promised End
+1 [VMA:116] Demonic Tutor
+1 [C16:107] Beacon of Unrest
+1 [DDE:19] Lightning Greaves
+1 [VMA:67] Fact or Fiction
+1 [C14:298] Ghost Quarter
+1 [C16:309] Myriad Landscape
+1 [EXP:2] Sunken Hollow
+1 [EXP:27] Sunken Ruins
+1 [VMA:274] Mana Vault
+1 [EXP:7] Watery Grave
+1 [VMA:272] Mana Crypt
+SB: 1 [C17:47] Taigam, Sidisi's Hand
+LAYOUT MAIN:(1,12)(CMC,false,48)|([C16:286],[VMA:272],[C16:316],[SOI:270],[E01:94],[AKH:243],[EXP:17],[EXP:2],[VMA:323],[EXP:7],[THS:225],[C16:290],[C16:335],[PCA:128],[C17:238],[DDO:59],[M15:248],[HOP:132],[C16:289],[EXP:27],[SOI:271],[C14:298],[C16:309],[BFZ:264b],[BFZ:264b],[BFZ:264b],[BFZ:264b],[BFZ:264b],[BFZ:264b],[BFZ:264b],[BFZ:264b],[BFZ:264b],[BFZ:258b],[BFZ:258b],[BFZ:258b],[BFZ:258b],[BFZ:258b],[BFZ:258b],[BFZ:258b],[BFZ:258b])([EMA:87],[GTC:229],[VMA:274],[EMA:62],[ME2:58],[VMA:136],[VMA:283],[EMA:112])([VMA:104],[MM3:35],[VMA:116],[ARC:104],[DDE:19],[EMA:68],[CMD:102],[C16:276],[MRD:253],[C15:55])([CMD:74],[MPS:7],[RTR:226],[MRD:36],[ISD:55],[MOR:65],[EMA:98],[TSP:71],[EMA:113],[AER:49],[MPS:11])([C15:85],[PD3:23],[VMA:67],[ALA:51],[MM3:44],[DIS:30],[C16:273],[V13:7],[CHK:272],[8ED:116])([C16:107],[10E:83],[V13:12],[DKA:69],[AKH:97],[VMA:126],[C13:86],[HOU:145],[ORI:84])([M15:110],[NPH:148])([GTC:33],[C17:117],[GTC:75],[NPH:73])([KTK:36],[5DN:144])([NPH:37])([ROE:7])([EMN:6])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([C17:47])

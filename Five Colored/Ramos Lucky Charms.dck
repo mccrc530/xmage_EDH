@@ -1,0 +1,97 @@
+1 [C16:54] Crystalline Crawler
+1 [RAV:153] Birds of Paradise
+1 [CON:101] Child of Alara
+1 [CON:102] Conflux
+1 [C15:281] Command Tower
+1 [EXP:22] Scalding Tarn
+1 [A25:199] Boros Charm
+1 [EXP:21] Marsh Flats
+1 [EXP:24] Arid Mesa
+1 [C15:320] Vivid Meadow
+1 [C16:299] Grand Coliseum
+1 [ALA:180] Naya Charm
+1 [EXP:23] Verdant Catacombs
+1 [EXP:20] Windswept Heath
+1 [C13:336] Vivid Marsh
+1 [RTR:194] Selesnya Charm
+1 [C16:55] Prismatic Geoscope
+1 [C13:335] Vivid Grove
+1 [DTK:227] Ojutai's Command
+1 [EXP:19] Wooded Foothills
+1 [C13:334] Vivid Creek
+1 [RTR:145] Azorius Charm
+1 [EXP:18] Bloodstained Mire
+1 [C13:333] Vivid Crag
+1 [KTK:186] Mardu Charm
+1 [VMA:321] Tropical Island
+1 [DTK:224] Kolaghan's Command
+1 [VMA:322] Tundra
+1 [KTK:181] Jeskai Charm
+1 [EXP:17] Polluted Delta
+1 [VMA:323] Underground Sea
+1 [EXP:16] Flooded Strand
+1 [VMA:324] Volcanic Island
+2 [DDC:28] Plains
+1 [GTC:169] Gruul Charm
+1 [BNG:144] Chromanticore
+1 [DTK:221] Dromoka's Command
+1 [DDE:61] Treva's Charm
+1 [ALA:175] Jund Charm
+1 [CON:115] Maelstrom Archangel
+1 [SHM:126] Prismatic Omen
+2 [DDD:61] Swamp
+1 [CHK:276] Forbidden Orchard
+1 [10E:271] Joiner Adept
+1 [ALA:171] Grixis Charm
+1 [C16:247] Chromatic Lantern
+1 [C17:45] O-Kagachi, Vengeful Kami
+1 [RTR:184] Rakdos Charm
+1 [GTC:195] Simic Charm
+1 [5DN:84] Channel the Suns
+1 [DIS:168] Transguild Courier
+1 [C13:187] Dromar's Charm
+1 [RTR:213] Deathrite Shaman
+1 [FNMP:157] Izzet Charm
+2 [DDI:74] Mountain
+1 [JOU:163] Mana Confluence
+1 [C13:181] Crosis's Charm
+1 [DTK:232] Silumgar's Command
+1 [GTC:154] Dimir Charm
+1 [VMA:291] Badlands
+1 [VMA:293] Bayou
+1 [ALA:167] Esper Charm
+1 [KTK:208] Temur Charm
+1 [ARC:66] Primal Command
+1 [KTK:204] Sultai Charm
+1 [VMA:308] Plateau
+1 [C17:56] Path of Ancestry
+1 [PCA:100] Last Stand
+1 [DD3EVG:4] Elvish Harbinger
+1 [C13:113] Incendiary Command
+2 [DDM:87] Forest
+1 [KTK:161] Abzan Charm
+1 [ZEN:168] Lotus Cobra
+1 [CON:121] Progenitus
+1 [GTC:185] Orzhov Charm
+1 [THS:180] Sylvan Caryatid
+1 [DDE:60] Rith's Charm
+1 [LRW:3] Austere Command
+1 [ALA:155] Bant Charm
+1 [5DN:115] Door to Nothingness
+1 [RTR:164] Golgari Charm
+1 [CMA:213] Commander's Sphere
+1 [CMA:215] Darksteel Ingot
+1 [ARB:130] Maelstrom Nexus
+2 [DDJ:37] Island
+1 [MM2:43] Cryptic Command
+1 [VMA:317] Taiga
+1 [DTK:213] Atarka's Command
+1 [EXP:25] Misty Rainforest
+1 [VMA:311] Savannah
+1 [DDE:59] Darigaaz's Charm
+1 [VMA:313] Scrubland
+1 [DDE:54] Coalition Relic
+1 [LRW:135] Profane Command
+SB: 1 [C17:55] Ramos, Dragon Engine
+LAYOUT MAIN:(1,9)(CMC,false,43)|([EXP:24],[VMA:291],[VMA:293],[EXP:18],[C15:281],[EXP:16],[CHK:276],[DDM:87],[DDM:87],[C16:299],[DDJ:37],[DDJ:37],[JOU:163],[EXP:21],[EXP:25],[DDI:74],[DDI:74],[C17:56],[DDC:28],[DDC:28],[VMA:308],[EXP:17],[VMA:311],[EXP:22],[VMA:313],[DDD:61],[DDD:61],[VMA:317],[VMA:321],[VMA:322],[VMA:323],[EXP:23],[C13:333],[C13:334],[C13:335],[C13:336],[C15:320],[VMA:324],[EXP:20],[EXP:19])([RTR:213],[RAV:153])([DTK:213],[RTR:145],[A25:199],[GTC:154],[DTK:221],[RTR:164],[GTC:169],[FNMP:157],[10E:271],[ZEN:168],[GTC:185],[SHM:126],[LRW:135],[RTR:184],[RTR:194],[GTC:195],[THS:180])([KTK:161],[ALA:155],[C16:247],[DDE:54],[CMA:213],[C13:181],[DDE:59],[CMA:215],[C13:187],[DD3EVG:4],[ALA:167],[ALA:171],[KTK:181],[ALA:175],[DTK:224],[KTK:186],[ALA:180],[DDE:60],[KTK:204],[KTK:208],[DDE:61])([5DN:84],[MM2:43],[C16:54],[DTK:227],[DIS:168])([CON:101],[BNG:144],[5DN:115],[C13:113],[PCA:100],[CON:115],[ARB:130],[ARC:66],[C16:55],[DTK:232])([LRW:3],[C17:45])([CON:102])([CON:121])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,50)|([C17:55])

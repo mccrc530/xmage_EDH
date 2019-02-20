@@ -1,0 +1,94 @@
+1 [C16:98] Swan Song
+1 [INV:51] Disrupt
+1 [FUT:35] Delay
+1 [EXP:22] Scalding Tarn
+1 [EXP:21] Marsh Flats
+1 [BBD:141] Diabolic Intent
+1 [EXP:23] Verdant Catacombs
+1 [MMA:151] Kodama's Reach
+1 [C17:149] Farseek
+1 [EXP:20] Windswept Heath
+1 [MM3:51] Spell Pierce
+1 [DDM:26] Remand
+1 [EXP:19] Wooded Foothills
+1 [ME3:135] Three Visits
+1 [EXP:18] Bloodstained Mire
+1 [DKA:70] Mikaeus, the Unhallowed
+1 [DDG:25] Edge of Autumn
+1 [VMA:78] Mana Drain
+1 [VMA:321] Tropical Island
+1 [EXP:15] Breeding Pool
+1 [KTK:72] Empty the Pits
+1 [A25:236] Ash Barrens
+1 [EXP:17] Polluted Delta
+1 [VMA:323] Underground Sea
+1 [C13:174] Tempt with Discovery
+1 [BFZ:192] Sylvan Scrying
+1 [C13:173] Sprouting Vines
+1 [EXP:16] Flooded Strand
+1 [CSP:145] Dark Depths
+1 [8ED:91] Merchant Scroll
+1 [SOI:234] Traverse the Ulvenwald
+1 [MMA:51] Logic Knot
+1 [RAV:60] Muddle the Mixture
+1 [EMA:44] Daze
+1 [EXP:13] Overgrown Tomb
+1 [MMA:161] Search for Tomorrow
+1 [C13:305] Lonely Sandbar
+1 [BBD:132] Spell Snare
+1 [EMA:49] Force of Will
+1 [KTK:211] Villainous Wealth
+1 [DDJ:14] Force Spike
+1 [MPRP:38] Negate
+1 [VMA:88] Power Sink
+1 [DDF:57] Triskelion
+1 [BFZ:76] Dispel
+1 [DDR:7] Crop Rotation
+1 [MM3:146] Abrupt Decay
+1 [TPR:187] Rampant Growth
+1 [ONS:299] Weird Harvest
+1 [VMA:293] Bayou
+1 [AKH:243] Fetid Pools
+1 [C18:30] Genesis Storm
+1 [ME3:69] Grim Tutor
+1 [C17:242] Command Tower
+1 [IMA:48] Cryptic Command
+1 [AVR:81] Temporal Mastery
+1 [MMQ:62] Bribery
+1 [ARC:124] Barren Moor
+1 [C15:56] Command Beacon
+1 [VMA:145] Vampiric Tutor
+1 [MM3:35] Cyclonic Rift
+1 [IMA:55] Flusterstorm
+1 [M15:248] Urborg, Tomb of Yawgmoth
+1 [TSP:281] Vesuva
+1 [RAV:217] Perplex
+1 [EMA:108] Toxic Deluge
+1 [VMA:220] Nature's Lore
+3 [UST:213] Island
+1 [NPH:38] Mental Misstep
+3 [UST:214] Swamp
+1 [HOP:132] Cabal Coffers
+1 [ME2:58] Personal Tutor
+1 [MMA:56] Pact of Negation
+1 [EMA:62] Mystical Tutor
+1 [BBD:190] Beast Within
+5 [UST:216] Forest
+1 [GTC:248] Thespian's Stage
+1 [ME2:96] Imperial Seal
+1 [C13:329] Tranquil Thicket
+1 [C16:146] Cultivate
+1 [KTK:56] Stubborn Denial
+1 [C16:148] Far Wanderings
+1 [C16:105] Army of the Damned
+1 [A25:88] Doomsday
+1 [VMA:116] Demonic Tutor
+1 [A25:50] Counterspell
+1 [EXP:25] Misty Rainforest
+1 [EXP:2] Sunken Hollow
+1 [CNS:108] Stifle
+1 [IMA:46] Condescend
+1 [EXP:7] Watery Grave
+SB: 1 [FRF:87] Tasigur, the Golden Fang
+LAYOUT MAIN:(1,9)(EDH_POWER_LEVEL,false,43)|([ARC:124],[VMA:293],[EXP:15],[C17:242],[AKH:243],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:213],[UST:213],[UST:213],[C13:305],[EXP:13],[UST:214],[UST:214],[UST:214],[C13:329],[VMA:321],[VMA:323],[EXP:7])([A25:236],[A25:50],[C16:146],[BFZ:76],[C16:148],[MMA:151],[MPRP:38],[MMA:56],[TPR:187],[DDM:26],[CNS:108],[GTC:248],[SOI:234],[TSP:281])([FUT:35])([BBD:190],[C16:98])([MMQ:62],[C15:56],[IMA:48],[CSP:145],[DDG:25])([MM3:146],[C16:105],[HOP:132],[IMA:46],[EMA:44],[INV:51],[KTK:72],[IMA:55],[DDJ:14],[EMA:49],[C18:30],[MMA:51],[VMA:78],[NPH:38],[VMA:88],[MMA:161],[MM3:51],[BBD:132],[C13:173],[KTK:56],[EXP:2],[EMA:108],[M15:248],[KTK:211],[ONS:299])([EXP:18],[DDR:7],[VMA:116],[BBD:141],[A25:88],[C17:149],[EXP:16],[ME3:69],[ME2:96],[EXP:21],[8ED:91],[EXP:25],[RAV:60],[EMA:62],[VMA:220],[RAV:217],[ME2:58],[EXP:17],[EXP:22],[BFZ:192],[C13:174],[ME3:135],[VMA:145],[EXP:23],[EXP:20],[EXP:19])([AVR:81])([MM3:35],[DKA:70],[DDF:57])
+LAYOUT SIDEBOARD:(1,1)(COLOR,false,50)|([FRF:87])

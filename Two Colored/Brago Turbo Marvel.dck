@@ -1,0 +1,89 @@
+1 [ME2:69] Temporal Manipulation
+1 [ME4:69] Transmute Artifact
+1 [M11:225] Glacial Fortress
+1 [AER:49] Whir of Invention
+1 [9ED:297] Fellwar Stone
+1 [5DN:24] Beacon of Tomorrows
+1 [CN2:30] Expropriate
+1 [C14:269] Sky Diamond
+1 [HOP:9] Fabricate
+1 [MM3:54] Temporal Mastery
+1 [VMA:78] Mana Drain
+1 [ZEN:224] Sejiri Refuge
+1 [VMA:322] Tundra
+1 [EXP:16] Flooded Strand
+1 [KLD:247] Inventors' Fair
+1 [KLD:204] Deadlock Trap
+13 [BFZ:258b] Island
+1 [FRF:55] Temporal Trespass
+1 [CSP:144] Boreal Shelf
+1 [AER:45] Shipwreck Moray
+1 [DDC:24] Marble Diamond
+1 [SOI:278] Port Town
+1 [DGM:146] Azorius Guildgate
+1 [KLD:208] Dynavolt Tower
+2 [BFZ:254b] Plains
+1 [KLD:205] Decoction Module
+1 [ODY:327] Skycloud Expanse
+1 [KLD:210] Electrostatic Pummeler
+1 [SOK:36] Eternal Dominion
+1 [KLD:211] Fabrication Module
+1 [KLD:53] Janjeet Sentry
+1 [KLD:10] Consulate Surveillance
+1 [DST:31] Reshape
+1 [C16:284] Buried Ruin
+1 [KLD:176] Cloudblazer
+1 [ROE:6] Kozilek, Butcher of Truth
+1 [DIS:170] Azorius Chancery
+1 [ROE:7] It That Betrays
+1 [TSP:269] Academy Ruins
+1 [CMD:269] Command Tower
+1 [ROE:3] Eldrazi Conscription
+1 [CMA:235] Thought Vessel
+1 [C16:248] Commander's Sphere
+1 [MPS:24] Sol Ring
+1 [OGW:173] Meandering River
+1 [KLD:3] Aetherstorm Roc
+1 [FNMP:153] Reliquary Tower
+1 [ROE:9] Pathrazer of Ulamog
+1 [TSP:270] Calciform Pools
+1 [AKH:245] Irrigated Farmland
+1 [INV:321] Coastal Tower
+1 [AER:26] Aether Swooper
+1 [SHM:277] Mystic Gate
+1 [AER:27] Aethertide Whale
+1 [KTK:246] Tranquil Cove
+1 [BFZ:80] Part the Waterveil
+1 [TSP:93] Walk the Aeons
+1 [DDP:65] Mind Stone
+1 [10E:347] Adarkar Wastes
+1 [MPS:17] Mana Vault
+1 [MPS:16] Mana Crypt
+1 [MM3:215] Azorius Signet
+1 [KLD:223] Multiform Wonder
+1 [AER:3] Aether Inspector
+1 [AER:142] Aethersphere Harvester
+1 [CNS:24] Plea for Power
+1 [M10:75] Time Warp
+1 [EMA:9] Enlightened Tutor
+1 [ROE:12] Ulamog, the Infinite Gyre
+1 [MMA:54] Mulldrifter
+1 [KLD:193] Aetherworks Marvel
+1 [KLD:37] Aether Theorist
+1 [WWK:133] Celestial Colonnade
+1 [ME3:33] Capture of Jingzhou
+1 [MOR:50] Slithermuse
+1 [CMA:210] Basalt Monolith
+1 [APC:34] Whirlpool Drake
+1 [KLD:39] Aethersquall Ancient
+1 [APC:35] Whirlpool Rider
+1 [DDF:39] Tezzeret the Seeker
+1 [EXP:1] Prairie Stream
+1 [SOM:229] Seachrome Coast
+1 [EXP:6] Hallowed Fountain
+1 [AER:152] Gonti's Aether Heart
+1 [ULG:126] Grim Monolith
+1 [CSP:136] Coldsteel Heart
+SB: 1 [CNS:41] Brago, King Eternal
+LAYOUT MAIN:(1,13)(CMC,false,43)|([TSP:269],[10E:347],[DIS:170],[DGM:146],[CSP:144],[C16:284],[TSP:270],[WWK:133],[INV:321],[CMD:269],[EXP:16],[M11:225],[EXP:6],[KLD:247],[AKH:245],[BFZ:258b],[BFZ:258b],[BFZ:258b],[BFZ:258b],[BFZ:258b],[BFZ:258b],[BFZ:258b],[BFZ:258b],[BFZ:258b],[BFZ:258b],[BFZ:258b],[BFZ:258b],[BFZ:258b],[MPS:16],[OGW:173],[SHM:277],[BFZ:254b],[BFZ:254b],[SOI:278],[EXP:1],[FNMP:153],[SOM:229],[ZEN:224],[ODY:327],[KTK:246],[VMA:322])([EMA:9],[MPS:17],[MPS:24])([AER:26],[KLD:37],[MM3:215],[CSP:136],[KLD:205],[9ED:297],[ULG:126],[DDC:24],[DDP:65],[DST:31],[C14:269],[CMA:235],[ME4:69],[APC:35],[VMA:78])([AER:142],[CMA:210],[C16:248],[KLD:204],[KLD:208],[KLD:210],[HOP:9],[KLD:211],[KLD:53],[AER:49])([AER:3],[KLD:3],[KLD:193],[KLD:10],[CNS:24],[AER:45],[MOR:50],[APC:34])([ME3:33],[KLD:176],[MMA:54],[KLD:223],[ME2:69],[DDF:39],[M10:75])([AER:27],[AER:152],[BFZ:80],[TSP:93])([KLD:39],[MM3:54])([5DN:24],[ROE:3])([CN2:30])([SOK:36],[ROE:6])([ROE:9],[FRF:55],[ROE:12])([ROE:7])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([CNS:41])

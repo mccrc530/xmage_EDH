@@ -1,0 +1,65 @@
+1 [ME2:69] Temporal Manipulation
+1 [DRK:19] Amnesia
+1 [EVE:25] Inundate
+1 [C16:131] Past in Flames
+1 [EXP:22] Scalding Tarn
+1 [ROE:82] Recurring Insight
+1 [5DN:24] Beacon of Tomorrows
+1 [C16:137] Volcanic Vision
+1 [M12:153] Scrambleverse
+1 [CN2:30] Expropriate
+1 [C14:104] Cyclonic Rift
+1 [C16:6] Coastal Breach
+1 [MM3:54] Temporal Mastery
+1 [DGM:55] Blast of Genius
+1 [VMA:324] Volcanic Island
+1 [AKH:211] Commit // Memory
+1 [ORI:55] Displacement Wave
+1 [FRF:55] Temporal Trespass
+1 [DKA:33] Counterlash
+1 [SOI:83] Rise from the Tides
+1 [C15:87] Blatant Thievery
+1 [SOK:36] Eternal Dominion
+1 [M14:66] Opportunity
+1 [CHK:273] Boseiju, Who Shelters All
+1 [OGW:53] Crush of Tentacles
+1 [AKH:65] Pull from Tomorrow
+1 [GPX:9] All Is Dust
+1 [EXP:12] Steam Vents
+1 [KTK:36] Dig Through Time
+1 [MMQ:207] Pulverize
+1 [10E:117] Time Stop
+1 [10E:118] Time Stretch
+1 [BNG:115] Whims of the Fates
+1 [MOR:38] Knowledge Exploitation
+1 [S99:56] Time Warp
+24 [BFZ:259b] Island
+1 [MGDC:42] Supplant Form
+1 [V16:8] Mind's Desire
+1 [KLD:62] Saheeli's Artistry
+1 [AVR:48] Devastation Tide
+1 [ALA:45] Gather Specimens
+1 [ME4:40] Braingeyser
+1 [BOK:120] Twist Allegiance
+1 [BFZ:80] Part the Waterveil
+1 [TSP:93] Walk the Aeons
+1 [C14:37] Incite Rebellion
+1 [C14:129] Stroke of Genius
+1 [MMQ:218] Thieves' Auction
+1 [GPT:132] Stitch in Time
+1 [SOK:119] Undying Flames
+1 [FRF:109] Mob Rule
+1 [CNS:24] Plea for Power
+15 [BFZ:268b] Mountain
+1 [ISD:248] Sulfur Falls
+1 [8ED:64] Bribery
+1 [M13:68] Spelltwine
+1 [ME3:33] Capture of Jingzhou
+1 [CMD:126] Insurrection
+1 [KTK:59] Treasure Cruise
+1 [CSP:29] Commandeer
+1 [ISD:130] Blasphemous Act
+1 [SOK:51] Overwhelming Intellect
+SB: 1 [C15:50] Mizzix of the Izmagnus
+LAYOUT MAIN:(1,11)(CMC,false,43)|([CHK:273],[BFZ:259b],[BFZ:259b],[BFZ:259b],[BFZ:259b],[BFZ:259b],[BFZ:259b],[BFZ:259b],[BFZ:259b],[BFZ:259b],[BFZ:259b],[BFZ:259b],[BFZ:259b],[BFZ:259b],[BFZ:259b],[BFZ:259b],[BFZ:259b],[BFZ:259b],[BFZ:259b],[BFZ:259b],[BFZ:259b],[BFZ:259b],[BFZ:259b],[BFZ:259b],[BFZ:259b],[BFZ:268b],[BFZ:268b],[BFZ:268b],[BFZ:268b],[BFZ:268b],[BFZ:268b],[BFZ:268b],[BFZ:268b],[BFZ:268b],[BFZ:268b],[BFZ:268b],[BFZ:268b],[BFZ:268b],[BFZ:268b],[BFZ:268b],[EXP:22],[EXP:12],[ISD:248],[VMA:324])([ME4:40],[C14:104],[ORI:55],[AKH:65])([GPT:132],[C14:129])([CNS:24],[C16:131])([8ED:64],[ME3:33],[AVR:48],[ME2:69],[S99:56])([DRK:19],[DGM:55],[DKA:33],[OGW:53],[ALA:45],[C14:37],[EVE:25],[V16:8],[FRF:109],[M14:66],[SOK:51],[BFZ:80],[MMQ:207],[ROE:82],[SOI:83],[KLD:62],[M13:68],[MGDC:42],[10E:117],[SOK:119],[TSP:93],[BNG:115])([GPX:9],[C15:87],[C16:6],[CSP:29],[MOR:38],[MM3:54],[MMQ:218],[BOK:120],[C16:137])([5DN:24],[KTK:36],[CMD:126],[M12:153],[KTK:59])([ISD:130],[CN2:30])([AKH:211],[SOK:36],[10E:118])([FRF:55])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,50)|([C15:50])

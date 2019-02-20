@@ -1,0 +1,75 @@
+1 [5DN:164] Vedalken Shackles
+1 [INV:51] Disrupt
+1 [FUT:35] Delay
+1 [ALL:42] Force of Will
+1 [ZEN:220] Misty Rainforest
+1 [6ED:83] Mystical Tutor
+1 [STH:132] Mox Diamond
+1 [5DN:27] Condescend
+1 [4ED:181] Mishra's Factory
+1 [MMQ:87] Misdirection
+1 [M11:70] Preordain
+1 [TMP:55] Capsize
+1 [ZEN:223] Scalding Tarn
+1 [RTR:35] Cyclonic Rift
+1 [TMP:58] Dismiss
+1 [INV:57] Fact or Fiction
+1 [8ED:91] Merchant Scroll
+1 [ONS:320] Lonely Sandbar
+1 [TOR:36] Deep Analysis
+1 [AER:40] Negate
+1 [THS:65] Swan Song
+1 [TMP:340] Wasteland
+1 [ULG:36] Miscalculation
+1 [MBS:99] Blightsteel Colossus
+1 [GPT:32] Repeal
+1 [RAV:63] Remand
+1 [LRW:56] Cryptic Command
+1 [5DN:36] Serum Visions
+1 [XLN:81] Spell Pierce
+1 [DST:163] Blinkmoth Nexus
+28 [XLN:264] Island
+1 [DIS:33] Spell Snare
+1 [7ED:88] Memory Lapse
+1 [TSP:48] Ancestral Vision
+1 [TSP:274] Gemstone Caverns
+1 [CSP:46] Rune Snag
+1 [BFZ:76] Dispel
+1 [NEM:30] Daze
+1 [SOI:78] Pieces of the Puzzle
+1 [BOK:33] Disrupting Shoal
+1 [M10:67] Polymorph
+1 [VIS:34] Impulse
+1 [M12:63] Mana Leak
+1 [INV:70] Repulse
+1 [10E:83] Evacuation
+1 [10E:100] Remove Soul
+1 [C15:15] Synthetic Destiny
+1 [ONS:76] Complicate
+1 [7ED:76] Force Spike
+1 [CHK:82] Reweave
+1 [IMA:55] Flusterstorm
+1 [USG:100] Stroke of Genius
+1 [NPH:35] Gitaxian Probe
+1 [NPH:38] Mental Misstep
+1 [PLS:22] Confound
+1 [M12:73] Ponder
+1 [8ED:64] Bribery
+1 [ME2:58] Personal Tutor
+1 [MRD:152] Chrome Mox
+1 [KTK:239] Polluted Delta
+1 [KTK:233] Flooded Strand
+1 [MMQ:108] Thwart
+1 [7ED:67] Counterspell
+1 [UDS:50] Treachery
+1 [M14:228] Mutavault
+1 [MRD:230] Proteus Staff
+1 [M15:63] Jace's Ingenuity
+1 [M13:65] Rewind
+1 [WWK:31] Jace, the Mind Sculptor
+1 [ME4:49] False Summoning
+1 [ISD:83] Think Twice
+1 [M11:64] Mass Polymorph
+SB: 1 [AER:28] Baral, Chief of Compliance
+LAYOUT MAIN:(1,8)(CMC,false,43)|([TSP:48],[DST:163],[MRD:152],[KTK:233],[TSP:274],[XLN:264],[XLN:264],[XLN:264],[XLN:264],[XLN:264],[XLN:264],[XLN:264],[XLN:264],[XLN:264],[XLN:264],[XLN:264],[XLN:264],[XLN:264],[XLN:264],[XLN:264],[XLN:264],[XLN:264],[XLN:264],[XLN:264],[XLN:264],[XLN:264],[XLN:264],[XLN:264],[XLN:264],[XLN:264],[XLN:264],[XLN:264],[XLN:264],[ONS:320],[4ED:181],[ZEN:220],[STH:132],[M14:228],[KTK:239],[ZEN:223],[TMP:340])([5DN:27],[BFZ:76],[INV:51],[IMA:55],[7ED:76],[NPH:35],[NPH:38],[6ED:83],[ME2:58],[M12:73],[M11:70],[GPT:32],[5DN:36],[XLN:81],[DIS:33],[THS:65])([PLS:22],[7ED:67],[RTR:35],[NEM:30],[FUT:35],[BOK:33],[ME4:49],[VIS:34],[M12:63],[7ED:88],[8ED:91],[ULG:36],[AER:40],[RAV:63],[10E:100],[CSP:46],[ISD:83])([TMP:55],[ONS:76],[SOI:78],[MRD:230],[INV:70],[USG:100],[5DN:164])([LRW:56],[TOR:36],[TMP:58],[INV:57],[WWK:31],[M10:67],[M13:65],[MMQ:108])([8ED:64],[10E:83],[ALL:42],[M15:63],[MMQ:87],[UDS:50])([M11:64],[CHK:82],[C15:15])([MBS:99])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,50)|([AER:28])

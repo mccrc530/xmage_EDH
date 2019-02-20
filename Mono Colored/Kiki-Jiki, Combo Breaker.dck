@@ -1,0 +1,64 @@
+1 [C16:51] Armory Automaton
+1 [THS:121] Fanatic of Mogis
+1 [MPS:2] Combustible Gearhulk
+1 [ARC:106] Duplicant
+1 [C16:134] Stalking Vengeance
+1 [MM3:90] Blood Moon
+1 [EMA:132] Gamble
+1 [C14:265] Ruby Medallion
+1 [MM3:116] Zealous Conscripts
+1 [AVR:162] Tyrant of Discord
+1 [VMA:281] Skullclamp
+1 [MGDC:9] Priest of Urabrask
+1 [ROE:142] Emrakul's Hatcher
+1 [MBP:36] Inferno Titan
+1 [EMA:147] Siege-Gang Commander
+1 [JOU:112] Spawn of Thraxes
+1 [VIS:80] Goblin Recruiter
+1 [C16:120] Blasphemous Act
+1 [FUT:101] Magus of the Moon
+1 [CMA:233] Swiftfoot Boots
+1 [FRF:104] Humble Defector
+1 [MMA:122] Mogg War Marshal
+1 [C14:233] Caged Sun
+1 [WWK:94] Tuktuk Scrapper
+1 [IMA:118] Bogardan Hellkite
+1 [EMA:218] Ashnod's Altar
+1 [DD3EVG:39] Goblin Matron
+1 [KLD:212] Filigree Familiar
+1 [AKH:125] Combat Celebrant
+1 [ME2:130] Imperial Recruiter
+1 [AER:177] Treasure Keeper
+1 [IMA:230] Thran Dynamo
+1 [SOM:143] Clone Shell
+1 [C16:273] Solemn Simulacrum
+1 [CMA:220] Lightning Greaves
+1 [CMD:134] Ruination
+1 [V13:12] Gilded Lotus
+1 [NPH:81] Chancellor of the Forge
+1 [M13:142] Mindclaw Shaman
+1 [ME4:202] Gauntlet of Might
+1 [C13:111] Goblin Sharpshooter
+1 [MPS:12] Gauntlet of Power
+1 [IMA:227] Sandstone Oracle
+1 [EMA:229] Pilgrim's Eye
+1 [KLD:226] Panharmonicon
+1 [TPR:136] Goblin Bombardment
+39 [HOU:188] Mountain
+1 [THS:135] Purphoros, God of the Forge
+1 [THS:213] Burnished Hart
+1 [C15:170] Vandalblast
+1 [EMA:127] Dualcaster Mage
+1 [MOR:145] Thornbite Staff
+1 [C16:263] Myr Battlesphere
+1 [5DN:157] Summoner's Egg
+1 [ROE:169] Tuktuk the Explorer
+1 [C15:27] Magus of the Wheel
+1 [9ED:224] Thundermare
+1 [IMA:134] Hoarding Dragon
+1 [VMA:154] Chaos Warp
+1 [NEM:99] Shrieking Mogg
+1 [SOM:223] Wurmcoil Engine
+SB: 1 [IMA:136] Kiki-Jiki, Mirror Breaker
+LAYOUT MAIN:(1,10)(CMC,false,50)|([HOU:188],[HOU:188],[HOU:188],[HOU:188],[HOU:188],[HOU:188],[HOU:188],[HOU:188],[HOU:188],[HOU:188],[HOU:188],[HOU:188],[HOU:188],[HOU:188],[HOU:188],[HOU:188],[HOU:188],[HOU:188],[HOU:188],[HOU:188],[HOU:188],[HOU:188],[HOU:188],[HOU:188],[HOU:188],[HOU:188],[HOU:188],[HOU:188],[HOU:188],[HOU:188],[HOU:188],[HOU:188],[HOU:188],[HOU:188],[HOU:188],[HOU:188],[HOU:188],[HOU:188],[HOU:188])([EMA:132],[VMA:281],[C15:170])([TPR:136],[VIS:80],[FRF:104],[CMA:220],[MMA:122],[C14:265],[NEM:99],[CMA:233],[MOR:145])([C16:51],[EMA:218],[MM3:90],[THS:213],[VMA:154],[AKH:125],[EMA:127],[KLD:212],[DD3EVG:39],[C13:111],[ME2:130],[FUT:101],[C15:27],[EMA:229],[MGDC:9],[ROE:169])([THS:121],[ME4:202],[KLD:226],[THS:135],[CMD:134],[C16:273],[5DN:157],[IMA:230],[AER:177],[WWK:94])([SOM:143],[ROE:142],[MPS:12],[V13:12],[IMA:134],[M13:142],[EMA:147],[MM3:116])([C14:233],[MPS:2],[ARC:106],[MBP:36],[9ED:224],[SOM:223])([NPH:81],[C16:263],[IMA:227],[JOU:112],[C16:134],[AVR:162])([IMA:118])([C16:120])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,50)|([IMA:136])

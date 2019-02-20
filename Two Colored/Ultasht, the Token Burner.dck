@@ -1,0 +1,65 @@
+1 [AKH:170] Harvest Season
+1 [RAV:158] Doubling Season
+1 [ALA:101] Goblin Assault
+1 [ODY:257] New Frontiers
+1 [C16:174] Veteran Explorer
+1 [EMA:139] Mogg War Marshal
+1 [THS:209] Xenagos, the Reveler
+1 [C16:179] Artifact Mutation
+1 [MMA:151] Kodama's Reach
+1 [M13:173] Fungal Sprouting
+1 [HOP:56] Goblin Offensive
+1 [M15:145] Goblin Rabblemaster
+1 [DD3EVG:43] Ib Halfheart, Goblin Tactician
+1 [FUT:138] Sprout Swarm
+1 [MBP:105] Shamanic Revelation
+1 [USG:321] Gaea's Cradle
+1 [PLC:143] Vitaspore Thallid
+1 [PLS:85] Nemata, Grove Guardian
+1 [PC2:68] Mycoloth
+1 [A25:165] Cultivate
+1 [ARC:34] Dragon Fodder
+1 [RAV:181] Scatter the Seeds
+1 [MMA:162] Sporesower Thallid
+1 [PCA:40] Beetleback Chief
+1 [MMA:163] Sporoloth Ancient
+1 [FUT:140] Utopia Mycon
+1 [DD3EVG:32] Siege-Gang Commander
+1 [ISD:199] Parallel Lives
+1 [ARB:53] Dragon Broodmother
+1 [SOI:200] Cryptolith Rite
+1 [TPR:146] Mogg Infestation
+1 [CHK:239] Sakura-Tribe Elder
+1 [RTR:95] Goblin Rally
+1 [RIX:147] Tendershoot Dryad
+1 [DDS:48] Rampant Growth
+1 [TSP:232] Verdant Embrace
+1 [INV:209] Saproling Symbiosis
+1 [DDN:25] Krenko's Command
+1 [NPH:81] Chancellor of the Forge
+1 [C13:158] Night Soil
+1 [10E:307] Verdant Force
+1 [ME2:181] Thallid Devourer
+15 [BFZ:268a] Mountain
+1 [EVE:74] Regal Force
+1 [SHM:223] Wort, the Raidmother
+1 [M13:138] Krenko, Mob Boss
+1 [DDS:15] Empty the Warrens
+1 [ROE:169] Tuktuk the Explorer
+1 [C16:145] Collective Voyage
+1 [UDS:85] Goblin Marshal
+1 [C16:148] Far Wanderings
+1 [C16:45] Tana, the Bloodsower
+1 [M14:196] Sporemound
+24 [BFZ:273b] Forest
+1 [KTK:111] Hordeling Outburst
+1 [USG:258] Greener Pastures
+1 [DTK:213] Atarka's Command
+1 [C13:162] Primal Vigor
+1 [PLC:133] Life and Limb
+1 [CN2:178] Burgeoning
+1 [ULG:98] Crop Rotation
+1 [PLC:137] Psychotrope Thallid
+SB: 1 [GPT:136] Ulasht, the Hate Seed
+LAYOUT MAIN:(1,9)(CMC,false,43)|([BFZ:273b],[BFZ:273b],[BFZ:273b],[BFZ:273b],[BFZ:273b],[BFZ:273b],[BFZ:273b],[BFZ:273b],[BFZ:273b],[BFZ:273b],[BFZ:273b],[BFZ:273b],[BFZ:273b],[BFZ:273b],[BFZ:273b],[BFZ:273b],[BFZ:273b],[BFZ:273b],[BFZ:273b],[BFZ:273b],[BFZ:273b],[BFZ:273b],[BFZ:273b],[BFZ:273b],[USG:321],[BFZ:268a],[BFZ:268a],[BFZ:268a],[BFZ:268a],[BFZ:268a],[BFZ:268a],[BFZ:268a],[BFZ:268a],[BFZ:268a],[BFZ:268a],[BFZ:268a],[BFZ:268a],[BFZ:268a],[BFZ:268a],[BFZ:268a])([CN2:178],[C16:145],[ULG:98],[ODY:257],[FUT:140],[C16:174])([C16:179],[DTK:213],[SOI:200],[ARC:34],[DDN:25],[EMA:139],[C13:158],[DDS:48],[CHK:239],[FUT:138],[PLC:143])([A25:165],[C16:148],[ALA:101],[HOP:56],[M15:145],[USG:258],[AKH:170],[KTK:111],[MMA:151],[PLC:137],[ME2:181],[ROE:169])([PCA:40],[DDS:15],[M13:173],[DD3EVG:43],[M13:138],[PLC:133],[ISD:199],[INV:209],[MMA:162],[C16:45],[THS:209])([RAV:158],[RTR:95],[TPR:146],[PC2:68],[C13:162],[RAV:181],[MBP:105],[DD3EVG:32],[M14:196],[MMA:163],[RIX:147],[TSP:232])([ARB:53],[UDS:85],[PLS:85],[SHM:223])([NPH:81],[EVE:74])([10E:307])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,50)|([GPT:136])

@@ -1,0 +1,83 @@
+1 [MOR:137] Unstoppable Ash
+1 [LRW:197] Battlewand Oak
+1 [CMD:150] Deadwood Treefolk
+1 [MOR:132] Reach of Branches
+1 [MOR:83] Weed-Pruner Poplar
+1 [EXP:23] Verdant Catacombs
+1 [C15:37] Great Oak Guardian
+1 [EXP:20] Windswept Heath
+1 [C17:32] Kindred Summons
+1 [EXP:19] Wooded Foothills
+1 [ONS:161] Patriarch's Bidding
+1 [EVE:128] Sapling of Colfenor
+1 [PLS:82] Magnigoth Treefolk
+1 [LRW:228] Lignify
+1 [LRW:144] Thorntooth Witch
+1 [AER:164] Metallic Mimic
+1 [ONS:286] Steely Resolve
+1 [SOI:274] Fortified Village
+1 [VMA:283] Sol Ring
+1 [MOR:128] Leaf-Crowned Elder
+1 [MOR:121] Everbark Shaman
+1 [MM3:232] Cavern of Souls
+1 [C17:252] Grasslands
+1 [C15:273] Urza's Incubator
+1 [EXP:10] Temple Garden
+1 [M15:182] Kalonian Twingrove
+1 [EXP:13] Overgrown Tomb
+1 [8ED:46] Solidarity
+1 [TSP:268] Weatherseed Totem
+1 [C17:5] Kindred Boon
+1 [ARC:74] Wickerbough Elder
+1 [ARC:72] Verdeloth the Ancient
+1 [IMA:155] Assault Formation
+1 [LRW:238] Timber Protector
+1 [AKH:247] Scattered Groves
+1 [LRW:239] Treefolk Harbinger
+1 [MOR:131] Orchard Warden
+1 [ME4:155] Gaea's Avenger
+1 [AVR:173] Descendants' Path
+1 [LRW:234] Rootgrapple
+1 [VMA:293] Bayou
+1 [LRW:235] Seedguide Ash
+1 [MOR:114] Bosk Banneret
+1 [XLN:258] Unclaimed Territory
+1 [XLN:257] Sunpetal Grove
+1 [MOR:61] Fendeep Summoner
+1 [XLN:251] Vanquisher's Banner
+1 [MMA:174] Woodfall Primus
+1 [C17:56] Path of Ancestry
+1 [8ED:260] Living Terrain
+1 [M11:163] Awakener Druid
+1 [C17:54] Mirror of the Forebears
+1 [C17:208] Door of Destinies
+1 [LRW:203] Dauntless Dourbark
+1 [CSP:121] Sheltering Ancient
+1 [USG:260] Hidden Ancients
+1 [ISD:249] Woodland Cemetery
+1 [EVE:78] Tilling Treefolk
+1 [ONS:306] Cryptic Gateway
+1 [XLN:241] Pillar of Origins
+1 [DDS:58] Coat of Arms
+1 [M12:201] Adaptive Automaton
+1 [C14:48] Sylvan Offering
+1 [MOR:13] Indomitable Ancients
+20 [BFZ:273b] Forest
+1 [C16:306] Krosan Verge
+1 [M12:171] Dungrove Elder
+1 [C16:308] Murmuring Bosk
+1 [DKA:115] Ghoultree
+1 [EMN:176] Ulvenwald Observer
+1 [VMA:311] Savannah
+1 [EXP:25] Misty Rainforest
+1 [FUT:127] Heartwood Storyteller
+1 [M14:228] Mutavault
+1 [DKA:2] Bar the Door
+1 [EXP:5] Canopy Vista
+1 [GTC:137] Tower Defense
+1 [7ED:277] Treefolk Seedlings
+1 [MMQ:273] Spidersilk Armor
+1 [CHK:259] Konda's Banner
+SB: 1 [LRW:247] Doran, the Siege Tower
+LAYOUT MAIN:(1,5)(COLOR,false,43)|([M12:201],[VMA:293],[EXP:5],[MM3:232],[DDS:58],[ONS:306],[C17:208],[SOI:274],[C17:252],[CHK:259],[C16:306],[AER:164],[C17:54],[EXP:25],[C16:308],[M14:228],[EXP:13],[C17:56],[XLN:241],[VMA:311],[AKH:247],[XLN:257],[EXP:10],[XLN:258],[C15:273],[XLN:251],[EXP:23],[TSP:268],[EXP:20],[EXP:19],[ISD:249],[BFZ:273b],[BFZ:273b],[BFZ:273b],[BFZ:273b],[BFZ:273b],[BFZ:273b],[BFZ:273b],[BFZ:273b],[BFZ:273b],[BFZ:273b],[BFZ:273b],[BFZ:273b],[BFZ:273b],[BFZ:273b],[BFZ:273b],[BFZ:273b],[BFZ:273b],[BFZ:273b],[BFZ:273b],[BFZ:273b],[VMA:283])([MOR:61],[ONS:161],[LRW:144],[MOR:83])([IMA:155],[M11:163],[LRW:197],[MOR:114],[LRW:203],[CMD:150],[AVR:173],[M12:171],[MOR:121],[ME4:155],[DKA:115],[C15:37],[FUT:127],[USG:260],[M15:182],[C17:32],[MOR:128],[LRW:228],[8ED:260],[PLS:82],[MOR:131],[MOR:132],[LRW:234],[LRW:235],[CSP:121],[MMQ:273],[ONS:286],[C14:48],[EVE:78],[LRW:238],[GTC:137],[LRW:239],[7ED:277],[EMN:176],[MOR:137],[ARC:72],[ARC:74],[MMA:174])([DKA:2],[MOR:13],[C17:5],[8ED:46])([EVE:128])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([LRW:247])

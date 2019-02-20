@@ -1,0 +1,71 @@
+1 [ROE:89] Sphinx of Magosi
+1 [WWK:28] Goliath Sphinx
+1 [EMA:50] Future Sight
+1 [C17:262] Myriad Landscape
+1 [OGW:63] Sphinx of the Final Word
+1 [C17:223] Sol Ring
+1 [TSP:255] Gauntlet of Power
+1 [FUT:173] Tolaria West
+1 [C14:269] Sky Diamond
+1 [ZEN:68] Sphinx of Jwar Isle
+1 [IMA:74] Sphinx of Uthuun
+1 [ZEN:69] Sphinx of Lost Truths
+1 [C14:266] Sapphire Medallion
+1 [EMN:64] Identity Thief
+1 [THS:60] Prognostic Sphinx
+1 [OGW:58] Jwar Isle Avenger
+1 [CN2:38] Stunt Double
+1 [LRW:85] Shapesharer
+1 [AER:164] Metallic Mimic
+1 [CON:143] Reliquary Tower
+1 [CSP:149] Scrying Sheets
+1 [CHK:279] Minamo, School at Water's Edge
+1 [ALA:55] Sharding Sphinx
+1 [MM3:232] Cavern of Souls
+32 [CSP:152] Snow-Covered Island
+1 [C15:273] Urza's Incubator
+1 [10E:73] Clone
+1 [C17:215] Lightning Greaves
+1 [C14:233] Caged Sun
+1 [BFZ:78] Guardian of Tazeem
+1 [NPH:42] Phyrexian Metamorph
+1 [MM3:46] Phantasmal Image
+1 [ORI:43] Alhammarret, High Arbiter
+1 [CN2:111] Followed Footsteps
+1 [IMA:230] Thran Dynamo
+1 [C17:53] Herald's Horn
+1 [C15:55] Thought Vessel
+1 [C15:11] Gigantoplasm
+1 [THS:223] Nykthos, Shrine to Nyx
+1 [MBS:23] Cryptoplasm
+1 [C15:51] Blade of Selves
+1 [IMA:47] Consecrated Sphinx
+1 [PLC:62] Serra Sphinx
+1 [AKH:55] Glyph Keeper
+1 [XLN:251] Vanquisher's Banner
+1 [C17:56] Path of Ancestry
+1 [C17:11] Kindred Discovery
+1 [C17:54] Mirror of the Forebears
+1 [C17:208] Door of Destinies
+1 [DTK:62] Mirror Mockery
+1 [MM3:32] Cackling Counterpart
+1 [NPH:31] Chancellor of the Spires
+1 [AKH:49] Curator of Mysteries
+1 [MM3:35] Cyclonic Rift
+1 [IMA:227] Sandstone Oracle
+1 [M10:73] Sphinx Ambassador
+1 [M11:51] Conundrum Sphinx
+1 [BNG:31] Arbiter of the Ideal
+1 [M15:67] Master of Predicaments
+1 [BNG:39] Fated Infatuation
+1 [M15:68] Mercurial Pretender
+1 [M12:201] Adaptive Automaton
+1 [ZEN:61] Rite of Replication
+1 [MM2:41] Argent Sphinx
+1 [PCA:24] Sakashima's Student
+1 [THS:51] Horizon Scholar
+1 [SOK:53] Sakashima the Impostor
+1 [M14:81] Windreader Sphinx
+SB: 1 [HOU:52] Unesh, Criosphinx Sovereign
+LAYOUT MAIN:(1,8)(CMC,false,43)|([MM3:232],[CHK:279],[C17:262],[THS:223],[C17:56],[CON:143],[CSP:149],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[FUT:173])([C17:223])([C15:51],[MM3:35],[C17:215],[AER:164],[DTK:62],[C17:54],[MM3:46],[C14:266],[LRW:85],[C14:269],[C15:55])([M12:201],[MM3:32],[MBS:23],[BNG:39],[C17:53],[C15:273])([MM2:41],[10E:73],[M11:51],[AKH:49],[C17:208],[C15:11],[EMN:64],[NPH:42],[ZEN:61],[SOK:53],[PCA:24],[CN2:38],[IMA:230])([CN2:111],[EMA:50],[TSP:255],[AKH:55],[BFZ:78],[OGW:58],[C17:11],[M15:67],[M15:68],[THS:60],[PLC:62],[ZEN:69],[XLN:251])([BNG:31],[C14:233],[IMA:47],[THS:51],[ALA:55],[ZEN:68],[ROE:89])([ORI:43],[NPH:31],[WWK:28],[IMA:227],[M10:73],[IMA:74],[OGW:63],[M14:81])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,50)|([HOU:52])
