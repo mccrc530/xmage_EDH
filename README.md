@@ -1,5 +1,5 @@
-# xmage_EDH
-## *Connor's EDH decks to use on Xmage*
+
+## *Connor's EDH decks to use on Xmage*: a beginners guide to Xmage and EDH
 
 ### Quick Links: 
 
@@ -55,9 +55,9 @@
    - You can search for symbols by using { } (i.e. black mana is {b})
    - You can search by rarity by selecting and deselecting the letters to the right of the card types
 5. You can add cards to your deck by either double clicking it in the search result or press the add
-   selected cards to deck button to the left of textbox
+    selected cards to deck button to the left of textbox
 6. You can remove cards from your deck by either double clicking it in the decklist, press the remove
-   selected cards from deck button to the left of the textbox, or dragNdrop them into the search results
+    selected cards from deck button to the left of the textbox, or dragNdrop them into the search results
 7. You may move cards between mainboard and sideboard via dragNdrop
 8. You may quickly add basic lands by pressing the add lands button next to the open and import buttons
    - Recommended to do this last, as it will automatically fill your deck based on the cards in it
@@ -65,7 +65,7 @@
    - Recommended you pick a set to keep it looking nice (Unsets are a good choice for fullart lands)
    - Press suggest, alter distribution as you see fit, then press add
 9. When finished, save your deck and give it a name (recommended you save it to a new name to preserve
-   older versions of the deck incase you [make a mistake](https://www.youtube.com/watch?v=y6rZfpSL1RQ))
+    older versions of the deck incase you [make a mistake](https://www.youtube.com/watch?v=y6rZfpSL1RQ))
 10. Congrats, you can now create a fourth rate deck
 
 ### How to play a game on Xmage
@@ -74,6 +74,7 @@
 2. If you're starting a game, press the gargantuan start game button
    - Give the match a name (don't be offensive unless you want the game taken down while you're playing)
    - Set a password (or don't if you feel like getting your dreams crushed by a random player)
+      * Our playgroup uses "Quack" as the password by default
    - Choose the format to play from the deck type drop down menu (EDH is "Varient Magic - Commander")
    - Choose the game type corresponding to the selected format and number of players
       * If playing a free for all game type, make sure to select desired number of players
@@ -94,6 +95,7 @@
    - When creating a draft, you should probably add additional draftbots to have 8 players 
 4. If you're joining a game to play, find it in the top list (open games)
    - Enter the password 
+      * Our playgroup uses "Quack" as the password by default
    - Select the deck you want to be using with the file explorer
    - If you're joining a draft, you will be directed to the draft table; pick cards by clicking on them
    - If you're playing a sealed game, you will be directed to the deck editor to make your deck with
@@ -103,15 +105,15 @@
 5. Ingame instructions (Note: Xmage is rules enforced, meaning it will do almost everything correctly)
    - You may play lands by clicking on them in your hand
    - You may activate abilities of permanents by clicking on them (and selecting which one if multiple
-     are available) (this includes tapping lands for mana)
+      are available) (this includes tapping lands for mana)
    - You may cast spells by clicking on them and paying mana from your mana pool on the left
       * Spells requiring other costs will prompt you to pay those seperately
    - You may view other zones by clicking on their corresponding buttons next to the mana pool
    - You may select attacker during your declare attack step by clicking on your creatures
    - You may select blockers during others' declare blockers step by clicking on a creature you control
-     then a creature that is attacking *you*
+      then a creature that is attacking *you*
    - You may automatically pass priority (skip) through phases and stacks with the skip buttons, 
-     Use these to make the game go faster if you can't do shit during them anyways
+      Use these to make the game go faster if you can't do shit during them anyways
       * Use skip stack (F10) if you don't want to do anything while something else is happening on the stack
       * Use end turn (F5) to skip to the end of the turn
       * Use your turn (F9) to skip past everything til your *next* turn
@@ -119,7 +121,7 @@
       * Use cancel skip (F3) to save your sorry ass from skipping over your opportunity to do stuff 
       * If you hold priority with nothing to do, begone thot
    - The game will prompt you to select targets for spells and players, which may be done 
-     by clicking the desired permanent, stack item, or player 
+      by clicking the desired permanent, stack item, or player 
    - Select the order that simultaneous and abilities by clicking on them in the desired order (FOLO)
 
 ### Beginner's guide to EDH
@@ -143,7 +145,7 @@
       * Oloro Men-In-Chairs, Ramos Lucky-Charms, Zur Persistant-Peitioners
 3. General Archetypes
    - If you want to play aggro in EDH actually play balls-to-the-wall aggro, you're probably going
-     to lose if the table gets to the late game
+      to lose if the table gets to the late game
       * Have fewer cards in lands, mana advantage, and answers
       * Mulligan to have a fast hand
       * Have many early-game threats to snipe slower decks before they can construct laser cannons
@@ -156,7 +158,7 @@
    - Most decks in EDH fall into midrange, the inbetween of control and aggro
       * See 1. for deck distribution
       * Mulligan to hit all your land drops
-      * Play creatures to not die to aggro and to get aheaed of Control
+      * Play creatures to not die to aggro and to get ahead of control
       * Save good removal for control threats and boardwipes for overwhelming boardstates
    - Combos are good to stuff into most decks as alternate win conditions, but combo decks are another thing
       * Have fewer lands and answers, have a crap ton of card advantage (especially tutors)
@@ -167,11 +169,27 @@
    - Don't ever say you might win, unless everyone else is definitely dead
    - Answer game-ending threats no matter what (think Avenger of Zendikar, Nicky B., Door to Nothingness)
    - Don't answer non-game-ending threats if they aren't an issue for you and you don't care about others
+   - Don't answer crappy card advantage or mana advantage unless you have nothing better to do
+   - Alternatively, do answer major card advantage and mana advantage as they will lead 
+      to very powerful boardstates
    - Make soft-allies and soft-enemies throughout the game in response to the boardstate, cards in hand, 
       deck potentials, and previous interactions
-      * Try not to have these carry in from previous games, unless its Joe **amiright**
+      * Beware of using commanders that rely on combat to do anything, as you'll probably make enemies using them
+      * Try not to have these carry in from previous games, unless its Joe **amiright bois**
+   - If you start getting targeted after deploying threats, try to downplay them as not being very valuable
    - If you try to deploy your endgame threats early, prepare to have them answered
+      * Early Avenger of Zendikars will be wrathed, Insurrections will be countered, Sheoldred will get sniped
       * Try and wait until someone else has already moved onto this stage of the game so you don't get targeted
+      * If your early endgame threat isn't answered, congratulations on your quick victory
+   - Alternatively, if you never play your endgame threats, you are either going to lose or have a long game
    - Playing annoying and unfun cards will generally be annoying and unfun, especially commanders
       * Take it from someone who has played many Barals and Perplexing Chimeras, you will piss people off
+      * If you're playing an unfun deck, at least have it be a high power level and make it end the game fast
+      * Infect is almost universally hated but isn't that great in a free for all setting, try to avoid it
    - If you're targeted, try your best to shift attention to someone else subtly or be archenemy; your choice
+      * If the game revolves around you you're probably going to be targeted
+   - If you're targeted before the game even starts, try playing some lower tier decks and win fewer games
+      * Yes this sucks, but try not to be an ass about it; you can powercreep back to the top after a while
+   - If you need something answered but don't have any responses, try to point problems out and convice 
+      opponents to answer them for you
+      * You can also try doing this while you actually do have answers, but YMMV and you better have a good bluff
