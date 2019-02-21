@@ -24,7 +24,7 @@
    - I recommend you download all images from source 2 to 7, then 1 (this will take a while)
 8. Click the symbols button next to the images button and close it when finished
 9. Click the preferences button on the same row and take a gander at the menu, pick an avatar
-   - I recommend you turn of all sounds, leave them on if you're a masochist
+   - I recommend you turn off all sounds, leave them on if you're a masochist
    - Tweak the rest of the settings to your likings later on, but don't change gui size settings
      until you've hopped into a game unless you have a microscope and/or a jumboscreen
 10. Congratulations, you've finished setting up Xmage; do steps 3, 5, and 6 when returning to Xmage
