@@ -8,11 +8,11 @@
 1 [9ED:137] Hell's Caretaker
 1 [TSP:136] Tendrils of Corruption
 30 [ZEN:261] Swamp
+1 [MIR:303] Grinning Totem
 1 [DDE:29] Phyrexian Processor
 1 [PTC:53] Moonsilver Spear
 1 [TOR:73] Mutilate
 1 [V13:7] Thran Dynamo
-1 [MIR:2] Ashen Powder
 1 [RTR:77] Slum Reaper
 1 [MRD:246] Soul Foundry
 1 [USG:161] Tainted Aether
@@ -27,6 +27,7 @@
 1 [DTK:116] Risen Executioner
 1 [ISD:236] Witchbane Orb
 1 [TSB:51] Uncle Istvan
+1 [STH:60] Grave Pact
 1 [SOM:72] Necrotic Ooze
 1 [JOU:74] King Macar, the Gold-Cursed
 1 [GRC:40] Syphon Mind
@@ -45,7 +46,6 @@
 1 [ISD:90] Bloodline Keeper
 1 [HOP:132] Cabal Coffers
 1 [MPS-AKH:39] Damnation
-1 [STH:10] Grave Pact
 1 [EVE:33] Ashling, the Extinguisher
 1 [XLN:129] Vraska's Contempt
 1 [JUD:66] Filth
@@ -57,7 +57,7 @@
 1 [9ED:146] Mindslicer
 1 [DDQ:55] Dread Return
 1 [C17:21] Vindictive Lich
-1 [MIR:268] Grinning Totem
+1 [MIR:104] Ashen Powder
 1 [M14:103] Liliana's Reaver
 1 [ZEN:212] Crypt of Agadeem
 1 [MPRP:15] Zombify
@@ -69,5 +69,5 @@
 1 [DDE:11] Order of Yawgmoth
 1 [BFZ:240] Mortuary Mire
 SB: 1 [THS:85] Erebos, God of the Dead
-LAYOUT MAIN:(1,9)(CARD_TYPE,false,43)|([MPS:25])([CLASH:11])([C16:245],[MIR:268],[C17:213],[NPH:143],[PTC:53],[V10:11],[DDE:29],[MRD:246],[V13:7],[ISD:236])([DDC:40],[EVE:33],[ISD:90],[GTC:61],[M13:88],[JUD:66],[KLD:84],[ZEN:92],[9ED:137],[JOU:74],[M14:103],[9ED:146],[SOM:72],[DDE:11],[DDE:12],[NPH:68],[DTK:116],[C17:123],[OGW:77],[GRC:63],[RTR:77],[OGW:9],[EMN:109],[RIX:88],[TSB:51],[C17:21])([STH:10],[SCG:68],[ME3:73],[IMA:99],[MPS-AKH:43],[USG:161],[ME3:77])([DDD:53],[TSP:136],[XLN:129])([C15:277],[HOP:132],[ZEN:212],[HOU:171],[BFZ:240],[C17:262],[THS:223],[DDD:59],[FNMP:153],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[PLC:165])([M13:97])([MIR:2],[C17:105],[MPS-AKH:39],[KLD:75],[DDQ:55],[MGDC:46],[TOR:73],[GRC:40],[PLC:81],[MPRP:15])
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,43)|([MPS:25])([CLASH:11])([C16:245],[C17:213],[NPH:143],[PTC:53],[V10:11],[DDE:29],[MRD:246],[V13:7],[ISD:236],[MIR:303])([DDC:40],[EVE:33],[ISD:90],[GTC:61],[M13:88],[JUD:66],[KLD:84],[ZEN:92],[9ED:137],[JOU:74],[M14:103],[9ED:146],[SOM:72],[DDE:11],[DDE:12],[NPH:68],[DTK:116],[C17:123],[OGW:77],[GRC:63],[RTR:77],[OGW:9],[EMN:109],[RIX:88],[TSB:51],[C17:21])([SCG:68],[ME3:73],[IMA:99],[MPS-AKH:43],[USG:161],[ME3:77],[STH:60])([DDD:53],[TSP:136],[XLN:129])([C15:277],[HOP:132],[ZEN:212],[HOU:171],[BFZ:240],[C17:262],[THS:223],[DDD:59],[FNMP:153],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[ZEN:261],[PLC:165])([M13:97])([C17:105],[MPS-AKH:39],[KLD:75],[DDQ:55],[MGDC:46],[TOR:73],[GRC:40],[PLC:81],[MPRP:15],[MIR:104])
 LAYOUT SIDEBOARD:(1,1)(CMC,false,50)|([THS:85])

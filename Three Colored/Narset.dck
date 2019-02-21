@@ -2,7 +2,6 @@
 1 [C17:262] Myriad Landscape
 1 [M11:149] Lightning Bolt
 1 [9ED:297] Fellwar Stone
-1 [ALL:42] Force of Will
 1 [ZEN:220] Misty Rainforest
 1 [5DN:27] Condescend
 1 [XLN:272] Mountain
@@ -11,15 +10,14 @@
 1 [ZEN:223] Scalding Tarn
 1 [INV:57] Fact or Fiction
 1 [FRF:55] Temporal Trespass
-1 [TMP:340] Wasteland
 1 [CHK:277] Hall of the Bandit Lord
 1 [ULG:36] Miscalculation
 1 [5DN:36] Serum Visions
-1 [ICE:278] Swords to Plowshares
 2 [XLN:264] Island
 1 [6ED:323] Dwarven Ruins
 1 [XLN:260] Plains
 1 [USG:318] Worn Powerstone
+1 [ALL:28] Force of Will
 1 [3ED:235] Basalt Monolith
 1 [TSP:48] Ancestral Vision
 1 [TSP:270] Calciform Pools
@@ -46,6 +44,7 @@
 1 [KTK:239] Polluted Delta
 1 [SCG:143] Temple of the False God
 1 [RTR:241] Hallowed Fountain
+1 [ICE:54] Swords to Plowshares
 1 [KTK:233] Flooded Strand
 1 [7ED:67] Counterspell
 1 [KTK:230] Bloodstained Mire
@@ -53,26 +52,29 @@
 1 [ONS:232] Slice and Dice
 1 [ME2:69] Temporal Manipulation
 1 [10E:61] Wrath of God
+1 [3ED:291] Volcanic Island
 1 [APC:23] Evasive Action
 1 [ROE:40] Oust
-1 [3ED:296] Plateau
 1 [ISD:78] Snapcaster Mage
+1 [3ED:289] Tundra
 1 [DTK:225] Narset Transcendent
-1 [TMP:305] Ancient Tomb
 1 [GTC:245] Sacred Foundry
 1 [M12:12] Day of Judgment
 1 [THS:9] Elspeth, Sun's Champion
+1 [VIS:23] Tithe
 1 [FUT:42] Pact of Negation
 1 [MMQ:324] Rishadan Port
 1 [RAV:63] Remand
 1 [LRW:56] Cryptic Command
 1 [ROE:145] Flame Slash
 1 [DIS:33] Spell Snare
+1 [3ED:284] Plateau
 1 [7ED:88] Memory Lapse
 1 [HOU:83] Abrade
 1 [APC:128] Fire // Ice
 1 [ORI:251] Shivan Reef
 1 [MRD:256] Talisman of Progress
+1 [TMP:330] Wasteland
 1 [FUT:52] Logic Knot
 1 [PLC:25] Mana Tithe
 1 [EMA:199] Dack Fayden
@@ -83,19 +85,17 @@
 1 [RTR:172] Izzet Charm
 1 [RTR:201] Supreme Verdict
 1 [ZEN:201] Expedition Map
-1 [3ED:306] Volcanic Island
 1 [AVR:226] Cavern of Souls
 1 [AVR:227] Desolate Lighthouse
-1 [3ED:304] Tundra
-1 [VIS:123] Tithe
 1 [ISD:248] Sulfur Falls
 1 [MRD:152] Chrome Mox
 1 [ZEN:211] Arid Mesa
 1 [C15:26] Fiery Confluence
 1 [ZEN:219] Marsh Flats
 1 [VMA:20] Council's Judgment
+1 [TMP:315] Ancient Tomb
 1 [WWK:31] Jace, the Mind Sculptor
 1 [ULG:126] Grim Monolith
 SB: 1 [KTK:190] Narset, Enlightened Master
-LAYOUT MAIN:(1,10)(CMC,false,43)|([10E:347],[TSP:48],[TMP:305],[ZEN:211],[KTK:230],[TSP:270],[EVE:175],[AVR:226],[MRD:152],[ISD:238],[C17:242],[AVR:227],[6ED:323],[KTK:233],[XLN:255],[CHK:277],[RTR:241],[XLN:264],[XLN:264],[ZEN:219],[ZEN:220],[XLN:272],[C17:262],[SHM:277],[FUT:42],[XLN:260],[3ED:296],[KTK:239],[MMQ:324],[6ED:327],[GTC:245],[ZEN:223],[ORI:251],[RTR:247],[ISD:248],[6ED:329],[SCG:143],[FUT:173],[3ED:304],[3ED:306],[TMP:340],[KTK:248],[KTK:249])([LEG:137],[5DN:27],[ZEN:201],[ROE:145],[7ED:76],[M11:149],[PLC:25],[ROE:40],[5DN:36],[DIS:33],[ICE:278],[VIS:123])([HOU:83],[7ED:67],[NEM:30],[APC:23],[9ED:297],[ULG:126],[RTR:172],[FUT:52],[M12:63],[7ED:88],[ULG:36],[RAV:63],[XLN:74],[ISD:78],[MRD:256],[CMA:27])([3ED:235],[FUT:161],[VMA:20],[EMA:199],[GPT:111],[AKH:149],[USG:318])([ALA:154],[KLD:110],[LRW:56],[M12:12],[INV:57],[C15:26],[APC:128],[WWK:31],[DTK:225],[RTR:201],[10E:61])([ME3:33],[ALL:42],[C15:14],[ME2:69],[M10:75])([THS:9],[ONS:232])([AVR:81])([FRF:1])([FRF:55])
+LAYOUT MAIN:(1,10)(CMC,false,43)|([10E:347],[TSP:48],[ZEN:211],[KTK:230],[TSP:270],[EVE:175],[AVR:226],[MRD:152],[ISD:238],[C17:242],[AVR:227],[6ED:323],[KTK:233],[XLN:255],[CHK:277],[RTR:241],[XLN:264],[XLN:264],[ZEN:219],[ZEN:220],[XLN:272],[C17:262],[SHM:277],[FUT:42],[XLN:260],[KTK:239],[MMQ:324],[6ED:327],[GTC:245],[ZEN:223],[ORI:251],[RTR:247],[ISD:248],[6ED:329],[SCG:143],[FUT:173],[KTK:248],[KTK:249],[3ED:289],[3ED:291],[3ED:284],[TMP:330],[TMP:315])([LEG:137],[5DN:27],[ZEN:201],[ROE:145],[7ED:76],[M11:149],[PLC:25],[ROE:40],[5DN:36],[DIS:33],[VIS:23],[ICE:54])([HOU:83],[7ED:67],[NEM:30],[APC:23],[9ED:297],[ULG:126],[RTR:172],[FUT:52],[M12:63],[7ED:88],[ULG:36],[RAV:63],[XLN:74],[ISD:78],[MRD:256],[CMA:27])([3ED:235],[FUT:161],[VMA:20],[EMA:199],[GPT:111],[AKH:149],[USG:318])([ALA:154],[KLD:110],[LRW:56],[M12:12],[INV:57],[C15:26],[APC:128],[WWK:31],[DTK:225],[RTR:201],[10E:61])([ME3:33],[C15:14],[ME2:69],[M10:75],[ALL:28])([THS:9],[ONS:232])([AVR:81])([FRF:1])([FRF:55])
 LAYOUT SIDEBOARD:(1,1)(CMC,false,50)|([KTK:190])

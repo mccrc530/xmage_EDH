@@ -13,7 +13,6 @@
 1 [DDI:23] Path to Exile
 4 [ZEN:267] Forest
 1 [EXP:14] Sacred Foundry
-1 [MIR:153] Worldly Tutor
 1 [USG:321] Gaea's Cradle
 1 [EXP:16] Flooded Strand
 1 [AKH:134] Glorybringer
@@ -29,7 +28,6 @@
 1 [EMA:187] Sylvan Library
 1 [C17:43] Mirri, Weatherlight Duelist
 2 [BFZ:251b] Plains
-1 [WTH:140] Serenity
 1 [AKH:248] Sheltered Thicket
 1 [RAV:8] Concerted Effort
 1 [ALA:128] Druid of the Anima
@@ -58,6 +56,7 @@
 1 [ME4:169] Sylvan Tutor
 1 [DDH:29] Naya Charm
 1 [MGDC:39] Reclamation Sage
+1 [MIR:255] Worldly Tutor
 1 [DTK:204] Shaman of Forgotten Ways
 1 [IMA:189] Vorinclex, Voice of Hunger
 1 [EMN:46] Thalia, Heretic Cathar
@@ -89,9 +88,10 @@
 1 [M13:20] Intrepid Hero
 1 [IMA:136] Kiki-Jiki, Mirror Breaker
 1 [SOM:225] Copperline Gorge
+1 [WTH:24] Serenity
 1 [EXP:9] Stomping Ground
 2 [BFZ:265b] Mountain
 1 [CN2:69] Regal Behemoth
 SB: 1 [AKH:205] Samut, Voice of Dissent
-LAYOUT MAIN:(1,9)(CMC,false,50)|([EXP:24],[EXP:18],[EXP:5],[EXP:4],[ISD:238],[SOM:225],[V12:5],[XLN:254],[EXP:16],[ZEN:267],[ZEN:267],[ZEN:267],[ZEN:267],[USG:321],[CMA:251],[EXP:40],[KLD:246],[C16:304],[V13:20],[EXP:21],[EXP:25],[BFZ:265b],[BFZ:265b],[BFZ:251b],[BFZ:251b],[VMA:308],[XLN:256],[EXP:14],[VMA:311],[EXP:22],[AKH:247],[AKH:248],[EXP:9],[EXP:43],[XLN:257],[VMA:317],[EXP:10],[EXP:23],[EXP:20],[EXP:19],[ISD:239])([RAV:153],[V13:19],[EMA:22],[DDI:23],[C17:76],[ME4:169],[SOI:234],[MIR:153])([ALA:128],[PLS:106],[MM3:134],[WTH:140],[TPR:192],[EMA:187],[MRD:130],[BOK:163])([ONS:185],[M15:172],[AKH:125],[C16:146],[XLN:191],[M13:20],[CON:114],[C16:155],[C17:43],[DDH:29],[MGDC:39],[DTK:204],[AVR:194],[EMN:46],[DDR:25])([HOU:3],[ROE:177],[AKH:159],[RAV:8],[10E:262],[SOI:31],[M13:23],[M13:186],[NEM:117])([AKH:134],[IMA:136],[DDP:20],[EVE:148])([GTC:143],[CMD:8],[C15:175],[DTK:217],[BFZ:174],[C17:138],[CN2:69])([ISD:129],[IMA:18],[C15:219],[CMA:144])([MM3:122],[ALA:170],[IMA:189])
+LAYOUT MAIN:(1,9)(CMC,false,50)|([EXP:24],[EXP:18],[EXP:5],[EXP:4],[ISD:238],[SOM:225],[V12:5],[XLN:254],[EXP:16],[ZEN:267],[ZEN:267],[ZEN:267],[ZEN:267],[USG:321],[CMA:251],[EXP:40],[KLD:246],[C16:304],[V13:20],[EXP:21],[EXP:25],[BFZ:265b],[BFZ:265b],[BFZ:251b],[BFZ:251b],[VMA:308],[XLN:256],[EXP:14],[VMA:311],[EXP:22],[AKH:247],[AKH:248],[EXP:9],[EXP:43],[XLN:257],[VMA:317],[EXP:10],[EXP:23],[EXP:20],[EXP:19],[ISD:239])([RAV:153],[V13:19],[EMA:22],[DDI:23],[C17:76],[ME4:169],[SOI:234],[MIR:255])([ALA:128],[PLS:106],[MM3:134],[TPR:192],[EMA:187],[MRD:130],[BOK:163],[WTH:24])([ONS:185],[M15:172],[AKH:125],[C16:146],[XLN:191],[M13:20],[CON:114],[C16:155],[C17:43],[DDH:29],[MGDC:39],[DTK:204],[AVR:194],[EMN:46],[DDR:25])([HOU:3],[ROE:177],[AKH:159],[RAV:8],[10E:262],[SOI:31],[M13:23],[M13:186],[NEM:117])([AKH:134],[IMA:136],[DDP:20],[EVE:148])([GTC:143],[CMD:8],[C15:175],[DTK:217],[BFZ:174],[C17:138],[CN2:69])([ISD:129],[IMA:18],[C15:219],[CMA:144])([MM3:122],[ALA:170],[IMA:189])
 LAYOUT SIDEBOARD:(1,1)(CMC,false,50)|([AKH:205])

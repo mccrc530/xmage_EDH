@@ -1,3 +1,4 @@
+1 [ICE:360] Sulfurous Springs
 1 [XLN:116] Raiders' Wake
 1 [ONS:313] Bloodstained Mire
 1 [THS:121] Fanatic of Mogis
@@ -23,7 +24,6 @@
 1 [ODY:326] Shadowblood Ridge
 1 [AVR:97] Descent into Madness
 1 [CON:117] Malfegor
-1 [ICE:352] Sulfurous Springs
 1 [DIS:171] Blood Crypt
 1 [CMD:269] Command Tower
 1 [TSP:101] Dark Withering
@@ -37,13 +37,12 @@
 1 [MRD:255] Talisman of Indulgence
 1 [ORI:131] Avaricious Dragon
 1 [ONS:133] Cover of Darkness
-1 [HML:85] Anaba Shaman
 1 [JOU:70] Felhide Petrifier
 1 [BNG:151] Mogis, God of Slaughter
-1 [HML:86] Anaba Spirit Crafter
 1 [AKH:121] Bloodrage Brawler
 1 [C17:53] Herald's Horn
 1 [JUD:77] Anger
+1 [HML:67a] Anaba Shaman
 1 [SHM:199] Torrent of Souls
 1 [XLN:251] Vanquisher's Banner
 1 [TSP:97] Call to the Netherworld
@@ -72,6 +71,7 @@
 1 [M12:201] Adaptive Automaton
 1 [9ED:146] Mindslicer
 1 [WWK:139] Lavaclaw Reaches
+1 [HML:68] Anaba Spirit Crafter
 1 [AKH:229] Hazoret's Monument
 1 [HOU:64] Grisly Survivor
 1 [RIX:152] Angrath, the Flame-Chained
@@ -80,5 +80,5 @@
 1 [SOM:224] Blackcleave Cliffs
 1 [BFZ:247] Smoldering Marsh
 SB: 1 [AKH:203] Neheb, the Worthy
-LAYOUT MAIN:(1,8)(CMC,false,43)|([ME2:225],[SOM:224],[DIS:171],[AKH:239],[AVR:226],[CMD:269],[M10:223],[SOI:272],[FUT:175],[WWK:139],[C17:56],[ODY:326],[BFZ:247],[ISD:247],[ICE:352],[TOR:142],[BNG:164],[DIS:179],[ONS:313],[ONS:343],[ONS:343],[ONS:343],[ONS:343],[ONS:343],[ONS:343],[ONS:343],[ONS:343],[ONS:343],[ONS:343],[ONS:340],[ONS:340],[ONS:340],[ONS:340],[ONS:340],[ONS:340],[ONS:340],[ONS:340],[ONS:340],[ONS:340])([TSP:97],[ME4:227])([SOI:99],[AKH:121],[HOU:85],[ONS:133],[AER:164],[ODY:206],[SOI:126],[ARC:114],[TOR:86],[MRD:255],[M15:122])([M12:201],[AKH:117],[PLC:63],[ALA:69],[JOU:70],[TOR:97],[HOU:64],[AKH:229],[C17:53],[TSP:126],[THS:138],[BNG:153],[EMN:146],[USG:166])([HML:85],[HML:86],[JUD:77],[ORI:131],[MOR:143],[THS:121],[BNG:96],[ROE:156],[AKH:202],[9ED:146],[BNG:151],[BNG:103],[XLN:116],[MBS:53],[AKH:155])([RIX:204],[RIX:152],[AKH:78],[EXO:131],[AVR:97],[JOU:96],[THS:195],[HOU:104],[ONS:161],[SHM:199],[XLN:251])([RIX:201],[TSP:101],[FUT:66],[C17:27],[CON:117],[DGM:104])([C17:18])
+LAYOUT MAIN:(1,8)(CMC,false,43)|([ME2:225],[SOM:224],[DIS:171],[AKH:239],[AVR:226],[CMD:269],[M10:223],[SOI:272],[FUT:175],[WWK:139],[C17:56],[ODY:326],[BFZ:247],[ISD:247],[TOR:142],[BNG:164],[DIS:179],[ONS:313],[ONS:343],[ONS:343],[ONS:343],[ONS:343],[ONS:343],[ONS:343],[ONS:343],[ONS:343],[ONS:343],[ONS:343],[ONS:340],[ONS:340],[ONS:340],[ONS:340],[ONS:340],[ONS:340],[ONS:340],[ONS:340],[ONS:340],[ONS:340],[ICE:360])([TSP:97],[ME4:227])([SOI:99],[AKH:121],[HOU:85],[ONS:133],[AER:164],[ODY:206],[SOI:126],[ARC:114],[TOR:86],[MRD:255],[M15:122])([M12:201],[AKH:117],[PLC:63],[ALA:69],[JOU:70],[TOR:97],[HOU:64],[AKH:229],[C17:53],[TSP:126],[THS:138],[BNG:153],[EMN:146],[USG:166])([JUD:77],[ORI:131],[MOR:143],[THS:121],[BNG:96],[ROE:156],[AKH:202],[9ED:146],[BNG:151],[BNG:103],[XLN:116],[MBS:53],[AKH:155],[HML:67a],[HML:68])([RIX:204],[RIX:152],[AKH:78],[EXO:131],[AVR:97],[JOU:96],[THS:195],[HOU:104],[ONS:161],[SHM:199],[XLN:251])([RIX:201],[TSP:101],[FUT:66],[C17:27],[CON:117],[DGM:104])([C17:18])
 LAYOUT SIDEBOARD:(1,1)(CMC,false,50)|([AKH:203])

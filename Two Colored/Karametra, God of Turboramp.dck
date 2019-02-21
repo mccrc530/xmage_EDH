@@ -1,15 +1,14 @@
 1 [RAV:198] Congregation at Dawn
 1 [CHK:247] Time of Need
+1 [ICE:281] Altar of Bone
 1 [CMD:155] Fierce Empath
 1 [WWK:1] Admonition Angel
 1 [DDG:25] Edge of Autumn
-1 [MIR:153] Worldly Tutor
 1 [PLS:106] Eladamri's Call
 1 [TPR:199] Survival of the Fittest
 1 [CMD:182] Aura Shards
 1 [INV:278] Sterling Grove
 1 [ROE:6] Kozilek, Butcher of Truth
-1 [ICE:359] Altar of Bone
 1 [PTK:153] Three Visits
 1 [OGW:4] Kozilek, the Great Distortion
 1 [DDF:17] Stormfront Riders
@@ -37,6 +36,7 @@
 1 [C16:316] Reliquary Tower
 1 [ME4:169] Sylvan Tutor
 1 [M11:172] Fauna Shaman
+1 [MIR:255] Worldly Tutor
 1 [EMN:167] Primal Druid
 1 [BFZ:44] Retreat to Emeria
 24 [DDG:46] Forest
@@ -61,5 +61,5 @@
 1 [BFZ:15] Ulamog, the Ceaseless Hunger
 1 [5DN:150] Silent Arbiter
 SB: 1 [BNG:148] Karametra, God of Harvests
-LAYOUT MAIN:(1,11)(CMC,false,43)|([DDG:46],[DDG:46],[DDG:46],[DDG:46],[DDG:46],[DDG:46],[DDG:46],[DDG:46],[DDG:46],[DDG:46],[DDG:46],[DDG:46],[DDG:46],[DDG:46],[DDG:46],[DDG:46],[DDG:46],[DDG:46],[DDG:46],[DDG:46],[DDG:46],[DDG:46],[DDG:46],[DDG:46],[MPS:13],[C16:316],[DDG:42],[DDG:42],[DDG:42],[DDG:42],[DDG:42],[DDG:42],[DDG:42],[DDG:42],[DDG:42],[DDG:42],[DDG:42],[DDG:42],[DDG:42],[DDG:42],[DDG:42])([DDR:7],[EMA:9],[BOK:124],[C14:194],[MM2:213],[EMA:169],[BFZ:176],[MMA:25],[10E:44],[ME4:169],[MIR:153])([ICE:359],[DDG:25],[PLS:106],[M11:172],[CSP:111],[DDD:17],[EMN:167],[CHK:239],[INV:278],[TPR:199],[PTK:153],[CHK:247],[EMA:37])([CMD:182],[C16:144],[M15:172],[RAV:198],[C13:240],[CMD:155],[DDH:12],[CHK:10],[AER:162],[AKH:180],[BFZ:186],[C13:22])([PLC:5],[ZEN:11],[DD3EVG:22],[BFZ:44],[WWK:130],[5DN:150],[AKH:192])([DDF:17],[ORI:209])([WWK:1],[M14:190],[ZEN:178],[C14:215])([WWK:96],[M12:176],[ORI:191],[OGW:147])([ROE:6],[OGW:4],[BFZ:15])([V11:14])([EMN:6])
+LAYOUT MAIN:(1,11)(CMC,false,43)|([DDG:46],[DDG:46],[DDG:46],[DDG:46],[DDG:46],[DDG:46],[DDG:46],[DDG:46],[DDG:46],[DDG:46],[DDG:46],[DDG:46],[DDG:46],[DDG:46],[DDG:46],[DDG:46],[DDG:46],[DDG:46],[DDG:46],[DDG:46],[DDG:46],[DDG:46],[DDG:46],[DDG:46],[MPS:13],[C16:316],[DDG:42],[DDG:42],[DDG:42],[DDG:42],[DDG:42],[DDG:42],[DDG:42],[DDG:42],[DDG:42],[DDG:42],[DDG:42],[DDG:42],[DDG:42],[DDG:42],[DDG:42])([DDR:7],[EMA:9],[BOK:124],[C14:194],[MM2:213],[EMA:169],[BFZ:176],[MMA:25],[10E:44],[ME4:169],[MIR:255])([DDG:25],[PLS:106],[M11:172],[CSP:111],[DDD:17],[EMN:167],[CHK:239],[INV:278],[TPR:199],[PTK:153],[CHK:247],[EMA:37],[ICE:281])([CMD:182],[C16:144],[M15:172],[RAV:198],[C13:240],[CMD:155],[DDH:12],[CHK:10],[AER:162],[AKH:180],[BFZ:186],[C13:22])([PLC:5],[ZEN:11],[DD3EVG:22],[BFZ:44],[WWK:130],[5DN:150],[AKH:192])([DDF:17],[ORI:209])([WWK:1],[M14:190],[ZEN:178],[C14:215])([WWK:96],[M12:176],[ORI:191],[OGW:147])([ROE:6],[OGW:4],[BFZ:15])([V11:14])([EMN:6])
 LAYOUT SIDEBOARD:(1,1)(CMC,false,50)|([BNG:148])

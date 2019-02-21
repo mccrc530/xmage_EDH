@@ -1,81 +1,83 @@
 NAME:not momior
-1 [C15:232] Putrefy
-1 [M13:162] Boundless Realms
-1 [RAV:225] Savra, Queen of the Golgari
-1 [M12:116] Vengeful Pharaoh
-1 [C15:271] Swiftfoot Boots
-1 [DDJ:48] Golgari Thug
-1 [SOI:245] The Gitrog Monster
-1 [M15:110] Ob Nixilis, Unshackled
-1 [C14:27] Ob Nixilis of the Black Oath
-1 [MBS:46] Massacre Wurm
-12 [M15:259] Swamp
-1 [RAV:167] Golgari Grave-Troll
-1 [SOI:275] Foul Orchard
-1 [DDJ:79] Dakmor Salvage
-1 [DGM:63] Deadbridge Chant
-1 [JUD:117] Genesis
-1 [DKA:115] Ghoultree
-1 [RTR:208] Vraska the Unseen
-1 [ISD:105] Liliana of the Veil
-1 [RTR:63] Desecration Demon
-1 [C15:248] Burnished Hart
-1 [C15:209] Viridian Shaman
-1 [C15:285] Ghost Quarter
-1 [C13:99] Viscera Seer
-1 [C15:286] Golgari Guildgate
-1 [C15:287] Golgari Rot Farm
-1 [CMD:72] Attrition
-1 [DDJ:57] Shambling Shell
-1 [C15:288] Grim Backwoods
-1 [ISD:205] Splinterfright
-1 [EXP:13] Overgrown Tomb
-9 [10E:383] Forest
-1 [C14:163] Skirsdag High Priest
-1 [C15:183] Eternal Witness
-1 [C15:200] Sakura-Tribe Elder
-1 [C15:301] Reliquary Tower
-1 [HOP:28] Grave Pact
-1 [DDJ:65] Doomgape
-1 [C13:134] Acidic Slime
-1 [C15:119] Champion of Stray Souls
-1 [RTR:213] Deathrite Shaman
-1 [C15:257] Lightning Greaves
 1 [CLASH:10] Reaper of the Wilds
-1 [C13:278] Bojuka Bog
-1 [C15:118] Butcher of Malakir
-1 [C15:255] Golgari Signet
-2 [ZEN:240] Swamp
-1 [JOU:165] Temple of Malady
 1 [CNS:196] Altar of Dementia
-1 [ISD:181] Garruk Relentless
-1 [VMA:104] Animate Dead
-1 [ZEN:107] Ob Nixilis, the Fallen
-1 [C15:314] Terramorphic Expanse
-1 [C14:199] Harrow
-1 [MM2:191] Creakwood Liege
-1 [MBP:104] Garruk, Apex Predator
-1 [CMD:261] Sol Ring
-1 [C14:295] Evolving Wilds
-1 [JUD:107] Brawn
-1 [NPH:104] Birthing Pod
 1 [C13:76] Endrek Sahr, Master Breeder
-1 [M11:175] Garruk Wildspeaker
-1 [DKA:70] Mikaeus, the Unhallowed
-1 [C13:281] Command Tower
-1 [ISD:226] Grimoire of the Dead
-1 [NPH:73] Sheoldred, Whispering One
-1 [MBP:30] Liliana Vess
-1 [MM2:92] Reassembling Skeleton
-1 [ARB:91] Lord of Extinction
 1 [RAV:158] Doubling Season
-1 [PC2:68] Mycoloth
-1 [MBP:74] Liliana of the Dark Realms
-1 [CMD:179] Yavimaya Elder
-1 [MMA:98] Stinkweed Imp
-1 [C13:153] Krosan Grip
-1 [SOM:175] Mimic Vat
-1 [BFZ:119] Ob Nixilis Reignited
-1 [C15:222] Grisly Salvage
+1 [M12:116] Vengeful Pharaoh
+1 [C15:285] Ghost Quarter
+1 [C15:286] Golgari Guildgate
+1 [JUD:117] Genesis
+1 [C15:287] Golgari Rot Farm
+1 [C15:288] Grim Backwoods
+1 [C15:200] Sakura-Tribe Elder
+1 [MM2:191] Creakwood Liege
+1 [M15:110] Ob Nixilis, Unshackled
+1 [C15:248] Burnished Hart
+1 [DDJ:48] Golgari Thug
+1 [ZEN:107] Ob Nixilis, the Fallen
+1 [C13:134] Acidic Slime
+1 [DKA:70] Mikaeus, the Unhallowed
+1 [ISD:181] Garruk Relentless
+1 [C15:209] Viridian Shaman
+1 [MBP:104] Garruk, Apex Predator
 1 [C14:140] Disciple of Bolas
+1 [SOI:275] Foul Orchard
+1 [ISD:105] Liliana of the Veil
+1 [ISD:226] Grimoire of the Dead
+1 [CMD:72] Attrition
+1 [SOM:175] Mimic Vat
+1 [CMD:261] Sol Ring
+1 [MBP:30] Liliana Vess
+1 [MBP:74] Liliana of the Dark Realms
+1 [C15:271] Swiftfoot Boots
+1 [RAV:225] Savra, Queen of the Golgari
+1 [RTR:63] Desecration Demon
+1 [PC2:68] Mycoloth
+1 [C15:232] Putrefy
+1 [EXP:13] Overgrown Tomb
+1 [C14:27] Ob Nixilis of the Black Oath
+1 [M11:175] Garruk Wildspeaker
+1 [C15:314] Terramorphic Expanse
+1 [M13:162] Boundless Realms
+1 [C15:118] Butcher of Malakir
+1 [DDJ:57] Shambling Shell
+1 [C15:119] Champion of Stray Souls
+1 [ARB:91] Lord of Extinction
+1 [HOP:28] Grave Pact
+1 [C14:199] Harrow
+12 [M15:259] Swamp
+1 [RTR:213] Deathrite Shaman
+1 [DGM:63] Deadbridge Chant
+1 [SOI:245] The Gitrog Monster
+1 [MBS:46] Massacre Wurm
+1 [C13:99] Viscera Seer
+1 [C15:183] Eternal Witness
+1 [JOU:165] Temple of Malady
+1 [CMD:179] Yavimaya Elder
+9 [10E:383] Forest
+1 [MM2:92] Reassembling Skeleton
+1 [C15:222] Grisly Salvage
+1 [C15:301] Reliquary Tower
+1 [NPH:104] Birthing Pod
+2 [ZEN:240] Swamp
+1 [C13:278] Bojuka Bog
+1 [NPH:73] Sheoldred, Whispering One
+1 [C13:153] Krosan Grip
+1 [C14:163] Skirsdag High Priest
+1 [DDJ:65] Doomgape
+1 [VMA:104] Animate Dead
+1 [RTR:208] Vraska the Unseen
+1 [ISD:205] Splinterfright
+1 [BFZ:119] Ob Nixilis Reignited
+1 [MMA:98] Stinkweed Imp
+1 [RAV:167] Golgari Grave-Troll
+1 [C15:255] Golgari Signet
+1 [JUD:107] Brawn
+1 [C15:257] Lightning Greaves
+1 [DDJ:79] Dakmor Salvage
+1 [DKA:115] Ghoultree
+1 [C14:295] Evolving Wilds
+1 [C13:281] Command Tower
 SB: 1 [C15:223] Jarad, Golgari Lich Lord
+LAYOUT MAIN:(1,9)(CMC,false,24)|([M15:259],[M15:259],[M15:259],[M15:259],[M15:259],[M15:259],[M15:259],[M15:259],[M15:259],[M15:259],[M15:259],[M15:259],[SOI:275],[DDJ:79],[C15:285],[C15:286],[C15:287],[C15:288],[EXP:13],[10E:383],[10E:383],[10E:383],[10E:383],[10E:383],[10E:383],[10E:383],[10E:383],[10E:383],[C15:301],[C13:278],[ZEN:240],[ZEN:240],[JOU:165],[C15:314],[C14:295],[C13:281])([C13:99],[RTR:213],[CMD:261])([C15:271],[DDJ:48],[C14:163],[C15:200],[C15:257],[C15:255],[CNS:196],[VMA:104],[MM2:92],[C15:222])([C15:232],[ISD:105],[C15:248],[C15:209],[CMD:72],[DDJ:57],[ISD:205],[C15:183],[C14:199],[CMD:179],[MMA:98],[C13:153],[SOM:175])([RAV:225],[RTR:63],[HOP:28],[CLASH:10],[ISD:181],[MM2:191],[JUD:107],[NPH:104],[M11:175],[ISD:226],[MBP:74],[C14:140])([M12:116],[SOI:245],[C14:27],[RAV:167],[JUD:117],[RTR:208],[C13:134],[ZEN:107],[C13:76],[MBP:30],[ARB:91],[RAV:158],[PC2:68],[BFZ:119])([M15:110],[MBS:46],[DGM:63],[C15:119],[DKA:70])([M13:162],[DDJ:65],[C15:118],[MBP:104],[NPH:73])([DKA:115])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,50)|([C15:223])

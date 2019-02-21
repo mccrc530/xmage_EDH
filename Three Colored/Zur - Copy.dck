@@ -1,100 +1,101 @@
 NAME:Zur EDH
-1 [WWK:134] Creeping Tar Pit
-1 [VMA:323] Underground Sea
-1 [WWK:133] Celestial Colonnade
-1 [8ED:105] Telepathy
-1 [FUT:20] Bound in Silence
-1 [RTR:3] Arrest
-1 [VMA:322] Tundra
-1 [CHK:10] Ghostly Prison
-1 [C13:328] Terramorphic Expanse
-1 [RTR:155] Detention Sphere
-1 [CON:10] Mark of Asylum
-1 [RTR:9] Ethereal Armor
-1 [CNS:85] Unquestioned Authority
-1 [TMP:231] Flickering Ward
-1 [SHM:21] Runed Halo
-1 [EXP:6] Hallowed Fountain
-1 [USG:65] Cloak of Mists
-1 [EXP:21] Marsh Flats
-1 [DDC:17] Pacifism
-1 [EXP:16] Flooded Strand
-1 [EXP:17] Polluted Delta
-1 [ZEN:224] Sejiri Refuge
-1 [HOP:6] Prison Term
-2 [10E:370] Island
-1 [DDI:30] Steel of the Godhead
-1 [ODY:5] Auramancer
-1 [10E:347] Adarkar Wastes
-1 [ICE:50] Soul Kiss
-1 [ROE:79] Narcolepsy
-1 [SHM:139] Curse of Chains
-1 [ODY:327] Skycloud Expanse
-1 [MOR:12] Idyllic Tutor
-1 [MM2:71] Bitterblossom
-1 [ARB:109] Sen Triplets
-1 [EXP:11] Godless Shrine
-1 [PC2:120] Jwar Isle Refuge
+1 [ICE:162] Soul Kiss
 1 [M15:4] Battle Mastery
-1 [PCY:45] Rhystic Study
-1 [6ED:332] Plains
-1 [ALA:223] Esper Panorama
-1 [ALA:167] Esper Charm
-1 [VMA:130] Necropotence
-1 [ME3:214] Urborg
-1 [M10:20] Mesa Enchantress
-1 [9ED:326] Underground River
-1 [M13:225] Glacial Fortress
-1 [SHM:277] Mystic Gate
-1 [POR:9] Cruel Tutor
-1 [10E:6] Aura of Silence
-1 [GPT:14] Shadow Lance
-1 [TSP:272] Flagstones of Trokair
-1 [CHK:275] Eiganjo Castle
-1 [ME3:34] Dance of Many
-1 [TPR:57] Legacy's Allure
-1 [M15:241] Caves of Koilos
-1 [LEB:294] Scrubland
-1 [USG:325] Serra's Sanctum
-1 [C13:273] Arcane Sanctum
-1 [PLS:107] Ertai, the Corrupted
-1 [CHK:279] Minamo, School at Water's Edge
-1 [DIS:53] Seal of Doom
-1 [DDH:26] Recumbent Bliss
-1 [SHM:280] Sunken Ruins
-1 [ODY:26] Karmic Justice
-1 [ALA:230] Plains
-1 [LRW:45] Triclopean Sight
-1 [C15:3] Grasp of Fate
-1 [EVE:87] Edge of the Divinity
-1 [CHK:3] Cage of Hands
-1 [RAV:286] Watery Grave
-1 [UDS:1] Academy Rector
-1 [SHM:7] Greater Auramancy
-1 [VMA:145] Vampiric Tutor
-1 [USG:73] Energy Field
-1 [DDE:27] Phyrexian Arena
-1 [S99:79] Grim Tutor
-1 [CMD:55] Propaganda
-1 [ZEN:14] Journey to Nowhere
-1 [BFZ:263] Swamp
-1 [BFZ:262] Swamp
-1 [DDG:34] Oblivion Ring
-1 [DIS:112] Grand Arbiter Augustin IV
-1 [ISD:25] Nevermore
-1 [RAV:42] Copy Enchantment
+1 [SHM:139] Curse of Chains
+1 [EXP:21] Marsh Flats
 1 [CHK:283] Shizo, Death's Storehouse
+1 [HOP:6] Prison Term
+1 [ODY:26] Karmic Justice
 1 [ZEN:25] Luminarch Ascension
-1 [VMA:116] Demonic Tutor
-1 [MMQ:75] Diplomatic Immunity
-1 [BOK:56] Threads of Disloyalty
-1 [MM2:183] Pillory of the Sleepless
-1 [SOM:229] Seachrome Coast
+1 [ME3:214] Urborg
+1 [USG:325] Serra's Sanctum
+1 [DDE:27] Phyrexian Arena
+1 [VMA:322] Tundra
+1 [ZEN:224] Sejiri Refuge
+1 [VMA:323] Underground Sea
+1 [EXP:17] Polluted Delta
+1 [EXP:16] Flooded Strand
 1 [INV:273] Sleeper's Robe
-1 [ONS:322] Riptide Laboratory
-1 [SOK:5] Cowed by Wisdom
-1 [RTR:259] Island
-1 [ARB:12] Sovereigns of Lost Alara
-1 [MM2:14] Daybreak Coronet
+1 [CHK:279] Minamo, School at Water's Edge
+1 [ROE:79] Narcolepsy
+1 [CHK:275] Eiganjo Castle
+1 [EXP:11] Godless Shrine
+1 [UDS:1] Academy Rector
+1 [MMQ:75] Diplomatic Immunity
+1 [9ED:326] Underground River
+1 [TSP:272] Flagstones of Trokair
+1 [ISD:25] Nevermore
+1 [DDI:30] Steel of the Godhead
+1 [USG:65] Cloak of Mists
+1 [M10:20] Mesa Enchantress
+1 [PCY:45] Rhystic Study
 1 [ODY:319] Darkwater Catacombs
+1 [ALA:167] Esper Charm
+1 [SHM:277] Mystic Gate
+1 [EVE:87] Edge of the Divinity
+1 [M13:225] Glacial Fortress
+1 [6ED:332] Plains
+1 [10E:347] Adarkar Wastes
+1 [MM2:14] Daybreak Coronet
+1 [FUT:20] Bound in Silence
+1 [ME3:34] Dance of Many
+1 [WWK:133] Celestial Colonnade
+1 [SHM:21] Runed Halo
+1 [WWK:134] Creeping Tar Pit
+1 [RAV:42] Copy Enchantment
+1 [DIS:53] Seal of Doom
+1 [M15:241] Caves of Koilos
+1 [VMA:116] Demonic Tutor
+1 [CHK:3] Cage of Hands
+1 [MOR:12] Idyllic Tutor
+1 [C15:3] Grasp of Fate
+1 [BOK:56] Threads of Disloyalty
+1 [S99:79] Grim Tutor
+1 [PC2:120] Jwar Isle Refuge
+1 [SOK:5] Cowed by Wisdom
+1 [ALA:223] Esper Panorama
+1 [LRW:45] Triclopean Sight
+1 [PLS:107a] Ertai, the Corrupted
+1 [MM2:71] Bitterblossom
+1 [CNS:85] Unquestioned Authority
+1 [TMP:19] Flickering Ward
+1 [ONS:322] Riptide Laboratory
+1 [ODY:327] Skycloud Expanse
+1 [MM2:183] Pillory of the Sleepless
+1 [ARB:109] Sen Triplets
+1 [ARB:12] Sovereigns of Lost Alara
+1 [SHM:280] Sunken Ruins
+1 [TPR:56] Legacy's Allure
+1 [ODY:5] Auramancer
+1 [RTR:259] Island
+1 [DDG:34] Oblivion Ring
+1 [VMA:130] Necropotence
+1 [LEB:282] Scrubland
+1 [SHM:7] Greater Auramancy
+1 [8ED:105] Telepathy
+1 [RTR:3] Arrest
+1 [RTR:9] Ethereal Armor
+1 [DIS:112] Grand Arbiter Augustin IV
+1 [USG:73] Energy Field
+2 [BFZ:260a] Swamp
+1 [DDH:26] Recumbent Bliss
+1 [CON:10] Mark of Asylum
+1 [VMA:145] Vampiric Tutor
+1 [C13:273] Arcane Sanctum
+1 [GPT:14] Shadow Lance
+1 [RAV:286] Watery Grave
+1 [ALA:230] Plains
+2 [10E:370] Island
+1 [10E:6] Aura of Silence
+1 [C13:328] Terramorphic Expanse
+1 [CMD:55] Propaganda
+1 [RTR:155] Detention Sphere
+1 [ZEN:14] Journey to Nowhere
+1 [CHK:10] Ghostly Prison
+1 [DDC:17] Pacifism
+1 [SOM:229] Seachrome Coast
+1 [EXP:6] Hallowed Fountain
+1 [POR:87] Cruel Tutor
 SB: 1 [CSP:135] Zur the Enchanter
+LAYOUT MAIN:(1,7)(CMC,false,31)|([WWK:134],[VMA:323],[WWK:133],[VMA:322],[C13:328],[EXP:6],[EXP:21],[EXP:16],[EXP:17],[ZEN:224],[10E:370],[10E:370],[10E:347],[ODY:327],[EXP:11],[PC2:120],[6ED:332],[ALA:223],[ME3:214],[9ED:326],[M13:225],[SHM:277],[TSP:272],[CHK:275],[M15:241],[LEB:282],[USG:325],[C13:273],[CHK:279],[SHM:280],[ALA:230],[RAV:286],[BFZ:260a],[BFZ:260a],[CHK:283],[SOM:229],[ONS:322],[RTR:259],[ODY:319])([8ED:105],[RTR:9],[TMP:19],[GPT:14],[EVE:87],[VMA:145],[SOK:5])([CON:10],[SHM:21],[USG:65],[DDC:17],[ROE:79],[SHM:139],[MM2:71],[ME3:34],[TPR:56],[LRW:45],[SHM:7],[USG:73],[ZEN:14],[ZEN:25],[VMA:116],[MMQ:75],[INV:273],[MM2:14])([FUT:20],[RTR:3],[CHK:10],[RTR:155],[CNS:85],[HOP:6],[DDI:30],[ODY:5],[ICE:162],[MOR:12],[M15:4],[PCY:45],[ALA:167],[VMA:130],[M10:20],[POR:87],[10E:6],[DIS:53],[DDH:26],[ODY:26],[C15:3],[CHK:3],[DDE:27],[S99:79],[CMD:55],[DDG:34],[ISD:25],[RAV:42],[BOK:56],[MM2:183])([UDS:1],[DIS:112])([ARB:109],[PLS:107a])([ARB:12])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,50)|([CSP:135])

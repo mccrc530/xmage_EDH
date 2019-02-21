@@ -1,101 +1,103 @@
 NAME:Rubinia Soulsinger - EDH LoL
-1 [AVR:47] Deadeye Navigator
-1 [M15:75] Polymorphist's Jest
-1 [EMA:220] Duplicant
-1 [RAV:75] Wizened Snitches
-1 [ALA:155] Bant Charm
-1 [LRW:75] Mistbind Clique
-1 [LRW:298] Forest
-1 [TSP:81] Sprite Noble
-1 [M15:76] Quickling
-1 [VMA:260] Selvala, Explorer Returned
-1 [ZEN:266] Forest
-1 [EMA:218] Ashnod's Altar
-1 [MRD:245] Solemn Simulacrum
-1 [AVR:225] Alchemist's Refuge
-1 [BNG:148] Karametra, God of Harvests
-1 [LRW:200] Changeling Titan
-1 [CNS:189] Mirari's Wake
-1 [LRW:67] Glen Elendra Pranksters
-1 [6ED:64] Desertion
-1 [SOM:39] Quicksilver Gargantuan
-1 [ALA:221] Bant Panorama
-1 [C13:17] Mirror Entity
-1 [LRW:61] Faerie Harbinger
-1 [DGM:92] Progenitor Mimic
-1 [LRW:62] Faerie Trickery
-1 [C14:59] Arcane Lighthouse
-1 [M15:222] Obelisk of Urd
-1 [PLC:35] Body Double
-1 [CNS:111] Wind Dancer
-1 [RAV:67] Surveilling Sprite
-1 [ALA:229] Seaside Citadel
-1 [ORI:84] Willbreaker
-1 [THS:226] Temple of Mystery
-1 [M12:201] Adaptive Automaton
-1 [MM2:249] Simic Growth Chamber
-1 [MM2:248] Selesnya Sanctuary
-1 [M14:208] Door of Destinies
-1 [ARC:134] Terramorphic Expanse
-1 [ROE:231] Plains
-1 [M15:64] Jalira, Master Polymorphist
-1 [BNG:165] Temple of Plenty
-1 [LRW:89] Spellstutter Sprite
-1 [EXP:25] Misty Rainforest
 1 [LRW:88] Sower of Temptation
-1 [2ED:52] Clone
-1 [BNG:163] Temple of Enlightenment
-1 [MMA:59] Pestermite
-1 [LRW:85] Shapesharer
-1 [LRW:83] Scion of Oona
-1 [DKA:28] Beguiler of Wills
-1 [MM2:235] Azorius Chancery
-1 [H09:29] Coat of Arms
+1 [V12:9] High Market
+1 [LRW:89] Spellstutter Sprite
+1 [EVE:177] Flooded Grove
+1 [INV:306] Phyrexian Altar
+1 [C14:59] Arcane Lighthouse
+1 [ROE:231] Plains
+1 [EXP:20] Windswept Heath
+1 [CNS:111] Wind Dancer
+1 [M15:222] Obelisk of Urd
+1 [MOR:45] Notorious Throng
 1 [DDO:61] Island
+1 [EXP:15] Breeding Pool
+1 [BNG:148] Karametra, God of Harvests
+1 [EXP:16] Flooded Strand
+1 [RTR:35] Cyclonic Rift
+1 [LRW:83] Scion of Oona
+1 [LRW:85] Shapesharer
+1 [DGM:92] Progenitor Mimic
 1 [BFZ:236] Evolving Wilds
 1 [RTR:39] Faerie Impostor
-1 [RTR:35] Cyclonic Rift
-1 [EXP:1] Prairie Stream
-1 [SOI:241] Altered Ego
-1 [EXP:20] Windswept Heath
-1 [EXP:5] Canopy Vista
-1 [MMA:47] Glen Elendra Archmage
-1 [PO2:154] Island
-1 [ZEN:61] Rite of Replication
-1 [EXP:15] Breeding Pool
-1 [EXP:16] Flooded Strand
-1 [MM2:67] Vendilion Clique
-1 [ARC:52] Chameleon Colossus
-1 [M13:159] Acidic Slime
-1 [KTK:34] Clever Impersonator
-1 [CHK:259] Konda's Banner
-1 [VMA:62] Cloud of Faeries
-1 [RTR:241] Hallowed Fountain
-1 [SHM:37] Faerie Swarm
-1 [CNS:98] Favorable Winds
-1 [ISD:241] Hinterland Harbor
-1 [EVE:177] Flooded Grove
-1 [EXP:10] Temple Garden
-1 [V12:9] High Market
-1 [INV:306] Phyrexian Altar
-1 [KTK:231] Blossoming Sands
-1 [SHM:277] Mystic Gate
-1 [ZEN:234] Island
-1 [SHM:278] Reflecting Pool
-1 [MOR:45] Notorious Throng
-1 [C15:315] Thornwood Falls
-1 [GTC:231] Illusionist's Bracers
-1 [EMA:42] Control Magic
-1 [ROE:69] Gravitational Shift
+1 [SOM:39] Quicksilver Gargantuan
 1 [C15:87] Blatant Thievery
-1 [ARB:129] Wargate
-1 [ZEN:255] Island
-1 [MOR:37] Inspired Sprite
-1 [DDQ:34] Tranquil Cove
-1 [C13:281] Command Tower
 1 [M12:229] Sunpetal Grove
-1 [M11:225] Glacial Fortress
-1 [NPH:42] Phyrexian Metamorph
-1 [MOR:123] Game-Trail Changeling
+1 [EMA:42] Control Magic
+1 [M13:159] Acidic Slime
+1 [EXP:10] Temple Garden
+1 [DDQ:34] Tranquil Cove
 1 [MOR:32] Distant Melody
+1 [ZEN:234] Island
+1 [MOR:37] Inspired Sprite
+1 [ORI:84] Willbreaker
+1 [THS:226] Temple of Mystery
+1 [SHM:277] Mystic Gate
+1 [LRW:67] Glen Elendra Pranksters
+1 [SHM:278] Reflecting Pool
+1 [C13:17] Mirror Entity
+1 [2ED:52] Clone
+1 [SHM:37] Faerie Swarm
+1 [H09:29] Coat of Arms
+1 [LRW:62] Faerie Trickery
+1 [LRW:61] Faerie Harbinger
+1 [BNG:165] Temple of Plenty
+1 [BNG:163] Temple of Enlightenment
+1 [ALA:155] Bant Charm
+1 [MMA:59] Pestermite
+1 [ZEN:61] Rite of Replication
+1 [ZEN:255] Island
+1 [CNS:189] Mirari's Wake
+1 [RTR:241] Hallowed Fountain
+1 [ARC:134] Terramorphic Expanse
+1 [KTK:231] Blossoming Sands
+1 [VMA:62] Cloud of Faeries
+1 [LRW:75] Mistbind Clique
+1 [CHK:259] Konda's Banner
+1 [DKA:28] Beguiler of Wills
+1 [ALA:221] Bant Panorama
+1 [M15:76] Quickling
+1 [MMA:47] Glen Elendra Archmage
+1 [M11:225] Glacial Fortress
+1 [RAV:75] Wizened Snitches
+1 [ZEN:266] Forest
+1 [M15:75] Polymorphist's Jest
+1 [MRD:245] Solemn Simulacrum
+1 [RNA:261] Island
+1 [MOR:123] Game-Trail Changeling
+1 [RAV:67] Surveilling Sprite
+1 [KTK:34] Clever Impersonator
+1 [TSP:81] Sprite Noble
+1 [EMA:220] Duplicant
+1 [C15:315] Thornwood Falls
+1 [MM2:67] Vendilion Clique
+1 [CNS:98] Favorable Winds
+1 [NPH:42] Phyrexian Metamorph
+1 [EMA:218] Ashnod's Altar
+1 [M14:208] Door of Destinies
+1 [AVR:47] Deadeye Navigator
+1 [GTC:231] Illusionist's Bracers
+1 [SOI:241] Altered Ego
+1 [ROE:69] Gravitational Shift
+1 [6ED:64] Desertion
+1 [AVR:225] Alchemist's Refuge
+1 [ISD:241] Hinterland Harbor
+1 [MM2:249] Simic Growth Chamber
+1 [LRW:200] Changeling Titan
+1 [MM2:248] Selesnya Sanctuary
+1 [VMA:260] Selvala, Explorer Returned
+1 [PLC:35] Body Double
+1 [M12:201] Adaptive Automaton
+1 [ARB:129] Wargate
+1 [EXP:1] Prairie Stream
+1 [EXP:25] Misty Rainforest
+1 [ARC:52] Chameleon Colossus
+1 [EXP:5] Canopy Vista
+1 [C13:281] Command Tower
+1 [ALA:229] Seaside Citadel
+1 [M15:64] Jalira, Master Polymorphist
+1 [MM2:235] Azorius Chancery
+1 [LRW:298] Forest
 SB: 1 [CHR:118] Rubinia Soulsinger
+LAYOUT MAIN:(1,8)(CMC,false,43)|([LRW:298],[ZEN:266],[AVR:225],[ALA:221],[C14:59],[ALA:229],[THS:226],[MM2:249],[MM2:248],[ARC:134],[ROE:231],[BNG:165],[EXP:25],[BNG:163],[MM2:235],[DDO:61],[BFZ:236],[EXP:1],[EXP:20],[EXP:5],[RNA:261],[EXP:15],[EXP:16],[RTR:241],[ISD:241],[EVE:177],[EXP:10],[V12:9],[KTK:231],[SHM:277],[ZEN:234],[SHM:278],[C15:315],[ZEN:255],[DDQ:34],[C13:281],[M12:229],[M11:225])([RTR:39])([M15:76],[CNS:111],[RAV:67],[LRW:89],[LRW:85],[RTR:35],[CHK:259],[VMA:62],[CNS:98],[GTC:231])([M15:75],[ALA:155],[TSP:81],[VMA:260],[EMA:218],[C13:17],[LRW:62],[M12:201],[MMA:59],[LRW:83],[MM2:67],[INV:306],[ARB:129])([RAV:75],[LRW:75],[MRD:245],[LRW:67],[LRW:61],[M14:208],[M15:64],[LRW:88],[2ED:52],[SOI:241],[MMA:47],[ZEN:61],[ARC:52],[KTK:34],[SHM:37],[MOR:45],[EMA:42],[MOR:37],[NPH:42],[MOR:32])([BNG:148],[LRW:200],[CNS:189],[6ED:64],[PLC:35],[ORI:84],[DKA:28],[H09:29],[M13:159],[ROE:69],[MOR:123])([AVR:47],[EMA:220],[DGM:92],[M15:222])([SOM:39],[C15:87])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,50)|([CHR:118])

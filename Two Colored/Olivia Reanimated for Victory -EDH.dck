@@ -7,6 +7,7 @@ NAME:Olivia Reanimated for Victory -EDH
 1 [DDJ:48] Golgari Thug
 1 [EXP:18] Bloodstained Mire
 1 [USG:322] Phyrexian Tower
+1 [ALL:51a] Insidious Bookworms
 1 [AVR:162] Tyrant of Discord
 1 [EURO:5] Swamp
 1 [SOI:272] Foreboding Ruins
@@ -15,6 +16,7 @@ NAME:Olivia Reanimated for Victory -EDH
 1 [APC:55] Bloodfire Colossus
 1 [ME3:224] Swamp
 1 [M14:244] Mountain
+1 [LEG:139] Crimson Kobolds
 1 [DGM:22] Blood Scrivener
 1 [BOK:77] Patron of the Nezumi
 1 [KLD:256] Swamp
@@ -30,37 +32,37 @@ NAME:Olivia Reanimated for Victory -EDH
 1 [VMA:104] Animate Dead
 1 [ARC:9] Avatar of Woe
 1 [INV:330] Urborg Volcano
+1 [LEG:141] Crookshank Kobolds
 1 [DDC:61] Swamp
 1 [THS:214] Colossus of Akros
 2 [DDC:60] Swamp
 1 [VIS:152] Phyrexian Walker
 1 [VIS:151] Phyrexian Marauder
+1 [ICE:373] Swamp
 1 [ARC:99] Vampiric Dragon
 1 [ARC:10] Beacon of Unrest
 1 [RTR:110] Utvara Hellkite
 1 [ARC:96] Torrent of Souls
 1 [DDH:78] Swamp
 1 [NPH:68] Phyrexian Obliterator
+1 [LEG:157] Kobolds of Kher Keep
 1 [BFZ:265a] Mountain
 1 [BFZ:8] Endless One
 1 [DDH:70] Profane Command
 1 [CLASH:11] Whip of Erebos
 1 [CHK:126] Myojin of Night's Reach
-1 [2ED:286] Mountain
 1 [CHK:123] Kuro, Pitlord
 1 [DD3GVL:34] Ghost-Lit Stalker
 1 [JOU:89] Bearer of the Heavens
 1 [V12:13] Urborg, Tomb of Yawgmoth
 1 [SHM:290] Swamp
-1 [ZEN:260] Swamp
-1 [ZEN:262] Mountain
-1 [ISD:261] Mountain
+1 [ALL:80] Soldier of Fortune
 1 [EMN:102] Rise from the Grave
 1 [RTR:268] Mountain
+1 [FEM:43] Soul Exchange
 1 [DD3GVL:39] Phyrexian Rager
 1 [MBS:99] Blightsteel Colossus
 1 [SOM:174] Memnite
-1 [ICE:354] Swamp
 1 [CMD:75] Butcher of Malakir
 1 [FRF:104] Humble Defector
 1 [EMN:118] Bedlam Reveler
@@ -68,36 +70,33 @@ NAME:Olivia Reanimated for Victory -EDH
 1 [C14:24] Infernal Offering
 1 [EMN:93] Liliana, the Last Hope
 1 [M13:240] Swamp
-1 [LEG:219] Crimson Kobolds
 1 [DD3JVC:59] Mountain
 1 [TPR:260] Swamp
 1 [HOP:161] Mountain
 1 [TPR:264] Mountain
 1 [RAV:299] Mountain
 1 [8ED:345] Mountain
-1 [ALL:117] Soldier of Fortune
-1 [FEM:28] Soul Exchange
 1 [CNS:133] Victimize
 1 [9ED:305] Ornithopter
 1 [MED:166] Shield Sphere
 1 [EMN:86] Cryptbreaker
-1 [LEG:226] Kobolds of Kher Keep
-1 [ALL:12] Insidious Bookworms
+1 [5ED:438] Swamp
 1 [ARENA:35] Mountain
 1 [ARENA:34] Swamp
 1 [BOK:85] Stir the Grave
 1 [HOP:132] Cabal Coffers
-1 [LEG:220] Crookshank Kobolds
+1 [2ED:297] Mountain
 1 [PTK:172] Swamp
 1 [SOM:193] Platinum Emperion
-1 [ALL:107] Gorilla Shaman
 1 [10E:372] Swamp
 1 [M15:163] Soul of Shandalar
 1 [C15:334] Swamp
 1 [DDQ:55] Dread Return
 1 [BFZ:261b] Swamp
+1 [ALL:72a] Gorilla Shaman
 1 [SOI:99] Asylum Visitor
 1 [EXP:8] Blood Crypt
-1 [5ED:444] Swamp
 1 [ORI:110] Necromantic Summons
 SB: 1 [SOI:248] Olivia, Mobilized for War
+LAYOUT MAIN:(1,12)(CMC,false,43)|([ORI:229],[EXP:18],[USG:322],[EURO:5],[SOI:272],[M12:225],[ME3:224],[M14:244],[KLD:256],[VMA:291],[ARENA:77],[INV:330],[DDC:61],[DDC:60],[DDC:60],[VIS:152],[VIS:151],[DDH:78],[BFZ:265a],[BFZ:8],[2ED:297],[V12:13],[SHM:290],[RTR:268],[SOM:174],[ICE:373],[KTK:258],[M13:240],[LEG:139],[DD3JVC:59],[TPR:260],[HOP:161],[TPR:264],[RAV:299],[8ED:345],[9ED:305],[MED:166],[LEG:157],[ARENA:35],[ARENA:34],[HOP:132],[LEG:141],[PTK:172],[10E:372],[C15:334],[BFZ:261b],[EXP:8],[5ED:438])([SOI:168],[ARC:21],[DD3GVL:34],[ALL:80],[EMN:86],[ALL:51a],[BOK:85],[ALL:72a])([DDJ:48],[DGM:22],[VMA:104],[DDH:70],[FRF:104],[FEM:43],[SOI:99])([DD3GVL:39],[EMN:93],[CNS:133])([C15:120],[ARC:29],[NPH:68],[CLASH:11],[DDQ:55])([THS:102],[ARC:10],[ARC:96],[EMN:102],[C14:24],[ORI:110])([M15:231],[M15:163])([ARC:88],[AVR:162],[BOK:77],[CMD:75])([CMD:111],[APC:55],[ARC:23],[VMA:105],[DDG:47],[ARC:9],[THS:214],[ARC:99],[RTR:110],[CHK:126],[JOU:89],[EMN:118],[SOM:193])([CHK:123])([M10:208])([MBS:99])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,50)|([SOI:248])

@@ -1,98 +1,100 @@
 NAME:Skeleton Ship - EDH LoL
-1 [HOP:9] Fabricate
-1 [LRW:119] Hunter of Eyeblights
-1 [C13:328] Terramorphic Expanse
-1 [C14:233] Caged Sun
-1 [M15:75] Polymorphist's Jest
-1 [M10:91] Diabolic Tutor
-1 [EXP:7] Watery Grave
-1 [MM2:63] Tezzeret's Gambit
-1 [ROE:82] Recurring Insight
-1 [ISD:212] Evil Twin
-1 [ARN:13] Sorceress Queen
-1 [C15:130] Phyrexian Arena
-1 [SHM:65] Dusk Urchins
-1 [EXP:17] Polluted Delta
-1 [DDI:37] Soaring Seacliff
 1 [SOM:47] Thrummingbird
-1 [C14:275] Swiftfoot Boots
-1 [ZEN:261] Swamp
-1 [ZEN:260] Swamp
-1 [PLC:61] Serendib Sorcerer
-1 [C13:295] Homeward Path
-1 [MRD:245] Solemn Simulacrum
-1 [BFZ:240] Mortuary Mire
-1 [ARC:110] Lightning Greaves
-1 [C15:281] Command Tower
-1 [BFZ:249] Sunken Hollow
-1 [CMD:290] Temple of the False God
-1 [C15:283] Evolving Wilds
-1 [TSP:269] Academy Ruins
-1 [SOM:145] Contagion Engine
-1 [SOM:35] Inexorable Tide
-1 [M14:48] Colossal Whale
-1 [MBS:39] Black Sun's Zenith
-1 [M13:223] Drowned Catacomb
 1 [VIS:30] Desertion
-1 [MBS:36] Vedalken Anatomist
-1 [9ED:326] Underground River
-1 [SHM:70] Incremental Blight
-1 [ZEN:237] Island
-1 [C14:59] Arcane Lighthouse
-2 [ZEN:236] Island
-1 [POR:9] Cruel Tutor
-1 [C15:301] Reliquary Tower
-1 [RTR:67] Grave Betrayal
-1 [C13:310] Opal Palace
+1 [VMA:290] Bad River
+1 [C15:281] Command Tower
 1 [SHM:176] Sygg, River Cutthroat
-1 [DDF:63] Contagion Clasp
-1 [ZEN:82] Bloodchief Ascension
-1 [MIR:26] Harbinger of Night
+1 [V10:12] Sol Ring
+1 [C15:283] Evolving Wilds
+1 [SHM:58] Blowfly Infestation
+1 [ROE:82] Recurring Insight
+1 [SHM:252] Grim Poppet
+1 [ZEN:260] Swamp
+1 [C14:59] Arcane Lighthouse
+1 [ZEN:261] Swamp
 1 [10E:321] Doubling Cube
+1 [USG:329] Thran Quarry
+1 [CMD:239] Wrexial, the Risen Deep
+1 [TSP:135] Sudden Spoiling
+1 [M10:91] Diabolic Tutor
+1 [HOP:9] Fabricate
+1 [ARC:110] Lightning Greaves
+1 [EXP:17] Polluted Delta
+1 [C13:295] Homeward Path
+1 [MBS:39] Black Sun's Zenith
+1 [M15:75] Polymorphist's Jest
+1 [MRD:245] Solemn Simulacrum
+1 [MBS:36] Vedalken Anatomist
 1 [CHK:279] Minamo, School at Water's Edge
-3 [ZEN:240] Swamp
-1 [MM2:86] Midnight Banshee
+1 [SOM:173] Lux Cannon
+1 [SHM:43] Leech Bonder
+1 [SOM:78] Skinrender
+1 [SOM:35] Inexorable Tide
+1 [TSP:269] Academy Ruins
+1 [ZEN:82] Bloodchief Ascension
+1 [SHM:280] Sunken Ruins
+1 [DDM:36] Halimar Depths
+1 [MM2:63] Tezzeret's Gambit
+1 [9ED:326] Underground River
+1 [C14:233] Caged Sun
+1 [DDI:37] Soaring Seacliff
+1 [LRW:119] Hunter of Eyeblights
+1 [NPH:42] Phyrexian Metamorph
+1 [C14:275] Swiftfoot Boots
+2 [ZEN:236] Island
+1 [ZEN:237] Island
+1 [M13:87] Diabolic Revelation
+1 [RTR:67] Grave Betrayal
+1 [BNG:63] Champion of Stray Souls
+1 [THS:223] Nykthos, Shrine to Nyx
+1 [EVE:45] Soul Snuffers
+1 [ODY:319] Darkwater Catacombs
+1 [BFZ:249] Sunken Hollow
+1 [SHM:70] Incremental Blight
+1 [THS:225] Temple of Deceit
+1 [MBS:22] Corrupted Conscience
+1 [ME3:69] Grim Tutor
+1 [EMA:238] Dismal Backwater
+1 [PLC:61] Serendib Sorcerer
+1 [M13:223] Drowned Catacomb
 1 [ZEN:200] Eternity Vessel
+1 [C15:301] Reliquary Tower
+1 [MIR:128] Harbinger of Night
+3 [ZEN:240] Swamp
+1 [MM2:98] Spread the Sickness
+1 [M14:111] Rise of the Dark Realms
+1 [C13:310] Opal Palace
+1 [MRD:229] Power Conduit
+1 [MM2:58] Steady Progress
+1 [DDF:63] Contagion Clasp
+1 [CMD:290] Temple of the False God
+1 [M14:48] Colossal Whale
+1 [EVE:35] Crumbling Ashes
+1 [MBS:34] Treasure Mage
+1 [SOI:270] Choked Estuary
+1 [SHM:65] Dusk Urchins
+1 [SOM:57] Carnifex Demon
+1 [ARN:32] Sorceress Queen
+1 [C15:130] Phyrexian Arena
+1 [ZEN:254] Island
+1 [C13:328] Terramorphic Expanse
+1 [MM2:86] Midnight Banshee
+1 [M15:111] Paragon of Open Graves
 1 [MM2:88] Necroskitter
 1 [NPH:62] Glistening Oil
-1 [SHM:280] Sunken Ruins
 1 [NPH:63] Grim Affliction
-1 [MBS:34] Treasure Mage
-1 [MBS:25] Fuel for the Cause
-1 [THS:225] Temple of Deceit
-1 [THS:223] Nykthos, Shrine to Nyx
-1 [SOI:270] Choked Estuary
-1 [SHM:43] Leech Bonder
-1 [EVE:45] Soul Snuffers
-1 [USG:329] Thran Quarry
-1 [MRD:229] Power Conduit
-1 [ZEN:254] Island
-1 [M15:62] Jace, the Living Guildpact
-1 [EMA:238] Dismal Backwater
-1 [ME3:69] Grim Tutor
-1 [M13:87] Diabolic Revelation
-1 [M15:111] Paragon of Open Graves
-1 [CMD:239] Wrexial, the Risen Deep
-1 [MM2:98] Spread the Sickness
-1 [MBS:22] Corrupted Conscience
-1 [BNG:63] Champion of Stray Souls
-1 [V10:12] Sol Ring
-1 [SHM:252] Grim Poppet
-1 [SOM:57] Carnifex Demon
-1 [MM2:58] Steady Progress
 1 [ZEN:215] Jwar Isle Refuge
-1 [SOM:78] Skinrender
-1 [MM2:239] Dimir Aqueduct
-1 [SHM:58] Blowfly Infestation
-1 [EVE:35] Crumbling Ashes
-1 [SOM:226] Darkslick Shores
-1 [MRD:279] Blinkmoth Well
-1 [TSP:135] Sudden Spoiling
-1 [NPH:42] Phyrexian Metamorph
-1 [VMA:290] Bad River
 1 [ZEN:259] Swamp
-1 [M14:111] Rise of the Dark Realms
-1 [DDM:36] Halimar Depths
-1 [SOM:173] Lux Cannon
-1 [ODY:319] Darkwater Catacombs
+1 [M15:62] Jace, the Living Guildpact
+1 [EXP:7] Watery Grave
+1 [ISD:212] Evil Twin
+1 [SOM:226] Darkslick Shores
+1 [BFZ:240] Mortuary Mire
+1 [MBS:25] Fuel for the Cause
+1 [MRD:279] Blinkmoth Well
+1 [SOM:145] Contagion Engine
+1 [POR:87] Cruel Tutor
+1 [MM2:239] Dimir Aqueduct
 SB: 1 [ME2:197] Skeleton Ship
+LAYOUT MAIN:(1,9)(CMC,false,36)|([C13:328],[EXP:7],[EXP:17],[DDI:37],[ZEN:261],[ZEN:260],[C13:295],[BFZ:240],[C15:281],[BFZ:249],[CMD:290],[C15:283],[TSP:269],[M13:223],[9ED:326],[ZEN:237],[C14:59],[ZEN:236],[ZEN:236],[C15:301],[C13:310],[CHK:279],[ZEN:240],[ZEN:240],[ZEN:240],[SHM:280],[THS:225],[THS:223],[SOI:270],[USG:329],[ZEN:254],[EMA:238],[ZEN:215],[MM2:239],[SOM:226],[MRD:279],[VMA:290],[ZEN:259],[DDM:36],[ODY:319])([ZEN:82],[V10:12])([SOM:47],[C14:275],[ARC:110],[MBS:39],[SHM:176],[DDF:63],[10E:321],[NPH:62],[MRD:229],[EVE:35])([HOP:9],[M15:75],[ARN:32],[C15:130],[SHM:65],[PLC:61],[MBS:36],[POR:87],[MM2:88],[NPH:63],[MBS:34],[SHM:43],[ME3:69],[MM2:58],[SHM:58],[TSP:135])([M10:91],[MM2:63],[ISD:212],[MRD:245],[MIR:128],[MBS:25],[EVE:45],[M15:62],[M15:111],[SOM:78],[NPH:42],[SOM:173])([LRW:119],[SOM:35],[VIS:30],[SHM:70],[M13:87],[MM2:98],[MBS:22])([C14:233],[ROE:82],[SOM:145],[MM2:86],[ZEN:200],[CMD:239],[BNG:63],[SOM:57])([M14:48],[RTR:67],[SHM:252])([M14:111])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,43)|([ME2:197])

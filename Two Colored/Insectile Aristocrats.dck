@@ -16,6 +16,7 @@
 1 [M12:91] Devouring Swarm
 1 [ZEN:229] Verdant Catacombs
 1 [V09:12] Skullclamp
+1 [MIR:111] Carrion
 1 [SOI:236] Ulvenwald Mysteries
 1 [USG:123] Contamination
 1 [SOI:199] Crawling Sensation
@@ -33,6 +34,7 @@
 1 [CMD:72] Attrition
 1 [MM3:232] Cavern of Souls
 1 [C14:61] Myriad Landscape
+1 [FEM:79] Thelonite Monk
 1 [TSP:106] Endrek Sahr, Master Breeder
 1 [MOR:73] Pack's Disdain
 1 [M15:177] Hornet Nest
@@ -74,7 +76,6 @@
 1 [HOP:75] Living Hive
 1 [MOR:148] Mutavault
 1 [MMQ:267] Saber Ants
-1 [MIR:9] Carrion
 1 [DDS:58] Coat of Arms
 1 [KTK:239] Polluted Delta
 1 [RTR:120] Deadbridge Goliath
@@ -83,10 +84,9 @@
 1 [NPH:137] Hex Parasite
 1 [C16:106] Bane of the Living
 1 [DKA:156] Grim Backwoods
-1 [FEM:93] Thelonite Monk
 1 [KTK:230] Bloodstained Mire
 1 [ZEN:219] Marsh Flats
 1 [DKA:155] Evolving Wilds
 SB: 1 [C15:48] Mazirek, Kraul Death Priest
-LAYOUT MAIN:(1,9)(CMC,false,24)|([VMA:293],[BFZ:230],[BFZ:233],[KTK:230],[MM3:232],[C15:56],[C14:289],[V16:4],[DKA:155],[XLN:254],[ZEN:249],[ZEN:249],[ZEN:249],[ZEN:249],[ZEN:249],[ZEN:249],[ZEN:249],[ZEN:249],[DDG:35],[DKA:156],[ZEN:219],[OGW:174],[ZEN:220],[MOR:148],[C14:61],[RTR:243],[C17:56],[KTK:239],[BFZ:248],[EVE:179],[ZEN:240],[ZEN:240],[ZEN:240],[ZEN:240],[TSP:278],[10E:360],[XLN:258],[ZEN:229],[KTK:248],[KTK:249])([ORI:170],[NPH:137],[ROE:117],[ZEN:182],[V09:12],[C17:223],[SOI:234])([ONS:250],[MOR:73],[10E:302],[ZEN:114])([EMA:218],[CMD:72],[MIR:9],[MMQ:234],[USG:123],[SOI:199],[PLC:69],[AVR:173],[M12:91],[C13:75],[RTR:229],[C17:53],[M15:177],[ODY:254],[10E:162],[PCA:70],[INV:306],[SOI:236])([C16:106],[5DN:82],[DDJ:58],[RTR:120],[LGN:132],[MMQ:267],[ONS:288],[FEM:93])([MM2:139],[DDS:58],[JOU:65],[TSP:106],[DST:76],[DDE:31],[RAV:176])([DDJ:64],[M15:222],[MRD:126],[ONS:287],[SOI:235])([DDK:18],[GTC:121],[CMD:159],[C17:18],[C17:32],[ISD:194],[OGW:147])([EMN:3],[HOP:75],[CMD:174])
+LAYOUT MAIN:(1,9)(CMC,false,24)|([VMA:293],[BFZ:230],[BFZ:233],[KTK:230],[MM3:232],[C15:56],[C14:289],[V16:4],[DKA:155],[XLN:254],[ZEN:249],[ZEN:249],[ZEN:249],[ZEN:249],[ZEN:249],[ZEN:249],[ZEN:249],[ZEN:249],[DDG:35],[DKA:156],[ZEN:219],[OGW:174],[ZEN:220],[MOR:148],[C14:61],[RTR:243],[C17:56],[KTK:239],[BFZ:248],[EVE:179],[ZEN:240],[ZEN:240],[ZEN:240],[ZEN:240],[TSP:278],[10E:360],[XLN:258],[ZEN:229],[KTK:248],[KTK:249])([ORI:170],[NPH:137],[ROE:117],[ZEN:182],[V09:12],[C17:223],[SOI:234])([ONS:250],[MOR:73],[10E:302],[ZEN:114])([EMA:218],[CMD:72],[MMQ:234],[USG:123],[SOI:199],[PLC:69],[AVR:173],[M12:91],[C13:75],[RTR:229],[C17:53],[M15:177],[ODY:254],[10E:162],[PCA:70],[INV:306],[SOI:236],[MIR:111])([C16:106],[5DN:82],[DDJ:58],[RTR:120],[LGN:132],[MMQ:267],[ONS:288],[FEM:79])([MM2:139],[DDS:58],[JOU:65],[TSP:106],[DST:76],[DDE:31],[RAV:176])([DDJ:64],[M15:222],[MRD:126],[ONS:287],[SOI:235])([DDK:18],[GTC:121],[CMD:159],[C17:18],[C17:32],[ISD:194],[OGW:147])([EMN:3],[HOP:75],[CMD:174])
 LAYOUT SIDEBOARD:(1,1)(CMC,false,50)|([C15:48])

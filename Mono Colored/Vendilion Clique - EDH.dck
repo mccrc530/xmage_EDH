@@ -8,22 +8,23 @@
 1 [10E:66] Arcanis the Omnipotent
 1 [MM3:51] Spell Pierce
 1 [FUT:173] Tolaria West
+1 [FEM:18a] High Tide
 1 [VMA:72] Gush
+1 [TMP:306] Sapphire Medallion
 1 [MRD:245] Solemn Simulacrum
 1 [STH:30] Evacuation
 1 [CON:143] Reliquary Tower
 1 [TPR:46] Dream Halls
 1 [MRD:169] Extraplanar Lens
 1 [CSP:149] Scrying Sheets
+1 [HML:33] Merchant Scroll
 1 [V09:8] Mystical Tutor
 1 [ONS:321] Polluted Delta
 1 [ONS:322] Riptide Laboratory
-1 [TMP:340] Wasteland
 1 [RAV:60] Muddle the Mixture
 1 [EMA:223] Isochron Scepter
 1 [ULG:38] Palinchron
 26 [CSP:152] Snow-Covered Island
-1 [FEM:37] High Tide
 1 [EMA:44] Daze
 1 [TSP:269] Academy Ruins
 1 [AKH:65] Pull from Tomorrow
@@ -35,23 +36,23 @@
 1 [BOK:33] Disrupting Shoal
 1 [AVR:47] Deadeye Navigator
 1 [ISD:61] Laboratory Maniac
-1 [HML:42] Merchant Scroll
+1 [TMP:330] Wasteland
 1 [MBS:20] Blue Sun's Zenith
 1 [C15:55] Thought Vessel
 1 [DDF:70] Foil
 1 [EMA:232] Sensei's Divining Top
 1 [MBS:21] Consecrated Sphinx
-1 [TMP:296] Sapphire Medallion
-1 [LEA:55] Counterspell
+1 [LEA:54] Counterspell
 1 [AVR:81] Temporal Mastery
 1 [MM2:50] Mana Leak
 1 [C15:14] Mystic Confluence
 1 [2ED:51] Braingeyser
 1 [3ED:274] Sol Ring
 1 [MM3:35] Cyclonic Rift
+1 [DRK:117] Maze of Ith
 1 [USG:100] Stroke of Genius
 1 [GTC:34] Enter the Infinite
-1 [DRK:114] Maze of Ith
+1 [ATQ:82a] Strip Mine
 1 [NPH:37] Jin-Gitaxias, Core Augur
 1 [USG:76] Gilded Drake
 1 [USG:77] Great Whale
@@ -59,7 +60,6 @@
 1 [CMD:290] Temple of the False God
 1 [ME2:58] Personal Tutor
 1 [LEG:65] Mana Drain
-1 [ATQ:72] Strip Mine
 1 [EMA:60] Memory Lapse
 1 [LRW:79] Ponder
 1 [NPH:132] Caged Sun
@@ -73,5 +73,5 @@
 1 [5ED:76] Brainstorm
 1 [USG:88] Peregrine Drake
 SB: 1 [MM2:67] Vendilion Clique
-LAYOUT MAIN:(1,11)(CMC,false,43)|([TSP:48],[ONS:322],[CON:143],[FUT:173],[ATQ:72],[DRK:114],[TSP:269],[ONS:316],[EXP:25],[ONS:321],[EXP:22],[TMP:340],[C16:309],[CMD:290],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:149])([V09:8],[ME2:58],[EMA:232],[LEG:58],[MM3:51],[5ED:76],[LRW:79],[3ED:274],[FEM:37])([EMA:44],[EMA:60],[BOK:33],[LEA:55],[MM2:50],[MM3:35],[HML:42],[LEG:65],[MM3:50],[USG:76],[RAV:60],[2ED:51],[AKH:65],[TMP:296],[C15:55],[EMA:223])([AKH:42],[ISD:61],[AER:31],[MBS:20],[USG:100],[MRD:169])([MM2:43],[DDF:70],[MMA:47],[MRD:245])([EMA:49],[VMA:72],[TPR:46],[CHK:52],[USG:88],[C15:14],[STH:30],[TSP:255])([RAV:72],[10E:66],[EXO:40],[MBS:21],[AVR:47],[NPH:132])([CSP:29],[USG:77],[ULG:38],[AVR:81])([KTK:36])([M13:63],[NPH:37],[10E:118])([GTC:34])
+LAYOUT MAIN:(1,11)(CMC,false,43)|([TSP:48],[ONS:322],[CON:143],[FUT:173],[TSP:269],[ONS:316],[EXP:25],[ONS:321],[EXP:22],[C16:309],[CMD:290],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:149],[TMP:330],[DRK:117],[ATQ:82a])([V09:8],[ME2:58],[EMA:232],[LEG:58],[MM3:51],[5ED:76],[LRW:79],[3ED:274],[FEM:18a])([EMA:44],[EMA:60],[BOK:33],[MM2:50],[MM3:35],[LEG:65],[MM3:50],[USG:76],[RAV:60],[2ED:51],[AKH:65],[C15:55],[EMA:223],[HML:33],[LEA:54],[TMP:306])([AKH:42],[ISD:61],[AER:31],[MBS:20],[USG:100],[MRD:169])([MM2:43],[DDF:70],[MMA:47],[MRD:245])([EMA:49],[VMA:72],[TPR:46],[CHK:52],[USG:88],[C15:14],[STH:30],[TSP:255])([RAV:72],[10E:66],[EXO:40],[MBS:21],[AVR:47],[NPH:132])([CSP:29],[USG:77],[ULG:38],[AVR:81])([KTK:36])([M13:63],[NPH:37],[10E:118])([GTC:34])
 LAYOUT SIDEBOARD:(1,1)(COLOR,false,50)|([MM2:67])
