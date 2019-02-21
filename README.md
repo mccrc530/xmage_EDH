@@ -42,8 +42,8 @@
    - The top half is your search results which are produces when you query a seach
    - Bottom left is your mainboard, or the cards in your deck at the start of the game
    - Bottom right is your sideboard, or the cards that are not in your deck at the start of the game
-     - In EDH, this section is reserved for your commander
-     - In other formats (i.e. Modern, Standard) you can switch these cards into your deck after game 1
+      * In EDH, this section is reserved for your commander
+      * In other formats (i.e. Modern, Standard) you can switch these cards into your deck after game 1
 4. To search for the card, enter something into the textbox and click search
    - You may limit your search by color and card type by selecting and deselecting each in the top left
    - You may limit your search to specific sets, blocks, and formats by choosing one in the dropdown
@@ -76,28 +76,102 @@
    - Set a password (or don't if you feel like getting your dreams crushed by a random player)
    - Choose the format to play from the deck type drop down menu (EDH is "Varient Magic - Commander")
    - Choose the game type corresponding to the selected format and number of players
-     * If playing a free for all game type, make sure to select desired number of players
+      * If playing a free for all game type, make sure to select desired number of players
    - Set number of free mulligans
    - Set number of wins (Best of X)
+   - Set timer to desired length (2 hours for EDH is usually most appropriate)
    - Disable rollbacks if you and your group are experienced with playing magic and using Xmage/MTGO
    - Set skill level to serious
    - Enable/Disable planechase (superformat of magic, new to xmage, UAYOR)
    - Select the deck you want to be using with the file explorer
    - Make sure other players are set to human
    - Press OK when finished, then start once everyone else has joined your game
-3. If you're joining a game to play, find it in the top list (open games)
+3. If you're creating a round of sealed (limited and draft), 99% of the rules from above also apply
+   - When creating a game of sealed, click new tourney instead of new match
+   - When creating a game of sealed, pick each pack you wish to use (can be from different sets)   
+   - When creating a game of sealed, pick how many players will play per match by changing the seats number
+      * 2 players min, if more than 2 per match game will automatically make it best of one instead of two
+   - When creating a draft, you should probably add additional draftbots to have 8 players 
+4. If you're joining a game to play, find it in the top list (open games)
    - Enter the password 
    - Select the deck you want to be using with the file explorer
-4. Ingame instructions (Note: Xmage is rules enforced, meaning it will do almost everything correctly)
+   - If you're joining a draft, you will be directed to the draft table; pick cards by clicking on them
+   - If you're playing a sealed game, you will be directed to the deck editor to make your deck with
+      the cards from your packs you recieved (after drafting in the case of a draft league)
+   - If you're playing a sealed game and do not see your cards in the deck editor, make sure to pull down
+      the bar to divide it into 2 halfs (top is your pool of cards, bottom is your deck)
+5. Ingame instructions (Note: Xmage is rules enforced, meaning it will do almost everything correctly)
    - You may play lands by clicking on them in your hand
    - You may activate abilities of permanents by clicking on them (and selecting which one if multiple
      are available) (this includes tapping lands for mana)
    - You may cast spells by clicking on them and paying mana from your mana pool on the left
-     - Spells requiring other costs will prompt you to pay those seperately
+      * Spells requiring other costs will prompt you to pay those seperately
    - You may view other zones by clicking on their corresponding buttons next to the mana pool
    - You may select attacker during your declare attack step by clicking on your creatures
    - You may select blockers during others' declare blockers step by clicking on a creature you control
      then a creature that is attacking *you*
-   - You may automatically pass priority (skip) through phases and stacks with the skip buttons
-     - Use these to make the game go faster if you can't do shit during them anyways
-       - KYS if you hold priority with nothing to do
+   - You may automatically pass priority (skip) through phases and stacks with the skip buttons, 
+     Use these to make the game go faster if you can't do shit during them anyways
+      * Use skip stack (F10) if you don't want to do anything while something else is happening on the stack
+      * Use end turn (F5) to skip to the end of the turn
+      * Use your turn (F9) to skip past everything til your *next* turn
+      * Use prior end (F10) to skip to the end step before your *next* turn
+      * Use cancel skip (F3) to save your sorry ass from skipping over your opportunity to do stuff 
+      * If you hold priority with nothing to do, begone thot
+   - The game will prompt you to select targets for spells and players, which may be done 
+     by clicking the desired permanent, stack item, or player 
+   - Select the order that simultaneous and abilities by clicking on them in the desired order (FOLO)
+
+### Beginner's guide to EDH
+
+1. The distribution of cards in a typical, generic EDH follows this format
+   - 40% lands (basic, nonbasic mana producers, utility)
+   - 10% mana advantage (ramp, rituals, cost reduction, etc)
+   - 10% card advantage (draw, turors, recursion, etc.)
+   - 10% answers (spot removal, boardwipes, counterspells, etc.)
+   - 30% other (threats, gimmicks, commander, etc.)
+2. Before playing a game, make sure everyone's on a relatively even power level (~2 on the scale)
+   - 9-10 Competitive (designed to win consistently, will stomp lower teirs)
+      * Baral Polymorph, Vannifar Pod, Gitrog Dredge
+   - 7-8 Optimized (more efficient decks from previous teir, will probably win if left unchecked)
+      * Azami Labmaniac, Nekusar Wheels, Derevi Stax
+   - 5-6 Focused (plays many good cards with lots of synergy)
+      * Alesha-crats, Atraxa Superfriends, Kaalia Windmill-Slam-Big-Flyers
+   - 3-4 Casual (plays good cards, though overall deck is fairly weak overall)
+      * K&T Group-Hug, Xantcha Curses, Sapling Treefolk
+   - 1-2 Jank (plays many bad cards, deck is likely to get stomped by higher teirs)
+      * Oloro Men-In-Chairs, Ramos Lucky-Charms, Zur Persistant-Peitioners
+3. General Archetypes
+   - If you want to play aggro in EDH actually play balls-to-the-wall aggro, you're probably going
+     to lose if the table gets to the late game
+      * Have fewer cards in lands, mana advantage, and answers
+      * Mulligan to have a fast hand
+      * Have many early-game threats to snipe slower decks before they can construct laser cannons
+      * Have a handful of endgame threats to win (think overrun, mob rule, etc.)   
+   - If you want to play control, don't be an ass about it
+      * Have more card draw, mana advantage, and answers
+      * Mulligan to hit all your land drops and a future (card advantage)
+      * Play your answers as you need to, but play mana and card advantage as much as you can
+      * Have some game ending threats, everyone will hate you if you win over 40 turns with commander damage 
+   - Most decks in EDH fall into midrange, the inbetween of control and aggro
+      * See 1. for deck distribution
+      * Mulligan to hit all your land drops
+      * Play creatures to not die to aggro and to get aheaed of Control
+      * Save good removal for control threats and boardwipes for overwhelming boardstates
+   - Combos are good to stuff into most decks as alternate win conditions, but combo decks are another thing
+      * Have fewer lands and answers, have a crap ton of card advantage (especially tutors)
+      * Mulligan to win (¯\\_(ツ)_/¯)
+      * Play card advantage until you can win, maybe boardwipe to give yourself a couple extra turns
+      * Try and deploy all your combo pieces in 1 turn, otherwise be prepared to have your stuff blown up
+4. Politics
+   - Don't ever say you might win, unless everyone else is definitely dead
+   - Answer game-ending threats no matter what (think Avenger of Zendikar, Nicky B., Door to Nothingness)
+   - Don't answer non-game-ending threats if they aren't an issue for you and you don't care about others
+   - Make soft-allies and soft-enemies throughout the game in response to the boardstate, cards in hand, 
+      deck potentials, and previous interactions
+      * Try not to have these carry in from previous games, unless its Joe **amiright**
+   - If you try to deploy your endgame threats early, prepare to have them answered
+      * Try and wait until someone else has already moved onto this stage of the game so you don't get targeted
+   - Playing annoying and unfun cards will generally be annoying and unfun, especially commanders
+      * Take it from someone who has played many Barals and Perplexing Chimeras, you will piss people off
+   - If you're targeted, try your best to shift attention to someone else subtly or be archenemy; your choice
